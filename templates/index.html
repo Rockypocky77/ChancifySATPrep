@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAT Practice Tests</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #e8e8e8;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            font-size: 3em;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #00d9ff, #00ff88);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .subtitle {
+            text-align: center;
+            color: #888;
+            margin-bottom: 50px;
+            font-size: 1.2em;
+        }
+        .info-box {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 40px;
+            text-align: center;
+        }
+        .info-box h3 {
+            color: #00d9ff;
+            margin-bottom: 10px;
+        }
+        .info-box p {
+            color: #aaa;
+            line-height: 1.6;
+        }
+        .tests-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 20px;
+        }
+        .test-card {
+            background: rgba(255,255,255,0.08);
+            border: 2px solid rgba(255,255,255,0.1);
+            border-radius: 16px;
+            padding: 30px 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+        }
+        .test-card:hover {
+            transform: translateY(-8px);
+            border-color: #00d9ff;
+            box-shadow: 0 10px 40px rgba(0, 217, 255, 0.2);
+            background: rgba(0, 217, 255, 0.1);
+        }
+        .test-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #00d9ff;
+            margin-bottom: 8px;
+        }
+        .test-label {
+            color: #888;
+            font-size: 0.9em;
+        }
+        .empty-card {
+            opacity: 0.4;
+            pointer-events: none;
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-bottom: 40px;
+        }
+        .stat {
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #00ff88;
+        }
+        .stat-label {
+            color: #666;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 SAT Practice</h1>
+        <p class="subtitle">Timed practice tests with real SAT format</p>
+        
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-value">{{ tests|length }}</div>
+                <div class="stat-label">Tests Available</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">98</div>
+                <div class="stat-label">Questions Each</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">134</div>
+                <div class="stat-label">Minutes Total</div>
+            </div>
+        </div>
+        
+        <div class="info-box">
+            <h3>⏱️ Real SAT Timing</h3>
+            <p>Reading & Writing: 64 minutes (54 questions) • Math: 70 minutes (44 questions)<br>
+            Timer auto-submits when time runs out. One question at a time. Click to select answers.</p>
+        </div>
+        
+        <div class="tests-grid">
+            {% for test in tests %}
+            <a href="/test/{{ test.number }}" class="test-card">
+                <div class="test-number">{{ test.number }}</div>
+                <div class="test-label">Practice Test</div>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

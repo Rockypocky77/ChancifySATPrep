@@ -1,0 +1,163 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  name      String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  testAttempts TestAttempt[]
+
+  @@map("users")
+}
+
+model Test {
+  id                  String   @id @default(uuid())
+  title               String
+  description         String?
+  totalDurationMinutes Int?
+  isActive            Boolean  @default(true)
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  sections      TestSection[]
+  testAttempts  TestAttempt[]
+
+  @@map("tests")
+}
+
+model TestSection {
+  id              String   @id @default(uuid())
+  testId           String
+  name             String
+  orderIndex       Int
+  durationMinutes  Int
+  instructions     String?
+  questionCount    Int      @default(0)
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  test            Test            @relation(fields: [testId], references: [id], onDelete: Cascade)
+  questions       Question[]
+  passages        Passage[]
+  sectionAttempts SectionAttempt[]
+
+  @@unique([testId, orderIndex])
+  @@map("test_sections")
+}
+
+model Passage {
+  id          String   @id @default(uuid())
+  sectionId   String
+  title       String?
+  text        String   @db.Text
+  orderIndex  Int
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  section   TestSection @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  questions Question[]
+
+  @@map("passages")
+}
+
+model Question {
+  id            String   @id @default(uuid())
+  sectionId     String
+  passageId     String?
+  orderIndex    Int
+  questionType  String   // "single_choice" | "multiple_select" | "free_response"
+  prompt        String   @db.Text
+  choices       String?  // JSON array of {key: string, text: string}
+  correctAnswer String  // JSON or string
+  explanation   String?  @db.Text
+  points        Float    @default(1.0)
+  metadata      String?  // JSON
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  section        TestSection @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  passage        Passage?    @relation(fields: [passageId], references: [id], onDelete: SetNull)
+  answers        Answer[]
+
+  @@unique([sectionId, orderIndex])
+  @@map("questions")
+}
+
+model TestAttempt {
+  id                  String   @id @default(uuid())
+  userId              String
+  testId              String
+  status              String   @default("not_started") // "not_started" | "in_progress" | "completed" | "expired"
+  startedAt           DateTime?
+  completedAt         DateTime?
+  totalTimeSpentSeconds Int?   @default(0)
+  rawScore            Float?
+  maxScore            Float?
+  scaledScore         String?  // JSON
+  currentSectionId    String?
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  user            User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  test            Test              @relation(fields: [testId], references: [id], onDelete: Cascade)
+  sectionAttempts SectionAttempt[]
+  answers         Answer[]
+
+  @@map("test_attempts")
+}
+
+model SectionAttempt {
+  id                String   @id @default(uuid())
+  testAttemptId     String
+  sectionId         String
+  status            String   @default("not_started") // "not_started" | "in_progress" | "completed" | "expired"
+  startedAt         DateTime?
+  completedAt       DateTime?
+  timeSpentSeconds  Int?     @default(0)
+  remainingSeconds  Int?
+  rawScore          Float?
+  maxScore          Float?
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  testAttempt TestAttempt @relation(fields: [testAttemptId], references: [id], onDelete: Cascade)
+  section    TestSection @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  answers    Answer[]
+
+  @@unique([testAttemptId, sectionId])
+  @@map("section_attempts")
+}
+
+model Answer {
+  id                String   @id @default(uuid())
+  testAttemptId     String
+  sectionAttemptId String
+  questionId        String
+  selectedAnswer    String   // JSON or string
+  isCorrect         Boolean?
+  pointsEarned      Float?
+  timeSpentSeconds  Int?
+  flagged           Boolean  @default(false)
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  testAttempt    TestAttempt    @relation(fields: [testAttemptId], references: [id], onDelete: Cascade)
+  sectionAttempt SectionAttempt @relation(fields: [sectionAttemptId], references: [id], onDelete: Cascade)
+  question       Question       @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  @@unique([testAttemptId, questionId])
+  @@map("answers")
+}
+
