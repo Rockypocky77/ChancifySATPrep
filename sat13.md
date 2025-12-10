@@ -34,16 +34,16 @@ By midnight, the volcano still leaned slightly to the left, and the title wasn't
 The passage primarily focuses on
 
 
-A) the rules and prizes of a school science fair and competition guidelines.
+A) the regulatory structures, award systems, and procedural requirements that govern school science fair competitions and establish evaluation criteria.
 
 
-B) the dangers of working with household chemicals and safety hazards.
+B) the potential risks and safety concerns associated with using common household substances in scientific experiments and the importance of proper handling protocols.
 
 
-C) a student's frustration with losing a competition and disappointment.
+C) a student's emotional response to competitive failure and the psychological impact of not achieving expected outcomes in academic competitions.
 
 
-D) an older sibling learning to support a younger sibling's independence.
+D) an older sibling's evolving understanding of how to provide meaningful support while respecting a younger sibling's autonomy and allowing them to develop their own capabilities.
 
 
 Which choice provides the best evidence for the answer to the previous question?
@@ -64,61 +64,61 @@ D) "For the first time, I wondered when my job had stopped being 'win the scienc
 The phrase "Her words buzzed under my skin like static" (paragraph 6) mainly suggests that the narrator
 
 
-A) experienced a sudden allergic reaction.
+A) encountered an unexpected physiological response consistent with an allergic or dermatological reaction to environmental stimuli.
 
 
-B) felt mildly amused by Lena's comment.
+B) found Lena's statement mildly entertaining and responded with lighthearted amusement rather than serious consideration.
 
 
-C) was unsettled and bothered by what Lena said.
+C) experienced emotional discomfort and psychological disturbance in response to Lena's words, feeling unsettled by the implications of her comment.
 
 
-D) immediately forgot the conversation.
+D) quickly dismissed the exchange from memory, failing to retain any significant recollection of the conversation's content or meaning.
 
 
 Why does the narrator decide to "push [the] chair back" and stop adjusting the board?
 
 
-A) The project is already perfect and needs no changes.
+A) The display board has achieved optimal quality and requires no further modifications or improvements to meet competition standards.
 
 
-B) The narrator realizes Lena needs to take ownership of her project.
+B) The narrator recognizes that Lena must develop agency and responsibility for her own work rather than relying on external intervention and correction.
 
 
-C) The science fair rules forbid help from family members.
+C) Competition regulations explicitly prohibit assistance from family members and require that all work be completed independently by the student participant.
 
 
-D) The narrator becomes too tired to keep working.
+D) Physical exhaustion and fatigue prevent the narrator from continuing to provide assistance or make further contributions to the project.
 
 
 What can be reasonably inferred about the narrator's earlier science fair experiences?
 
 
-A) The narrator always worked with a partner.
+A) The narrator consistently collaborated with partners on all previous projects and never worked independently on competition entries.
 
 
-B) The narrator is used to being praised for winning.
+B) The narrator has become accustomed to receiving recognition and positive feedback for achieving competitive success and winning awards.
 
 
-C) The narrator has never completed a project on time.
+C) The narrator has a history of failing to meet project deadlines and has never successfully completed a science fair entry within the required timeframe.
 
 
-D) The narrator dislikes science and prefers art.
+D) The narrator lacks genuine interest in scientific subjects and would prefer to engage with artistic disciplines instead of scientific inquiry.
 
 
 The overall tone of the passage is best described as
 
 
-A) sarcastic and dismissive.
+A) characterized by ironic mockery and contemptuous disregard for the events and people described.
 
 
-B) angry and confrontational.
+B) marked by hostility and aggressive opposition, expressing strong negative emotions toward the situation or characters.
 
 
-C) confused and fearful.
+C) reflecting uncertainty and anxiety, conveying a sense of bewilderment and apprehension about unfolding events.
 
 
-D) thoughtful and quietly affectionate.
+D) contemplative and reflective, with underlying warmth and care expressed subtly rather than overtly, suggesting deep consideration of relationships and growth.
 
 
 Questions 7–12: Social Science Passage
