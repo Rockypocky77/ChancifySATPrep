@@ -37,46 +37,46 @@ On the walk home, the cool air felt less like an ending and more like a held bre
 The passage primarily explores the narrator's experience of
 
 
-A) strategies for winning basketball games and competitive tactics
+A) tactical approaches and strategic methods for achieving victory in basketball competitions and outperforming opponents.
 
 
-B) the narrator's emotional experience facing an important transition
+B) the psychological and emotional complexity of confronting a significant life change that marks the end of one phase and the beginning of another.
 
 
-C) conflict between the narrator and Coach Ramirez and interpersonal tensions
+C) interpersonal friction and relationship difficulties between the narrator and Coach Ramirez that create tension and disagreement.
 
 
-D) the history of the state championship and tournament records
+D) the historical background and competitive records associated with state championship tournaments and their evolution over time.
 
 
 The description of the ball as carrying "years of early mornings, scraped knees… and then the quiet" suggests
 
 
-A) the ball is too old to use and requires replacement
+A) the basketball has deteriorated beyond functional use and must be replaced with new equipment.
 
 
-B) the narrator wants to quit basketball and abandon the sport
+B) the narrator desires to permanently discontinue basketball participation and completely withdraw from athletic activities.
 
 
-C) basketball is tied to personal memories, including the father's illness
+C) basketball is deeply connected to personal history and emotional experiences, including memories related to the father's declining health and absence.
 
 
-D) the narrator prefers practicing alone and avoiding team interactions
+D) the narrator finds greater satisfaction in individual practice sessions and actively avoids collaborative team environments.
 
 
 Coach's statement, "You just have to be yourself," is dangerous to the narrator because
 
 
-A) the narrator doesn't like basketball
+A) the narrator lacks genuine interest in basketball and participates without enthusiasm or commitment.
 
 
-B) the narrator associates "being themself" with overthinking and pressure
+B) the narrator connects authentic self-expression with excessive analysis, self-criticism, and the psychological weight of high expectations.
 
 
-C) the narrator wants to change positions
+C) the narrator desires to switch to a different playing position that better matches their skills and preferences.
 
 
-D) the narrator plans to ignore instructions
+D) the narrator intends to disregard coaching directives and operate independently without following guidance.
 
 
 The free throw that "fell through the net with a whisper" functions as

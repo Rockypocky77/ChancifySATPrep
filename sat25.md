@@ -40,31 +40,31 @@ I looked at the piano, suddenly aware that it carried more than chipped varnish 
 The passage primarily explores the narrator's experience of
 
 
-A) the narrator's preparation for a concert and performance readiness
+A) the narrator's process of preparing for a musical performance and developing the skills necessary for public presentation.
 
 
-B) how a neglected piano reveals family history and possibility
+B) how an overlooked musical instrument becomes a vehicle for discovering family narratives and recognizing unrealized potential in both past and present generations.
 
 
-C) the process of buying used furniture and furniture acquisition
+C) the practical steps involved in purchasing secondhand furniture and the logistical considerations of acquiring household items.
 
 
-D) the narrator's conflict with a music teacher and instructional disagreements
+D) interpersonal conflict between the narrator and a music instructor regarding teaching methods and disagreements about pedagogical approaches.
 
 
 Dad's statement "Someone in this house is going to learn" suggests he
 
 
-A) wants to sell the piano for profit and financial gain
+A) intends to resell the piano at a higher price to generate income and improve the family's financial situation.
 
 
-B) expects the narrator to take lessons and change family patterns
+B) anticipates that the narrator will engage in musical education and potentially alter established family traditions or expectations.
 
 
-C) regrets purchasing the piano and wishes to return it
+C) feels remorse about acquiring the piano and desires to reverse the transaction and return the instrument to its previous owner.
 
 
-D) plans to become a professional pianist and pursue music career
+D) aspires to develop professional-level piano skills and pursue a career as a performing musician.
 
 
 The description of the bench as "wobbled" most directly emphasizes

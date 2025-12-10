@@ -31,16 +31,16 @@ Out front, the house lights dimmed. I took a breath and spoke into the mic. "Sta
 The passage primarily focuses on the narrator
 
 
-A) resenting their exclusion from an acting role and feeling rejected.
+A) experiencing bitterness and resentment about being denied acting opportunities and feeling personally rejected by the theatrical community.
 
 
-B) realizing that a behind-the-scenes role suits them.
+B) coming to understand that working in a supporting, non-performance capacity aligns better with their skills and provides greater fulfillment.
 
 
-C) deciding to quit theater entirely and abandon all dramatic pursuits.
+C) making a definitive decision to completely withdraw from theatrical activities and permanently discontinue involvement in dramatic arts.
 
 
-D) criticizing the director's casting choices and questioning decisions.
+D) expressing disapproval of the director's selection processes and challenging the validity of casting decisions made during productions.
 
 
 Which sentence best supports the answer to Question 1?
@@ -61,16 +61,16 @@ D) "The audience would never know I'd been there at all."
 The description of the prop table ("chipped teacup… bouquet that had to fall exactly on cue") mainly emphasizes the narrator's
 
 
-A) care for small details and attention to precision.
+A) meticulous attention to specific elements and commitment to exact timing and placement requirements.
 
 
-B) dislike of props and stage objects.
+B) negative feelings toward props and stage objects, viewing them as unnecessary complications.
 
 
-C) fear of breaking fragile items.
+C) apprehension about damaging delicate items and concerns about potential breakage during performances.
 
 
-D) confusion about the show.
+D) lack of understanding about the production's requirements and uncertainty about show logistics.
 
 
 The director's comments about the narrator's voice and blocking suggest that the narrator

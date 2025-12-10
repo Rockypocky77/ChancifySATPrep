@@ -34,46 +34,46 @@ I look at the dark metal and think: maybe that's the problem. I want something t
 The passage primarily explores the narrator's experience of
 
 
-A) the history of night markets in the narrator's city and cultural traditions
+A) the historical development and cultural significance of night markets within the narrator's urban environment and their role in preserving traditions.
 
 
-B) how the narrator's brother learns business skills and entrepreneurial development
+B) the educational process through which the narrator's brother acquires commercial knowledge and develops skills related to business operations and entrepreneurship.
 
 
-C) the narrator's conflict between family obligations and personal ambitions
+C) the psychological tension between fulfilling expected family responsibilities and pursuing individual goals and aspirations that may diverge from generational expectations.
 
 
-D) difficulties of studying physics and academic challenges
+D) the academic obstacles and learning difficulties encountered while studying physics and mastering complex scientific concepts.
 
 
 The father's comment "One day this will all be yours" (final paragraph) primarily reveals his
 
 
-A) desire to retire as soon as possible and leave work behind
+A) eagerness to retire immediately and disengage from professional responsibilities as quickly as possible.
 
 
-B) assumption that the narrator will eventually run the stall
+B) expectation and presumption that the narrator will ultimately assume control and management of the family business operation.
 
 
-C) doubt about the narrator's academic ability and intellectual capacity
+C) skepticism about the narrator's intellectual capabilities and concerns regarding their potential for academic success.
 
 
-D) plan to sell the business and exit the market
+D) intention to liquidate the business assets and withdraw from market participation entirely.
 
 
 The acceptance email "burned quietly in my pocket" (paragraph 3) most strongly suggests the narrator feels
 
 
-A) ashamed of being admitted
+A) embarrassed and regretful about receiving admission, viewing it as something that should be concealed.
 
 
-B) eager to show customers
+B) enthusiastic about sharing the news with customers and eager to display the achievement publicly.
 
 
-C) secretly excited but anxious about telling the family
+C) privately thrilled about the opportunity but apprehensive about how family members will respond to news that may challenge their expectations.
 
 
-D) indifferent to the news
+D) completely unaffected by the information, showing no emotional response or investment in the outcome.
 
 
 The detail about teachers doing a "double take" when they see the narrator studying at the stall primarily shows

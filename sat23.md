@@ -34,16 +34,16 @@ I looked at the violin case, then at the sketchbook lying open on my desk, the l
 The passage primarily explores the narrator's
 
 
-A) sudden decision to quit all artistic activities and abandon creativity.
+A) abrupt choice to completely discontinue all creative pursuits and permanently abandon artistic expression in any form.
 
 
-B) attempt to hide an injury from family and friends and conceal the truth.
+B) effort to keep an injury secret from family members and friends, actively concealing information about their physical condition.
 
 
-C) shift from pursuing perfection in music to finding authenticity in drawing.
+C) transition from striving for flawless technical execution in musical performance to discovering genuine self-expression through visual art creation.
 
 
-D) success in joining a prestigious youth orchestra and musical achievement.
+D) accomplishment of gaining membership in a highly selective youth orchestra and achieving recognition for musical talent and skill.
 
 
 Which sentence best supports the answer to Question 1?
@@ -64,16 +64,16 @@ D) "For the first time, I wasn't trying to be perfect; I was trying to be honest
 The narrator's attitude toward the wrist injury is best described as
 
 
-A) purely resentful, because it ends the narrator's musical ambitions and career goals.
+A) exclusively negative and bitter, viewing it as a definitive termination of musical aspirations and professional objectives.
 
 
-B) conflicted, seeing it as both a setback and an unexpected release from pressure.
+B) ambivalent and complex, perceiving it simultaneously as a frustrating obstacle and an unanticipated liberation from intense performance expectations.
 
 
-C) indifferent, because the narrator never cared about violin.
+C) apathetic and unconcerned, because the narrator lacked genuine investment in violin playing from the beginning.
 
 
-D) amused, treating the injury as a joke.
+D) lighthearted and humorous, treating the injury as an amusing incident without serious consequences.
 
 
 In context, the phrase "pulled the emergency brake" (paragraph 3) most nearly suggests that
