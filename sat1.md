@@ -343,11 +343,11 @@ B) is valued
 C) are being valued
 D) have been valued
 
-When a student has questions, you should ask the instructor for clarification.
+When students have questions, they should ask the instructor for clarification.
 
 A) NO CHANGE
-B) they should ask the instructor for clarification.
-C) students should ask the instructor for clarification.
+B) you should ask the instructor for clarification.
+C) a student should ask the instructor for clarification.
 D) one should ask the instructor for clarification.
 
 Neither the principal nor the teachers was aware of the schedule change.
@@ -396,7 +396,7 @@ Biologists conducted an investigation to determine whether temperature affects m
 
 A) NO CHANGE
 B) Biologists conducted an investigation to determine if temperature affects metabolism.
-C) Biologists conducted research to find out whether temperature affects metabolism.
+C) Biologists conducted research to find out if temperature affects metabolism.
 D) Biologists made an investigation into whether temperature affects metabolism.
 
 Despite the fact that tutoring is expensive, it significantly improves student performance.
@@ -495,35 +495,35 @@ B) 5
 C) 6
 D) 12
 
-A linear function f(x) passes through the points (0, -3) and (4, 9). Another linear function g(x) = 2x - 5 intersects f(x) at exactly one point. If f(x) = mx + b, where m is the slope and b is the y-intercept, and the x-coordinate of the intersection point is 2, what is the value of m?
+A linear function f(x) = mx + b passes through the points (0, -3) and (4, 9). Another linear function g(x) = 2x intersects f(x) at exactly one point. If the x-coordinate of the intersection point is 3, what is the value of m?
 
 A) -3
 B) 3
 C) 5/2
 D) 7/2
 
-The sum of 6 times a number and 11 equals the sum of 3 times that number and 26. If this number is also equal to one-third of another number y, what is the value of y?
+The sum of 6 times a number and 11 equals the sum of 3 times that number and 26. If this number is also equal to one-third of another number y, and y is also equal to 5 more than twice a third number z, what is the value of z?
 
-A) 5
-B) 15
-C) 37/3
-D) 45
+A) 2
+B) 5
+C) 10
+D) 15
 
-A system of equations is given: 5x + 4y = 40 and 3x - y = 7. If (a, b) is the solution to this system, and a third equation ax + by = 41 also passes through the point (a, b), what is the value of a?
+A system of equations is given: 5x + 4y = 40 and 3x - y = 7. If (a, b) is the solution to this system, and a third equation cx + dy = 25 also passes through (a, b) where c = a and d = b, what is the value of c + d?
 
 A) 4
-B) 5
-C) 68/17
+B) 9
+C) 13
 D) 17
 
-If 4x + 3y = 35 and x = 5, what is y?
+If 4x + 3y = 35 and x = 5, and y also satisfies the equation 2y - k = 5 where k is a constant, what is the value of k?
 
 A) 5
-B) 11
+B) 10
 C) 15
-D) 35/3
+D) 20
 
-Two linear functions are defined: f(x) = 4x - 1 and g(x) = -x + 14. If these functions intersect at point P with coordinates (p, q), what is the value of q?
+Two linear functions are defined: f(x) = 4x - 1 and g(x) = -x + 14. If these functions intersect at point P with coordinates (p, q), and a third function h(x) = ax + b also passes through P where a = p and b = q, what is the value of h(0)?
 
 A) 3
 B) 11
@@ -568,14 +568,14 @@ B) 20
 C) -9
 D) -20
 
-If 5^(3x) = 125 and 2^(x+1) = 16, and x > 0, what is the value of x?
+If 5^x = 125 and 2^(x+1) = 16, and x > 0, what is the value of x?
 
 A) 1
 B) 3
 C) 1/3
 D) 5/3
 
-If 2^(x+3) = 32 and 3^(x-1) = 9, what is the value of x?
+If 2^(x+3) = 64 and 3^(x-1) = 9, what is the value of x that satisfies both equations?
 
 A) 2
 B) 3
@@ -660,8 +660,8 @@ A bag contains 9 red, 6 blue, and 5 green marbles. If two marbles are selected a
 
 A) 1/4
 B) 1/19
-C) 25/400
-D) 5/20
+C) 1/16
+D) 1/4
 
 
 Geometry / Right Triangles / Circles / Similarity
@@ -677,7 +677,7 @@ In a right triangle, the hypotenuse is 26 and one leg is 10. What is the length 
 
 A) 16
 B) 24
-C) √576
+C) 576
 D) 36
 
 Two similar triangles have a side-length ratio of 2:5. If the smaller triangle's perimeter is 36, what is the perimeter of the larger triangle?
@@ -837,7 +837,7 @@ B) 84.5
 C) 86.5
 D) 88.5
 
-98. A rational equation is given: (x + 3)/(x - 2) = (2x - 1)/(x + 1). Which of the following could be a solution?
+98. A rational equation is given: (x + 3)/(x - 2) = 2(x + 3)/(x + 1), where x ≠ -3, x ≠ 2, and x ≠ -1. After solving and checking for extraneous solutions, which of the following is a valid solution?
 
 A) x = -1
 B) x = 2
@@ -883,14 +883,14 @@ Reading & Writing (1–54)
 33. B
 34. B
 35. B
-36. D
+36. A
 37. B
 38. B
 39. C
 40. C
 41. B
 42. C
-43. B
+43. A
 44. C
 45. B
 46. B
@@ -907,47 +907,44 @@ Math (55–98)
 55. D
 56. B
 57. B
-58. A
-59. A
-60. A
-61. B
+58. B
+59. B
+60. B
+61. A
 62. A
 63. A
 64. A
 65. B
 66. A
 67. B
-68. A
+68. B
 69. B
 70. B
-71. B
-72. C
-73. A
-74. B
-75. C
-76. B
-77. A
+71. C
+72. B
+73. C
+74. C
+75. B
+76. C
+77. C
 78. B
-79. A
+79. B
 80. B
-81. A
+81. C
 82. A
 83. B
-84. B
+84. A
 85. B
-86. B
+86. A
 87. B
-88. B
-89. A
-90. B
-91. B
-92. A
+88. A
+89. B
+90. A
+91. A
+92. B
 93. B
 94. B
-95. A
-96. D
-97. B
-98. C
-96. D
-97. B
+95. B
+96. B
+97. A
 98. C
