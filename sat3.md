@@ -445,21 +445,21 @@ My advisor Dr. Singh who specializes in genetics has published extensively.
 A) NO CHANGE
 B) My advisor, Dr. Singh, who specializes in genetics,
 C) My advisor Dr. Singh, who specializes in genetics,
-D) My advisor, Dr. Singh who specializes in genetics
+D) My advisor, which specializes in genetics,
 
 The team of engineers have designed an innovative solution.
 
 A) NO CHANGE
 B) has designed
 C) are designing
-D) were designing
+D) have been designing
 
 Evidence from clinical trials suggest the treatment is effective.
 
 A) NO CHANGE
 B) suggests
 C) are suggesting
-D) have suggested
+D) have been suggesting
 
 Mammals are warm-blooded animals. [5] dolphins maintain constant body temperature.
 
@@ -473,50 +473,50 @@ Although funding was secured. Construction delays pushed back the completion dat
 A) NO CHANGE
 B) secured, construction
 C) secured; construction
-D) secured construction
+D) secured, and construction
 
 Having analyzed the situation thoroughly, recommendations were issued by the committee.
 
 A) NO CHANGE
 B) the committee issued recommendations
-C) recommendations by the committee were issued
+C) the committee's recommendations were issued
 D) issuing recommendations occurred
 
 
 SECTION 2: MATH (Questions 55–98)
 
-A company's production cost C (in thousands) is modeled by C = 5(x + 8), where x is units produced. If revenue R = 3(x - 2) and the company breaks even when C = R, what is the value of x?
+A company's production cost C (in thousands) is modeled by C = 5(x + 8), where x is units produced. The company's revenue R is modeled by R = 3(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 46, what is the value of x?
 
 A) -23
-B) 23
-C) -46/2
-D) 46
+B) -11.5
+C) 0
+D) 23
 
-In a chemistry experiment, the concentration must be at least 27 units. If concentration = 6x - 9, where x is the amount added, what is the smallest integer value of x?
+In a chemistry experiment, the concentration must be at least 27 units. If concentration = 6x - 9, where x is the amount added, and x must also satisfy x ≤ 10, what is the smallest integer value of x?
 
 A) 3
 B) 6
-C) 18
-D) 36
+C) 7
+D) 10
 
 A linear function f(x) = mx + b passes through (0, -5) and (4, 7). What is the value of m?
 
 A) 3
 B) -3
-C) 1/3
+C) 1/2
 D) 12
 
 If 7x + 12 = 4x + 30, what is x?
 
 A) 6
 B) -6
-C) 42/11
+C) 42/7
 D) 18
 
 If 6x + 5y = 53 and 4x - y = 11, what is x?
 
 A) 4
-B) 108/26
+B) 5
 C) -4
 D) 11
 
@@ -532,14 +532,14 @@ Two linear functions f(x) = 4x + 3 and g(x) = -2x + 21 intersect at point P. If 
 A) 3
 B) 15
 C) 21
-D) 18
+D) 27
 
 If 5a + 3b = 41 and a + b = 11, what is b?
 
 A) 7
 B) 4
 C) -7
-D) 41
+D) 11
 
 A quadratic equation models the height h (in meters) of a projectile: h = x² + 5x - 36, where x is time in seconds. At what times does the projectile reach ground level (h = 0)?
 

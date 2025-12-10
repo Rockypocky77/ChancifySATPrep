@@ -452,13 +452,13 @@ D) Nevertheless,
 A) NO CHANGE
 B) Because the samples were contaminated, the results of the experiment were inconclusive.
 C) Because the samples were contaminated; the results of the experiment were inconclusive.
-D) Because the samples were contaminated the results of the experiment were inconclusive.
+D) Because the samples were contaminated, and the results of the experiment were inconclusive.
 
 54. Having monitored the data for several months, the scientists published their findings in a peer-reviewed journal.
 
 A) NO CHANGE
 B) The scientists published their findings after monitoring the data for several months.
-C) Their findings in a peer-reviewed journal were published by the scientists.
+C) The scientists' findings in a peer-reviewed journal were published.
 D) Publishing their findings in a peer-reviewed journal occurred.
 
 
@@ -466,30 +466,30 @@ SECTION 2: MATH (Questions 55–98)
 
 55. If 9(x + 4) = 7(x - 6), what is the value of x?
 
-A) -45
-B) -39
-C) -21
-D) -9
+A) -39
+B) -21
+C) -9
+D) 39
 
-56. A delivery service charges according to the equation C = 5x - 11, where C is the cost in dollars and x is the number of packages. What is the minimum number of packages that must be shipped for the cost to be at least $39?
+56. A delivery service charges according to the equation C = 5x - 11, where C is the cost in dollars and x is the number of packages. If the cost must be at least $39, and x must also satisfy x ≤ 15, what is the minimum number of packages that must be shipped?
 
 A) 9
 B) 10
-C) 4.5
-D) 45
+C) 11
+D) 15
 
 57. A line passes through points (2, -5) and (8, 13). What is the slope of the line?
 
-A) 4
-B) -4
-C) 20/8
+A) 3
+B) -3
+C) 18/6
 D) 20
 
 58. If 6x + 19 = 2x + 63, what is the value of x?
 
-A) 8
+A) 11
 B) 9
-C) 4.67
+C) 44/4
 D) 81
 
 59. A system of equations is given below:
@@ -498,7 +498,7 @@ D) 81
 What is the value of x?
 
 A) 7
-B) 68/23
+B) 6
 C) -7
 D) 43
 
@@ -507,21 +507,21 @@ D) 43
 A) 13
 B) 26
 C) -13
-D) 134
+D) 6
 
 61. The lines y = 4x + 1 and y = -2x + 25 intersect at a point. What is the y-coordinate of the intersection point?
 
 A) 4
 B) 17
 C) 25
-D) -17
+D) 29
 
 62. If 8a + 3b = 87 and a + b = 14, what is the value of b?
 
 A) 5
 B) 9
 C) -5
-D) 25
+D) 14
 
 63. What are the solutions to x² + 10x - 24 = 0?
 

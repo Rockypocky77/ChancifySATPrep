@@ -459,7 +459,7 @@ Reviewing applications thoroughly, decisions were announced by the selection com
 
 A) NO CHANGE
 B) the selection committee announced decisions
-C) decisions by the selection committee were announced
+C) the selection committee's decisions were announced
 D) announcing decisions occurred
 
 My mentor Professor Garcia who directs the lab has received numerous grants.
@@ -467,21 +467,21 @@ My mentor Professor Garcia who directs the lab has received numerous grants.
 A) NO CHANGE
 B) My mentor, Professor Garcia, who directs the lab,
 C) My mentor Professor Garcia, who directs the lab,
-D) My mentor, Professor Garcia who directs the lab
+D) My mentor, which directs the lab,
 
 The panel of judges have selected finalists for the competition.
 
 A) NO CHANGE
 B) has selected
 C) are selecting
-D) were selecting
+D) have been selecting
 
 Evidence from recent studies indicate a link between diet and inflammation.
 
 A) NO CHANGE
 B) indicates
 C) are indicating
-D) have indicated
+D) have been indicating
 
 Predators maintain ecosystem balance. [5] wolves regulate deer populations in Yellowstone.
 
@@ -495,50 +495,50 @@ Despite comprehensive environmental assessments. The project faced regulatory de
 A) NO CHANGE
 B) assessments, the project
 C) assessments; the project
-D) assessments the project
+D) assessments, and the project
 
 Having analyzed all data thoroughly, conclusions were published by the research team.
 
 A) NO CHANGE
 B) the research team published conclusions
-C) conclusions by the research team were published
+C) the research team's conclusions were published
 D) publishing conclusions occurred
 
 
 SECTION 2: MATH (Questions 55–98)
 
-A company's cost C = 10(x + 6) and revenue R = 7(x - 3), where x is units. If C = R, what is x?
+A company's cost C = 10(x + 6) and revenue R = 7(x - 3), where x is units. The company also has a fixed overhead cost k. If C = R + k and k = 81, what is x?
 
 A) -27
-B) 27
-C) -81/3
-D) 81
+B) -13.5
+C) 0
+D) 27
 
-If 9x - 18 ≥ 45, what is the smallest integer value of x that satisfies this inequality?
+If 9x - 18 ≥ 45, and x must also satisfy x ≤ 10, what is the smallest integer value of x that satisfies both requirements?
 
 A) 7
 B) 8
-C) 3
-D) 63
+C) 9
+D) 10
 
 A linear function f(x) = mx + b passes through (0, 4) and (7, 25). What is m?
 
 A) 3
 B) -3
-C) 21/29
+C) 21/7
 D) 29
 
 If 10x + 17 = 7x + 38, what is x?
 
 A) 7
 B) -7
-C) 55/17
+C) 55/3
 D) 21
 
 If 9x + 4y = 73 and 6x - y = 23, what is x?
 
 A) 5
-B) 165/33
+B) 6
 C) -5
 D) 96
 
@@ -547,21 +547,21 @@ If 8x + 6y = 82 and x = 11, what is y?
 A) -1
 B) 1
 C) -6
-D) 170
+D) 11
 
 Lines y = 6x - 5 and y = -4x + 25 intersect. What is the y-coordinate?
 
 A) 3
 B) 13
 C) 25
-D) -13
+D) 30
 
 If 10a + 6b = 104 and a + b = 14, what is b?
 
 A) 9
 B) 5
 C) -9
-D) 36
+D) 14
 
 If x² + 10x - 56 = 0, what are the solutions?
 

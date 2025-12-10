@@ -321,9 +321,9 @@ SECTION 2: WRITING & LANGUAGE (Questions 31–54)
 Paleontologists discovered dinosaur fossils in Montana, these specimens provide evidence of feathered species.
 
 A) NO CHANGE
-B) Paleontologists discovered dinosaur fossils in Montana and these specimens provide evidence of feathered species.
+B) Paleontologists discovered dinosaur fossils in Montana, and these specimens provide evidence of feathered species.
 C) Paleontologists discovered dinosaur fossils in Montana; these specimens provide evidence of feathered species.
-D) Paleontologists discovered dinosaur fossils in Montana: these specimens provide evidence of feathered species.
+D) Paleontologists discovered dinosaur fossils in Montana which these specimens provide evidence of feathered species.
 
 Leonardo da Vinci who painted the Mona Lisa also designed flying machines and studied anatomy.
 
@@ -489,24 +489,24 @@ D) Having completed all requirements successfully, successful graduation occurre
 
 SECTION 2: MATH (Questions 55–98)
 
-A manufacturing company's production cost C (in thousands) is modeled by C = 6(x + 7), where x is the number of units produced. If the revenue R is modeled by R = 3(x - 4) and the company breaks even when C = R, what is the value of x?
+A manufacturing company's production cost C (in thousands) is modeled by C = 6(x + 7), where x is the number of units produced. The company's revenue R is modeled by R = 3(x - 4) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 54, what is the value of x?
 
 A) -18
-B) -54/3
-C) 18
-D) 54
+B) -6
+C) 0
+D) 18
 
-In a physics experiment, the force F (in newtons) must be at least 30. If F = 7x - 12, where x is the applied voltage, what is the smallest integer value of x that satisfies this requirement?
+In a physics experiment, the force F (in newtons) must be at least 30. If F = 7x - 12, where x is the applied voltage, and x must also satisfy x ≤ 10, what is the smallest integer value of x that satisfies both requirements?
 
-A) 2.57
+A) 4
 B) 6
 C) 7
-D) 42
+D) 10
 
 A linear function f(x) = mx + b passes through the points (-3, 5) and (5, 21). What is the value of m, the slope of the line?
 
 A) 2
-B) 13/4
+B) 3
 C) -2
 D) 8
 
@@ -514,13 +514,13 @@ If 8x + 15 = 5x + 36, what is x?
 
 A) 7
 B) 17
-C) 21/13
+C) 51/13
 D) -7
 
 If 7x + 3y = 60 and 4x - y = 18, what is x?
 
 A) 6
-B) 114/19
+B) 5
 C) 18
 D) -6
 
@@ -534,8 +534,8 @@ D) -7
 Two linear functions are defined: f(x) = 5x + 2 and g(x) = -3x + 34. If these functions intersect at point P with coordinates (p, q), what is the value of p?
 
 A) 4
-B) 22
-C) 16
+B) 5
+C) 22
 D) -4
 
 If 4a + 5b = 54 and a + b = 12, what is a?
@@ -543,7 +543,7 @@ If 4a + 5b = 54 and a + b = 12, what is a?
 A) 6
 B) 7
 C) -6
-D) 48
+D) 54
 
 A quadratic equation models the height h (in meters) of a projectile: h = x² + 3x - 40, where x is time in seconds. At what times does the projectile reach ground level (h = 0)?
 
@@ -578,14 +578,14 @@ If 4^(2x) = 256, what is x?
 A) 2
 B) 4
 C) 8
-D) 64
+D) 16
 
 If 3^(x-1) = 81, what is x?
 
 A) 4
 B) 5
 C) 27
-D) 82
+D) 80
 
 A bacterial culture triples in size every 6 hours. If the initial population is 200 bacteria, and P(h) represents the population after h hours, which of the following correctly models P(h)?
 
@@ -857,7 +857,7 @@ Reading & Writing (Questions 1–54)
 54. B
 
 Math (Questions 55–98)
-55. A
+55. C
 56. B
 57. A
 58. A

@@ -446,14 +446,14 @@ The committee have reviewed all proposals before making recommendations.
 A) NO CHANGE
 B) has reviewed
 C) are reviewing
-D) were reviewing
+D) have been reviewing
 
 Data from recent surveys indicate growing support for renewable energy.
 
 A) NO CHANGE
 B) indicates
 C) are indicating
-D) have indicated
+D) have been indicating
 
 Whales exhibit complex behaviors. [5] humpback whales create intricate songs.
 
@@ -467,50 +467,50 @@ Although the technology shows promise. More research is needed before implementa
 A) NO CHANGE
 B) promise, more
 C) promise; more
-D) promise more
+D) promise, and more
 
 Having evaluated all options thoroughly, recommendations were provided by the consultants.
 
 A) NO CHANGE
 B) the consultants provided recommendations
-C) recommendations by the consultants were provided
+C) the consultants' recommendations were provided
 D) providing recommendations occurred
 
 
 SECTION 2: MATH (Questions 55–98)
 
-A company's cost C = 8(x + 3) and revenue R = 5(x - 6), where x is units. If C = R, what is x?
+A company's cost C = 8(x + 3) and revenue R = 5(x - 6), where x is units. The company also has a fixed overhead cost k. If C = R + k and k = 54, what is x?
 
 A) -18
-B) -16
-C) -14
-D) -12
+B) -9
+C) 0
+D) 18
 
-If 4x - 7 ≥ 21, what is the smallest integer value of x?
+If 4x - 7 ≥ 21, and x must also satisfy x ≤ 10, what is the smallest integer value of x that satisfies both requirements?
 
 A) 6
 B) 7
-C) 3
-D) 54
+C) 8
+D) 10
 
 A line passes through points (0, 5) and (3, 17). What is the slope?
 
 A) 4
 B) -4
-C) 22/3
+C) 12/3
 D) 12
 
 If 8x + 13 = 5x + 34, what is x?
 
 A) 7
 B) -7
-C) 47/13
+C) 47/3
 D) 21
 
 If 4x + 5y = 49 and 2x - y = 7, what is x?
 
 A) 6
-B) 84/14
+B) 7
 C) -6
 D) 56
 
@@ -519,21 +519,21 @@ If 7x + 2y = 50 and x = 6, what is y?
 A) 4
 B) 8
 C) -4
-D) 92
+D) 6
 
 Lines y = 3x + 2 and y = -2x + 27 intersect. What is the y-coordinate of intersection?
 
 A) 5
 B) 17
 C) 27
-D) -17
+D) 29
 
 If 5a + 2b = 27 and a + b = 9, what is b?
 
 A) 6
 B) 3
 C) -6
-D) 18
+D) 9
 
 If x² + 6x - 27 = 0, what are the solutions?
 

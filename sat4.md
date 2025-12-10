@@ -463,21 +463,21 @@ My supervisor Dr. Thompson who manages the department has extensive industry exp
 A) NO CHANGE
 B) My supervisor, Dr. Thompson, who manages the department, has extensive industry experience.
 C) My supervisor Dr. Thompson, who manages the department, has extensive industry experience.
-D) My supervisor, Dr. Thompson who manages the department has extensive industry experience.
+D) My supervisor, which manages the department, has extensive industry experience.
 
 The committee of experts have recommended significant policy changes.
 
 A) NO CHANGE
 B) The committee of experts has recommended significant policy changes.
 C) The committee of experts are recommending significant policy changes.
-D) The committee of experts were recommending significant policy changes.
+D) The committee of experts have been recommending significant policy changes.
 
 Research from multiple institutions suggest a connection between exercise and cognitive health.
 
 A) NO CHANGE
 B) Research from multiple institutions suggests a connection between exercise and cognitive health.
 C) Research from multiple institutions are suggesting a connection between exercise and cognitive health.
-D) Research from multiple institutions have suggested a connection between exercise and cognitive health.
+D) Research from multiple institutions have been suggesting a connection between exercise and cognitive health.
 
 Reptiles are cold-blooded organisms. [5] lizards regulate temperature through external heat sources.
 
@@ -491,57 +491,57 @@ Despite extensive market research. The product launch failed to meet expectation
 A) NO CHANGE
 B) Despite extensive market research, the product launch failed to meet expectations.
 C) Despite extensive market research; the product launch failed to meet expectations.
-D) Despite extensive market research the product launch failed to meet expectations.
+D) Despite extensive market research, and the product launch failed to meet expectations.
 
 Having evaluated all proposals carefully, recommendations were made by the review panel.
 
 A) NO CHANGE
 B) Having evaluated all proposals carefully, the review panel made recommendations.
-C) Having evaluated all proposals carefully, recommendations by the review panel were made.
+C) Having evaluated all proposals carefully, the review panel's recommendations were made.
 D) Having evaluated all proposals carefully, making of recommendations occurred.
 
 
 SECTION 2: MATH (Questions 55–98)
 
-A company's cost C = 9(x + 4) and revenue R = 6(x - 5), where x is units produced. If C = R, what is x?
+A company's cost C = 9(x + 4) and revenue R = 6(x - 5), where x is units produced. The company also has a fixed overhead cost k. If C = R + k and k = 66, what is x?
 
 A) -22
-B) 22
-C) -66/3
-D) 66
+B) -11
+C) 0
+D) 22
 
-If 8x - 15 ≥ 33, what is the smallest integer value of x that satisfies this inequality?
+If 8x - 15 ≥ 33, and x must also satisfy x ≤ 10, what is the smallest integer value of x that satisfies both requirements?
 
 A) 6
 B) 7
-C) 2.25
-D) 48
+C) 8
+D) 10
 
 A linear function f(x) = mx + b passes through (0, -7) and (5, 8). What is the value of m?
 
 A) 3
 B) -3
-C) 1/5
+C) 1/3
 D) 15
 
 If 9x + 13 = 6x + 34, what is x?
 
 A) 7
 B) -7
-C) 47/15
+C) 47/3
 D) 21
 
 If 8x + 3y = 49 and 5x - y = 22, what is x?
 
 A) 5
-B) 115/23
+B) 6
 C) -5
 D) 71
 
 If 7x + 4y = 59 and x = 9, what is y?
 
 A) -1
-B) 4
+B) 1
 C) -4
 D) 122
 
@@ -550,14 +550,14 @@ Two linear functions f(x) = 5x - 3 and g(x) = -3x + 21 intersect at point P. If 
 A) 3
 B) 12
 C) 21
-D) -12
+D) 27
 
 If 9a + 5b = 85 and a + b = 13, what is b?
 
 A) 8
 B) 5
 C) -8
-D) 32
+D) 13
 
 If x² + 8x - 48 = 0, what are the solutions?
 

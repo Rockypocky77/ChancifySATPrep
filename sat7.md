@@ -442,23 +442,23 @@ D) Receiving acceptance letters occurred, having submitted applications early.
 49. My colleague Dr. Thompson who researches climate science has published extensively.
 
 A) NO CHANGE
-B) My colleague Dr. Thompson, who researches climate science, has published extensively.
-C) My colleague Dr. Thompson, who researches climate science has published extensively.
-D) My colleague, Dr. Thompson who researches climate science, has published extensively.
+B) My colleague, Dr. Thompson, who researches climate science, has published extensively.
+C) My colleague Dr. Thompson, who researches climate science, has published extensively.
+D) My colleague, which researches climate science, has published extensively.
 
 50. The faculty has debated curriculum changes for several months.
 
 A) NO CHANGE
 B) have debated
 C) are debating
-D) were debating
+D) have been debating
 
 51. Research from leading universities support the new educational approach.
 
 A) NO CHANGE
 B) supports
 C) are supporting
-D) have supported
+D) have been supporting
 
 52. Forests provide crucial ecosystem services. _______ the Amazon rainforest produces 20% of Earth's oxygen.
 
@@ -472,13 +472,13 @@ D) Nevertheless,
 A) NO CHANGE
 B) Despite showing initial promise, the drug failed clinical trials.
 C) Despite showing initial promise; the drug failed clinical trials.
-D) Despite showing initial promise the drug failed clinical trials.
+D) Despite showing initial promise, and the drug failed clinical trials.
 
 54. After analyzing market trends thoroughly, strategic recommendations were made by the analysts.
 
 A) NO CHANGE
 B) After analyzing market trends thoroughly, the analysts made strategic recommendations.
-C) Strategic recommendations by analysts were made after analyzing market trends thoroughly.
+C) The analysts' strategic recommendations were made after analyzing market trends thoroughly.
 D) Making strategic recommendations occurred after analyzing market trends thoroughly.
 
 
@@ -491,25 +491,25 @@ B) -11
 C) -10
 D) -9
 
-56. A company's profit P, in thousands of dollars, is modeled by P = 3x - 5, where x represents units sold in hundreds. If the profit is at least $19,000, what is the minimum number of units (in hundreds) the company must sell?
+56. A company's profit P, in thousands of dollars, is modeled by P = 3x - 5, where x represents units sold in hundreds. If the profit is at least $19,000, and x must also satisfy x ≤ 10, what is the minimum number of units (in hundreds) the company must sell?
 
 A) 8
-B) 4.67
-C) 14
-D) 57
+B) 9
+C) 10
+D) 14
 
 57. A line passes through points (0, -4) and (5, 16). What is the slope of this line?
 
 A) 4
 B) -4
-C) 12/5
+C) 20/5
 D) 20
 
 58. If 9x + 17 = 6x + 38, what is x?
 
 A) 7
 B) -7
-C) 55/15
+C) 55/3
 D) 21
 
 59. A system of equations is shown below:
@@ -518,7 +518,7 @@ D) 21
 What is the value of x?
 
 A) 6
-B) 58/41
+B) 5
 C) -6
 D) 32
 
@@ -527,21 +527,21 @@ D) 32
 A) 5
 B) 25
 C) -5
-D) 109
+D) 7
 
 61. The lines y = 5x - 3 and y = -3x + 29 intersect at a point. What is the y-coordinate of the intersection point?
 
 A) 4
 B) 17
 C) 29
-D) -17
+D) 32
 
 62. If 7a + 3b = 50 and a + b = 10, what is the value of b?
 
 A) 5
 B) 10
 C) -5
-D) 20
+D) 10
 
 63. What are the solutions to x² + 8x - 48 = 0?
 

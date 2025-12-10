@@ -312,36 +312,36 @@ Scientists discovered deep-sea vents, these ecosystems support extremophile bact
 
 A) NO CHANGE
 B) Scientists discovered deep-sea vents; these ecosystems support extremophile bacteria.
-C) Scientists discovered deep-sea vents: these ecosystems supporting extremophile bacteria.
+C) Scientists discovered deep-sea vents, and these ecosystems support extremophile bacteria.
 D) Scientists discovered deep-sea vents which these ecosystems support extremophile bacteria.
 
 Mozart who composed over 600 works died at age 35.
 
 A) NO CHANGE
 B) Mozart, who composed over 600 works, died at age 35.
-C) Mozart, who composed over 600 works died at age 35.
+C) Mozart who composed over 600 works, died at age 35.
 D) Mozart, which composed over 600 works, died at age 35.
 
 Although the forecast predicted rain. The outdoor ceremony proceeded as planned.
 
 A) NO CHANGE
 B) Although the forecast predicted rain, the outdoor ceremony proceeded as planned.
-C) Although, the forecast predicted rain, the outdoor ceremony proceeded as planned.
-D) The outdoor ceremony proceeded as planned; although the forecast predicted rain.
+C) Although the forecast predicted rain; the outdoor ceremony proceeded as planned.
+D) The outdoor ceremony proceeded as planned, although the forecast predicted rain.
 
 Damaged in the storm, workers repaired the roof quickly.
 
 A) NO CHANGE
 B) Damaged in the storm, the roof was repaired quickly by workers.
-C) Damaged in the storm, quick repairs to the roof occurred.
+C) Damaged in the storm, the roof was quickly repaired by workers.
 D) The workers, damaged in the storm, repaired the roof quickly.
 
 The collection of rare coins are valued at over one million dollars.
 
 A) NO CHANGE
 B) is valued
-C) have been valued
-D) were valued
+C) are being valued
+D) have been valued
 
 When a student has questions, you should ask the instructor for clarification.
 
@@ -354,8 +354,8 @@ Neither the principal nor the teachers was aware of the schedule change.
 
 A) NO CHANGE
 B) were aware
-C) is aware
-D) has been aware
+C) are aware
+D) have been aware
 
 The drought lasted six months. [1] crop yields declined by 40%.
 
@@ -390,13 +390,13 @@ The reason why plants need sunlight is because of photosynthesis requirements.
 A) NO CHANGE
 B) The reason plants need sunlight is due to photosynthesis requirements.
 C) Plants need sunlight because of photosynthesis requirements.
-D) Why plants need sunlight is because of photosynthesis.
+D) The reason why plants need sunlight is due to photosynthesis requirements.
 
 Biologists conducted an investigation to determine whether temperature affects metabolism.
 
 A) NO CHANGE
-B) Biologists investigated whether temperature affects metabolism.
-C) Biologists conducted research to find out if temperature affects metabolism.
+B) Biologists conducted an investigation to determine if temperature affects metabolism.
+C) Biologists conducted research to find out whether temperature affects metabolism.
 D) Biologists made an investigation into whether temperature affects metabolism.
 
 Despite the fact that tutoring is expensive, it significantly improves student performance.
@@ -404,34 +404,34 @@ Despite the fact that tutoring is expensive, it significantly improves student p
 A) NO CHANGE
 B) In spite of the fact that tutoring is expensive, it significantly improves student performance.
 C) Although tutoring is expensive, it significantly improves student performance.
-D) Regardless of tutoring is expensive, it significantly improves student performance.
+D) Despite tutoring being expensive, it significantly improves student performance.
 
 The new curriculum has caused the improvement of test scores by 15%.
 
 A) NO CHANGE
 B) has improved test scores by 15%.
-C) improved test scores up by 15%.
+C) has caused test scores to improve by 15%.
 D) has been improving test scores by 15%.
 
 The designer created a logo that uses bold colors for the startup company.
 
 A) NO CHANGE
-B) The designer created a logo using bold colors for the startup.
-C) For the startup, the designer created a logo that uses bold colors.
-D) The designer created a logo for the startup that uses bold colors company-wide.
+B) The designer created a logo using bold colors for the startup company.
+C) For the startup company, the designer created a logo that uses bold colors.
+D) The designer created a logo for the startup company that uses bold colors.
 
 Hurricanes can devastate coastal regions, they generate winds exceeding 150 mph.
 
 A) NO CHANGE
 B) Hurricanes can devastate coastal regions, generating winds exceeding 150 mph.
 C) Hurricanes can devastate coastal regions because they generate winds exceeding 150 mph.
-D) Hurricanes, which can devastate coastal regions, and they generate winds exceeding 150 mph.
+D) Hurricanes, which can devastate coastal regions, generate winds exceeding 150 mph.
 
 Finishing the report early, confidence was high about the presentation.
 
 A) NO CHANGE
 B) Finishing the report early, I felt confident about the presentation.
-C) Finishing the report early, confidence about the presentation was high.
+C) Having finished the report early, confidence was high about the presentation.
 D) Finishing the report early, feeling confident about the presentation occurred.
 
 My neighbor Dr. Chen who teaches at the university has won several awards.
@@ -439,21 +439,21 @@ My neighbor Dr. Chen who teaches at the university has won several awards.
 A) NO CHANGE
 B) My neighbor, Dr. Chen, who teaches at the university, has won several awards.
 C) My neighbor Dr. Chen, who teaches at the university, has won several awards.
-D) My neighbor, Dr. Chen who teaches at the university has won several awards.
+D) My neighbor, Dr. Chen who teaches at the university, has won several awards.
 
 The jury have deliberated for two days without reaching a verdict.
 
 A) NO CHANGE
 B) has deliberated
 C) are deliberating
-D) were deliberating
+D) have been deliberating
 
 Evidence from multiple experiments suggest a link between diet and longevity.
 
 A) NO CHANGE
 B) suggests
 C) are suggesting
-D) have suggested
+D) have been suggesting
 
 Birds migrate seasonally. [5] Arctic terns travel about 44,000 miles annually.
 
@@ -467,13 +467,13 @@ Despite comprehensive safety testing. The product was recalled due to defects.
 A) NO CHANGE
 B) Despite comprehensive safety testing, the product was recalled due to defects.
 C) Despite comprehensive safety testing; the product was recalled due to defects.
-D) Despite comprehensive safety testing the product. Was recalled due to defects.
+D) Despite comprehensive safety testing the product was recalled due to defects.
 
 Having reviewed all applications carefully, decisions were announced by the committee.
 
 A) NO CHANGE
 B) Having reviewed all applications carefully, the committee announced decisions.
-C) Having reviewed all applications carefully, decisions by the committee were announced.
+C) Having reviewed all applications carefully, the committee's decisions were announced.
 D) Having reviewed all applications carefully, announcement of decisions occurred.
 
 
@@ -481,61 +481,61 @@ SECTION 2: MATH (Questions 55–98)
 
 Algebra / Linear / Systems / Functions
 
-A company's revenue R (in thousands of dollars) is modeled by R = 7(x + 5), where x represents the number of years since 2020. If the company's expenses E are modeled by E = 4(x + 2) and the company breaks even when R = E, what is the value of x?
+A company's revenue R (in thousands of dollars) is modeled by R = 7(x + 5), where x represents the number of years since 2020. The company's expenses E are modeled by E = 4(x + 2) + k, where k is a fixed overhead cost. If the company breaks even when R = E and k = 27, what is the value of x?
 
 A) -9
-B) -3
-C) 3
-D) 9
+B) -6
+C) -3
+D) 0
 
-In a chemistry experiment, the concentration of a solution must be at least 17 units. If the concentration is given by 5x - 8, where x is the amount of solute added, what is the smallest integer value of x that satisfies this requirement?
+In a chemistry experiment, the concentration of a solution must be at least 17 units. The concentration is given by 5x - 8, where x is the amount of solute added in grams. However, due to experimental constraints, x must also satisfy x ≤ 12. What is the smallest integer value of x that satisfies both requirements?
 
 A) 4
 B) 5
 C) 6
-D) 25
+D) 12
 
-A linear function f(x) passes through the points (0, -3) and (4, 9). If f(x) = mx + b, where m is the slope and b is the y-intercept, what is the value of m?
+A linear function f(x) passes through the points (0, -3) and (4, 9). Another linear function g(x) = 2x - 5 intersects f(x) at exactly one point. If f(x) = mx + b, where m is the slope and b is the y-intercept, and the x-coordinate of the intersection point is 2, what is the value of m?
 
 A) -3
 B) 3
-C) 3/2
-D) 6
+C) 5/2
+D) 7/2
 
-The sum of 6 times a number and 11 equals the sum of 3 times that number and 26. What is the number?
+The sum of 6 times a number and 11 equals the sum of 3 times that number and 26. If this number is also equal to one-third of another number y, what is the value of y?
 
 A) 5
-B) 37/9
-C) 12.33
-D) -5
+B) 15
+C) 37/3
+D) 45
 
-A system of equations is given: 5x + 4y = 40 and 3x - y = 7. If (a, b) is the solution to this system, what is the value of a?
+A system of equations is given: 5x + 4y = 40 and 3x - y = 7. If (a, b) is the solution to this system, and a third equation ax + by = 41 also passes through the point (a, b), what is the value of a?
 
 A) 4
 B) 5
 C) 68/17
-D) 12
+D) 17
 
 If 4x + 3y = 35 and x = 5, what is y?
 
 A) 5
 B) 11
-C) 55/3
-D) 15
+C) 15
+D) 35/3
 
-Two linear functions are defined: f(x) = 4x - 1 and g(x) = -x + 14. If these functions intersect at point P, and P has coordinates (p, q), what is the value of q?
+Two linear functions are defined: f(x) = 4x - 1 and g(x) = -x + 14. If these functions intersect at point P with coordinates (p, q), what is the value of q?
 
 A) 3
 B) 11
 C) 13
 D) 17
 
-If 6a + 3b = 45 and a + b = 10, what is b?
+If 6a + 3b = 45 and a + b = 10, what is the value of b?
 
 A) 5
-B) 15
+B) 7
 C) -5
-D) 10
+D) 15
 
 
 Quadratics / Exponentials / Functions
@@ -547,12 +547,12 @@ B) x = 8 or x = -4
 C) x = -4 or x = 8
 D) x = 4 or x = 8
 
-If (x - 7)² = 36, what are the possible values of x?
+If (x - 7)² = 36 and x satisfies the additional constraint that |x - 5| < 10, what are the possible values of x?
 
 A) 1 and 13
-B) -1 and -13
-C) 1 and -13
-D) -1 and 13
+B) 1 only
+C) 13 only
+D) -1 and 19
 
 A quadratic function is given in vertex form: y = (x + 3)² - 5. What are the coordinates of the vertex of this parabola?
 
@@ -568,19 +568,19 @@ B) 20
 C) -9
 D) -20
 
-If 5^(3x) = 125 and x > 0, what is the value of x?
+If 5^(3x) = 125 and 2^(x+1) = 16, and x > 0, what is the value of x?
 
 A) 1
 B) 3
 C) 1/3
-D) 9
+D) 5/3
 
-If 2^(x+3) = 32, what is x?
+If 2^(x+3) = 32 and 3^(x-1) = 9, what is the value of x?
 
 A) 2
-B) 5
-C) 8
-D) 29
+B) 3
+C) 4
+D) 5
 
 A bacterial culture quadruples in size every 2 hours. If the initial population is 50 bacteria, and P(h) represents the population after h hours, which of the following correctly models P(h)?
 
@@ -602,16 +602,16 @@ PSDA – Percents, Ratios, Data, Probability
 An architect creates a blueprint where 1 inch on the drawing represents 12 feet in the actual building. If a rectangular room is drawn as 5 inches by 7 inches on the blueprint, what is the actual length (in feet) of the longer side of the room?
 
 A) 7 feet
-B) 19 feet
-C) 60 feet
-D) 84 feet
+B) 60 feet
+C) 84 feet
+D) 420 feet
 
 A smartphone originally priced at $720 goes on sale with a 25% discount. After the discount is applied, an additional 5% tax is added to the sale price. What is the final price, including tax?
 
-A) $540
-B) $567
-C) $576
-D) $756
+A) $540.00
+B) $567.00
+C) $576.00
+D) $756.00
 
 Forty-five percent of a number is 108. What is the number?
 
@@ -869,7 +869,7 @@ Reading & Writing (1–54)
 54. B
 
 Math (55–98)
-55. A
+55. D
 56. B
 57. B
 58. A
@@ -881,29 +881,29 @@ Math (55–98)
 64. A
 65. B
 66. A
-67. A
-68. B
+67. B
+68. A
 69. B
-70. D
+70. B
 71. B
 72. C
-73. B
-74. A
+73. A
+74. B
 75. C
 76. B
-77. C
+77. A
 78. B
 79. A
 80. B
 81. A
-82. B
+82. A
 83. B
-84. A
+84. B
 85. B
-86. A
-87. A
+86. B
+87. B
 88. B
-89. B
+89. A
 90. B
 91. B
 92. A

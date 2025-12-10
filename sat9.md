@@ -438,23 +438,23 @@ D) Announcing decisions occurred having reviewed all applications carefully.
 49. My advisor Professor Kim who specializes in bioethics helped me refine my research question.
 
 A) NO CHANGE
-B) My advisor, Professor Kim who specializes in bioethics, helped me refine my research question.
+B) My advisor, Professor Kim, who specializes in bioethics, helped me refine my research question.
 C) My advisor Professor Kim, who specializes in bioethics, helped me refine my research question.
-D) My advisor, Professor Kim, who specializes in bioethics, helped me refine my research question.
+D) My advisor, which specializes in bioethics, helped me refine my research question.
 
 50. The panel has evaluated each proposal carefully and will announce finalists tomorrow.
 
 A) NO CHANGE
 B) have evaluated
 C) are evaluating
-D) were evaluating
+D) have been evaluating
 
 51. Recent evidence from clinical trials suggest that the new treatment is effective.
 
 A) NO CHANGE
 B) Recent evidence from clinical trials suggests that the new treatment is effective.
 C) Recent evidence from clinical trials are suggesting that the new treatment is effective.
-D) Recent evidence from clinical trials have suggested that the new treatment is effective.
+D) Recent evidence from clinical trials have been suggesting that the new treatment is effective.
 
 52. Amphibians are sensitive indicators of environmental change. _______ frog populations often decline when wetlands are polluted.
 
@@ -468,13 +468,13 @@ D) Nevertheless,
 A) NO CHANGE
 B) Although the preliminary data looked promising, researchers cautioned against drawing firm conclusions.
 C) Although the preliminary data looked promising; researchers cautioned against drawing firm conclusions.
-D) Although the preliminary data looked promising researchers cautioned against drawing firm conclusions.
+D) Although the preliminary data looked promising, and researchers cautioned against drawing firm conclusions.
 
 54. After comparing several marketing strategies, final recommendations were issued by the consultant.
 
 A) NO CHANGE
 B) After comparing several marketing strategies, the consultant issued final recommendations.
-C) Final recommendations by the consultant were issued after comparing several marketing strategies.
+C) The consultant's final recommendations were issued after comparing several marketing strategies.
 D) Issuing final recommendations occurred after comparing several marketing strategies.
 
 
@@ -482,30 +482,30 @@ SECTION 2: MATH (Questions 55–98)
 
 55. If 7(x + 4) = 4(x - 11), what is the value of x?
 
-A) -26
-B) -24
-C) -22
-D) -20
+A) -24
+B) -22
+C) -20
+D) 24
 
-56. If 5x - 9 ≥ 31, what is the smallest integer value of x?
+56. If 5x - 9 ≥ 31, and x must also satisfy x ≤ 12, what is the smallest integer value of x that satisfies both requirements?
 
 A) 8
 B) 9
-C) 4.4
-D) 40
+C) 10
+D) 12
 
 57. A line passes through points (0, -3) and (4, 13). What is the slope of this line?
 
 A) 4
 B) -4
-C) 10/4
+C) 16/4
 D) 16
 
 58. If 12x + 5 = 7x + 40, what is the value of x?
 
 A) 7
 B) -7
-C) 45/19
+C) 35/5
 D) 35
 
 59. A system of equations is given below:
@@ -514,7 +514,7 @@ D) 35
 What is the value of x?
 
 A) 5
-B) 70/14
+B) 4
 C) -5
 D) 36
 
@@ -523,14 +523,14 @@ D) 36
 A) 1
 B) 4
 C) -1
-D) 104
+D) 6
 
 61. The lines y = 2x + 1 and y = -3x + 21 intersect at a point. What is the y-coordinate of the intersection point?
 
 A) 4
 B) 9
 C) 21
-D) -9
+D) 25
 
 62. If 9a + 4b = 80 and a + b = 10, what is the value of b?
 
