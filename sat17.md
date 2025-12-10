@@ -34,16 +34,16 @@ The idea of "honesty" onstage struck me as strange. I was about to pretend to be
 The passage primarily focuses on
 
 
-A) a teacher forcing a student to join the drama club and mandatory participation.
+A) an educator compelling a student to participate in theatrical activities against their will, requiring mandatory involvement in drama programs.
 
 
-B) a student deciding whether to go to college for theater and career choices.
+B) a student's decision-making process regarding pursuing higher education in theater arts and choosing professional pathways in performance.
 
 
-C) a nervous student arriving early for an audition and questioning their place onstage.
+C) an anxious student who arrives before the scheduled time for an audition and experiences uncertainty about whether they belong in theatrical performance spaces.
 
 
-D) the technical difficulties of running stage lights and equipment challenges.
+D) the mechanical problems and operational challenges associated with managing theatrical lighting systems and technical equipment during productions.
 
 
 Which choice provides the best evidence for the answer to the previous question?
@@ -64,43 +64,43 @@ D) "A folding table sat in the front row where the directors would sit…"
 The narrator chooses a monologue from a play "none of my classmates had heard of" mainly because
 
 
-A) the play is required reading for theater class.
+A) the dramatic work is assigned reading material that all theater students must study as part of the curriculum requirements.
 
 
-B) the narrator wants to impress Ms. Reyes with a rare script.
+B) the narrator seeks to demonstrate sophisticated taste and knowledge by selecting an obscure script that will impress the instructor with its rarity.
 
 
-C) the narrator hopes that mistakes will be less noticeable if others don't recognize the piece.
+C) the narrator anticipates that errors or imperfections in performance will be less apparent if audience members lack familiarity with the source material and cannot compare against known versions.
 
 
-D) the play is shorter than all the others available.
+D) the selected play contains the briefest monologue among all available options, requiring the least amount of memorization and preparation time.
 
 
 The statement "Auditions are less about perfection and more about honesty" (paragraph 6) suggests that Ms. Reyes values
 
 
-A) memorization over creativity.
+A) the ability to recall and reproduce lines accurately over original interpretation and creative expression.
 
 
-B) emotional truth and genuine effort over flawless performance.
+B) authentic emotional connection and sincere artistic engagement over technically flawless execution that lacks personal investment.
 
 
-C) elaborate costumes over clear speaking.
+C) elaborate visual presentation and costume design over vocal clarity and articulation in performance delivery.
 
 
-D) strict obedience to the original script.
+D) precise adherence to the playwright's original text without deviation or personal interpretation.
 
 
 The contrast between the empty seats and the narrator's reaction in paragraph 1 serves mainly to
 
 
-A) demonstrate that the auditorium is rarely used.
+A) establish that the performance space receives infrequent use and remains largely unoccupied during most periods.
 
 
-B) highlight the narrator's nervousness despite the lack of an audience.
+B) emphasize the narrator's anxiety and emotional intensity even when no audience members are present to observe or judge the performance.
 
 
-C) show that the directors have not arrived on time.
+C) indicate that the production staff and decision-makers have failed to arrive punctually, causing delays in the audition process.
 
 
 D) suggest that the narrator is bored by the audition process.

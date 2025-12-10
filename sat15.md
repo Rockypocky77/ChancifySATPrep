@@ -28,76 +28,76 @@ Without thinking, I pushed. The door swung open silently, revealing a hallway li
 The passage primarily focuses on
 
 
-A) the narrator's fear of old buildings and architectural anxiety.
+A) the narrator's psychological apprehension toward aged structures and the anxiety that architectural environments can provoke in individuals.
 
 
-B) the narrator's curiosity about a mysterious door and what lies behind it.
+B) the narrator's persistent interest in an enigmatic entrance and their desire to discover what exists beyond its threshold, driven by imagination and wonder.
 
 
-C) a conflict between the narrator and their mother and family tensions.
+C) interpersonal friction between the narrator and their mother, highlighting generational disagreements and familial relationship challenges.
 
 
-D) the history of an abandoned bookstore and its previous ownership.
+D) the historical background and previous proprietorship of a deserted bookstore, tracing its commercial history and ownership transitions.
 
 
 The description of the door's color as "the color of an old bruise" (paragraph 1) primarily serves to
 
 
-A) indicate that the door was recently damaged and requires repair.
+A) demonstrate that the door has sustained recent physical damage and needs immediate maintenance or restoration work.
 
 
-B) create a visual image that suggests age and wear.
+B) establish a vivid sensory detail that conveys the passage of time, deterioration, and weathered condition through color imagery.
 
 
-C) prove that the building was dangerous and posed safety risks.
+C) establish definitively that the structure presented hazards and threats to occupants or visitors, requiring safety precautions.
 
 
-D) show that the narrator dislikes the color blue and has color preferences.
+D) reveal the narrator's personal aesthetic preferences and their negative opinion of blue color schemes in architectural design.
 
 
 The narrator's decision to touch the door knob (paragraph 5) is best described as
 
 
-A) impulsive and driven by longstanding curiosity.
+A) spontaneous and motivated by accumulated curiosity that has developed over an extended period of observation and speculation.
 
 
-B) planned after extensive research about the building and historical investigation.
+B) carefully considered following thorough investigation into the building's background, architectural history, and previous uses.
 
 
-C) motivated by a fear of the unknown and anxiety about potential dangers.
+C) prompted by apprehension about unfamiliar circumstances and concern about possible risks or threats that might exist beyond the door.
 
 
-D) the result of pressure from friends.
+D) influenced by social pressure from peers who encouraged or insisted upon the action despite the narrator's reluctance.
 
 
 Which choice best describes the narrator's attitude toward the door over time?
 
 
-A) Initially fearful, then completely uninterested.
+A) Beginning with apprehension and concern, then transitioning to complete indifference and lack of engagement with the subject.
 
 
-B) Initially curious, then increasingly determined to solve the mystery.
+B) Starting with interest and wonder, then developing into stronger resolve and commitment to uncovering the truth behind the mystery.
 
 
-C) Initially dismissive, then suddenly terrified.
+C) Commencing with disregard and dismissal, then shifting abruptly to intense fear and alarm about the situation.
 
 
-D) Initially angry, then accepting.
+D) Originating with frustration and resentment, then moving toward acceptance and resignation regarding the circumstances.
 
 
 The phrase "where ordinary rules didn't apply" (paragraph 3) most nearly means that the narrator imagined a place where
 
 
-A) library books were free.
+A) library materials could be borrowed without cost or financial obligation, eliminating standard lending fees.
 
 
-B) normal expectations or limitations might not exist.
+B) conventional constraints, expectations, and limitations that govern typical spaces might be suspended or absent, allowing for different possibilities.
 
 
-C) teenagers were not allowed.
+C) access was restricted to adults only, with teenagers explicitly prohibited from entering or using the space.
 
 
-D) the door was always locked.
+D) entry was permanently prevented through locking mechanisms, making the door consistently inaccessible regardless of attempts to open it.
 
 
 The overall tone of the passage shifts from

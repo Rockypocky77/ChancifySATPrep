@@ -34,16 +34,16 @@ At the time, the idea sounded like something he'd copied from a motivational pos
 The passage primarily focuses on the narrator
 
 
-A) learning how to become a pilot and flight training procedures.
+A) acquiring knowledge about pilot certification requirements and the specific procedures involved in professional flight training programs.
 
 
-B) describing a conflict with their brother about moving away and family tensions.
+B) recounting interpersonal conflict with their brother regarding relocation decisions and describing tensions that arise within family relationships.
 
 
-C) reflecting on a brother's departure and the idea of "perspective."
+C) contemplating their brother's departure and exploring the conceptual framework of "perspective" as a way of understanding distance, scale, and emotional processing.
 
 
-D) persuading the reader to attend flight school and aviation education.
+D) attempting to convince readers to pursue aviation education and enroll in flight school programs as a career pathway.
 
 
 Which sentence best supports the answer to Question 1?
@@ -64,16 +64,16 @@ D) "I caught myself imagining how our neighborhood would look from the cockpit o
 The narrator's attitude toward the brother's idea about "perspective" changes from
 
 
-A) confusion to anger and frustration.
+A) bewilderment and lack of comprehension to hostile feelings and exasperation with the concept.
 
 
-B) skepticism to partial understanding.
+B) doubt and initial disbelief to developing some level of comprehension and recognition of the idea's validity.
 
 
-C) enthusiasm to disappointment.
+C) eager acceptance and positive anticipation to disillusionment and letdown regarding the concept's applicability.
 
 
-D) fear to indifference.
+D) apprehension and concern to complete disinterest and lack of emotional investment in the idea.
 
 
 The description of the stars as "unusually sharp" (paragraph 3) mainly serves to

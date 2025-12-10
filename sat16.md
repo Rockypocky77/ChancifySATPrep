@@ -37,16 +37,16 @@ I could. It terrified me. It thrilled me. It felt like painting a promise where 
 The passage primarily focuses on
 
 
-A) an art teacher criticizing a student's sketch and providing negative feedback.
+A) an educator providing critical assessment of a student's artistic work and delivering feedback that highlights deficiencies or areas needing improvement.
 
 
-B) a student deciding whether to share a personal design for a school mural.
+B) a student's internal deliberation about whether to reveal and submit a personal creative design concept for consideration as a school-wide mural project.
 
 
-C) a principal choosing the school's new mascot and symbol selection.
+C) an administrator's process of selecting an official school symbol and mascot to represent the institution's identity and values.
 
 
-D) a debate about repainting the school gym and renovation discussions.
+D) a discussion or disagreement about whether to renovate and repaint the school gymnasium, involving considerations of aesthetics and facility improvements.
 
 
 Which choice provides the best evidence for the answer to the previous question?
@@ -67,16 +67,16 @@ D) "After class, I stayed behind anyway… I held out my sketchbook…"
 The narrator's reaction to the idea of the sketch becoming a mural is best described as
 
 
-A) indifferent and uninterested.
+A) characterized by apathy and lack of engagement, showing no emotional investment in the project's outcome.
 
 
-B) resentful toward the teacher's expectations.
+B) marked by bitterness and hostility directed toward the instructor's requirements and anticipated standards for the assignment.
 
 
-C) both anxious and excited about making the artwork public.
+C) experiencing simultaneous apprehension and enthusiasm about exposing their personal artistic work to public view and evaluation.
 
 
-D) completely confident that everyone will love the mural.
+D) possessing absolute certainty that the mural will receive universal approval and positive reception from all viewers.
 
 
 The phrase "my drawings were safe on paper" (paragraph 5) primarily suggests that the narrator

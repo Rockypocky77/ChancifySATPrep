@@ -31,16 +31,16 @@ I slipped the card into my wallet, next to my student ID and bus pass. Maybe it 
 The passage primarily focuses on the narrator
 
 
-A) regretting losing a library book and facing replacement fees.
+A) experiencing remorse about misplacing a borrowed library book and confronting the financial consequences of replacement costs.
 
 
-B) recalling how a library card once symbolized freedom and considering returning to the library.
+B) remembering how a library card previously represented independence and possibility, and contemplating re-engaging with library resources and reading practices.
 
 
-C) arguing that phones should be banned from schools and restricted from classrooms.
+C) advocating for policies that prohibit mobile phones in educational settings and restrict digital device access during instructional periods.
 
 
-D) deciding to volunteer at the local library and community service.
+D) making a commitment to provide volunteer assistance at the community library and engage in service activities that support public institutions.
 
 
 Which sentence best supports the answer to Question 1?
@@ -61,16 +61,16 @@ D) "But as I closed the drawer, I still found myself thinking about the library'
 The narrator's feelings about reading in high school can best be described as
 
 
-A) more distracted and pressured than in childhood.
+A) characterized by greater distraction and external pressure compared to the more focused and carefree reading experiences of childhood.
 
 
-B) more enthusiastic and focused than before with increased engagement.
+B) marked by heightened enthusiasm and concentration compared to earlier periods, with significantly increased involvement and interest in literary activities.
 
 
-C) unchanged from when they were eight.
+C) maintaining the same level of engagement, interest, and emotional connection to reading that existed when they were eight years old.
 
 
-D) indifferent in childhood and high school.
+D) showing consistent lack of interest and emotional investment in reading during both childhood and high school periods.
 
 
 The phrase "paper-scented premiere" (paragraph 2) is used mainly to
