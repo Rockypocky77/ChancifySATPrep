@@ -100,28 +100,28 @@ Which inference about Rowan is best supported by the passage?
 A) Rowan intends to withdraw from the audition process immediately before it occurs, deciding not to participate despite previous commitment.
 
 
-B) Rowan is afraid of performing but is choosing to audition anyway.
+B) Rowan experiences fear about performing but makes a deliberate decision to proceed with the audition despite these apprehensions.
 
 
-C) Rowan wants to stop helping in the light booth permanently.
+C) Rowan desires to permanently discontinue their involvement with light booth operations and technical theater support.
 
 
-D) Rowan is confident and expects to get the lead role easily.
+D) Rowan possesses high self-assurance and anticipates easily securing the primary role without significant competition or challenge.
 
 
 The overall tone of the passage is best described as
 
 
-A) bitter and resentful.
+A) characterized by hostility and lingering anger, expressing negative feelings toward people or circumstances.
 
 
-B) detached and analytical.
+B) objective and intellectual, maintaining emotional distance while examining events through logical analysis.
 
 
-C) anxious but quietly hopeful.
+C) marked by worry and apprehension, yet containing underlying optimism and positive expectation expressed subtly rather than overtly.
 
 
-D) humorous and carefree.
+D) lighthearted and playful, conveying amusement and a sense of freedom from serious concerns or responsibilities.
 
 
 Questions 7–12: Social Science Passage
