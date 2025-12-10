@@ -510,12 +510,12 @@ B) 3
 C) -2
 D) 8
 
-If 8x + 15 = 5x + 36, what is x?
+If 8x + 15 = 5x + 36, and this value of x also satisfies the equation 3x - k = 12 where k is a constant, what is the value of k?
 
 A) 7
-B) 17
-C) 51/13
-D) -7
+B) 9
+C) 12
+D) 15
 
 If 7x + 3y = 60 and 4x - y = 18, what is x?
 
@@ -524,26 +524,26 @@ B) 5
 C) 18
 D) -6
 
-If 5x + 2y = 44 and x = 6, what is y?
+If 5x + 2y = 44 and x = 6, and y also satisfies the equation 3y - 2z = 19 where z is a constant, what is the value of z?
 
-A) 7
-B) 14
-C) 22
-D) -7
+A) 1
+B) 7
+C) 14
+D) 19
 
-Two linear functions are defined: f(x) = 5x + 2 and g(x) = -3x + 34. If these functions intersect at point P with coordinates (p, q), what is the value of p?
+Two linear functions are defined: f(x) = 5x + 2 and g(x) = -3x + 34. If these functions intersect at point P with coordinates (p, q), and a third function h(x) = ax + b also passes through P where a = p and b = q, what is the value of h(1)?
 
 A) 4
-B) 5
-C) 22
-D) -4
+B) 22
+C) 26
+D) 30
 
-If 4a + 5b = 54 and a + b = 12, what is a?
+If 4a + 5b = 54 and a + b = 12, and the difference between a and b is equal to d, what is the value of d?
 
-A) 6
-B) 7
-C) -6
-D) 54
+A) 0
+B) 2
+C) 6
+D) 12
 
 A quadratic equation models the height h (in meters) of a projectile: h = x² + 3x - 40, where x is time in seconds. At what times does the projectile reach ground level (h = 0)?
 
@@ -860,10 +860,10 @@ Math (Questions 55–98)
 55. C
 56. B
 57. A
-58. A
+58. B
 59. A
 60. A
-61. A
+61. C
 62. A
 63. A
 64. A
