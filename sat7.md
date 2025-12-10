@@ -541,7 +541,7 @@ D) 32
 A) 5
 B) 10
 C) -5
-D) 10
+D) 15
 
 63. What are the solutions to x² + 8x - 48 = 0?
 
@@ -811,7 +811,7 @@ Reading & Writing (1–54):
 
 Math (55–98):
 55.A 56.B 57.B 58.C 59.B 60.C
-61.A 62.B 63.A 64.A 65.B 66.A
+61.A 62.A 63.A 64.A 65.B 66.A
 67.B 68.B 69.B 70.C 71.C 72.C
 73.C 74.C 75.C 76.B 77.C 78.B
 79.C 80.C 81.C 82.A 83.B 84.C
