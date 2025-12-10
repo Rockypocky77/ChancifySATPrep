@@ -42,7 +42,7 @@ The description of dementia "erasing him piece by piece" suggests
 
 A) available therapeutic interventions for cognitive decline and treatment options
 B) the progressive dissolution of the father's cognitive identity and autobiographical memory
-C) exclusively physical manifestations of aging processes without cognitive components
+C) primarily physical manifestations of aging processes with minimal cognitive components
 D) memory lapses represent typical and expected aging patterns that are normal
 
 As used in context, "archaeological" means
@@ -98,7 +98,7 @@ D) prove sleep is unnecessary
 
 Six-hour sleepers showing "progressive cognitive decline" demonstrates
 
-A) six hours is always sufficient
+A) six hours is generally sufficient
 B) chronic partial restriction causes cumulative impairment over time
 C) everyone needs the same sleep
 D) cognitive tests are unreliable
@@ -155,8 +155,8 @@ The passage primarily
 
 A) explains CRISPR's mechanism and discusses medical and ethical implications
 B) argues against all gene editing
-C) describes bacterial viruses exclusively
-D) proves CRISPR is completely safe
+C) describes bacterial viruses primarily
+D) proves CRISPR is largely safe
 
 CRISPR evolved as
 
@@ -239,7 +239,7 @@ UNESCO's 1970 Convention is limited because
 A) it applies to all historical periods
 B) it isn't retroactive so doesn't cover earlier colonial acquisitions
 C) no countries ratified it
-D) museums ignore it completely
+D) museums largely ignore it
 
 Long-term loans are proposed as
 
@@ -289,7 +289,7 @@ Moderate, informed restrictions differ from "overly controlling" approaches. Gui
 
 Both passages would agree that
 
-A) screens should be completely banned
+A) screens should be largely restricted
 B) content and context of screen use matters
 C) all research is flawed
 D) screens have no effects
@@ -313,7 +313,7 @@ Unlike Passage 1, Passage 2 emphasizes
 A) historical patterns
 B) brain imaging evidence and developmental science showing actual impacts
 C) parental reports
-D) meta-analyses exclusively
+D) meta-analyses primarily
 
 Passage 1 would respond to brain imaging studies by likely
 

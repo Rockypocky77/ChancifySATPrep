@@ -100,7 +100,7 @@ The comparison to legal intoxication suggests that
 A) alcohol consumption and sleep loss produce identical neurological effects and brain responses
 B) impaired driving represents a less significant public health risk than sleep deficiency and its consequences
 C) social responses to equivalent cognitive impairment demonstrate contradictory standards and inconsistent policies
-D) legal intoxication thresholds lack scientific validity or relevance and should be completely revised
+D) legal intoxication thresholds lack scientific validity or relevance and should be substantially revised
 
 According to the passage, REM sleep facilitates creativity by
 
@@ -233,7 +233,7 @@ D) lack of appreciation for art
 
 The comparison to corporate advertising suggests street artists believe that
 
-A) advertising is always ethical
+A) advertising is generally ethical
 B) Coca-Cola should sponsor street art
 C) if commercial messages occupy public space without consent, artistic expression should be similarly permitted
 D) corporations create better art than individuals
@@ -276,20 +276,20 @@ Renewables plus storage have dropped dramatically in cost and improve continuous
 Both passages would likely agree that
 
 A) nuclear energy produces zero emissions during operation
-B) renewable energy is entirely sufficient on its own
+B) renewable energy is largely sufficient on its own
 C) cost is irrelevant to energy policy
 D) France has abandoned nuclear power
 
 Passage 1 emphasizes intermittency to argue that
 
-A) solar and wind are completely useless
+A) solar and wind are largely ineffective
 B) nuclear provides reliable baseload power complementing renewable limitations
-C) batteries will never improve
+C) batteries are unlikely to improve significantly
 D) weather is unpredictable
 
 How would Passage 2 respond to Passage 1's claims about modern reactor safety?
 
-A) By agreeing completely
+A) By agreeing substantially
 B) By noting most designs remain hypothetical and unproven commercially
 C) By denying safety improvements exist
 D) By arguing safety is irrelevant

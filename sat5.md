@@ -115,11 +115,11 @@ Recent meta-analyses and security footage research suggest
 A) bystander effects are stronger than initially thought
 B) real-world intervention rates are higher than laboratory studies suggested, especially in clear emergencies
 C) cameras prevent helping
-D) all early research was completely wrong
+D) most early research was largely incorrect
 
 The Genovese case's "38 witnesses" claim proved
 
-A) completely accurate
+A) largely accurate
 B) exaggerated; actual circumstances were more ambiguous than mythological narrative suggested
 C) irrelevant
 D) understated
@@ -154,7 +154,7 @@ The deeper challenge is biological. We're racing against evolution itself. Every
 The passage primarily aims to
 
 A) explain how antibiotic resistance evolves and threatens modern medicine
-B) describe Fleming's discovery exclusively
+B) describe Fleming's discovery primarily
 C) argue antibiotics were a mistake
 D) list all resistant bacteria
 
@@ -228,7 +228,7 @@ Art functioning as a "Veblen good" means
 
 A) it's produced by Veblen
 B) desirability increases with price because cost signals wealth and status
-C) it's always affordable
+C) it's generally affordable
 D) quality improves with price
 
 "Financialization" of art refers to

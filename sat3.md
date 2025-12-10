@@ -83,7 +83,7 @@ Perhaps the focus on choice distracts from ensuring all schools provide excellen
 
 The passage primarily argues that
 
-A) educational choice mechanisms universally enhance learning outcomes across all contexts
+A) educational choice mechanisms generally enhance learning outcomes across most contexts
 B) school choice generates multifaceted consequences that may disproportionately benefit certain demographic groups
 C) all educational institutions demonstrate equivalent quality and effectiveness
 D) parental engagement in educational decision-making lacks significance
@@ -106,12 +106,12 @@ The passage suggests that comparing schools serving different populations is pro
 
 A) all educational institutions demonstrate identical characteristics and outcomes without variation
 B) schools encounter distinct challenges reflecting the specific needs and circumstances of their student populations
-C) comparative analysis never provides meaningful insights into educational quality or effectiveness
+C) comparative analysis rarely provides meaningful insights into educational quality or effectiveness
 D) standardized assessment instruments are unavailable for evaluation purposes and cannot be used
 
 The author questions applying "market logic" to education because
 
-A) market mechanisms inevitably produce systemic failures in all contexts and always fail
+A) market mechanisms tend to produce systemic failures in many contexts and often fail
 B) educational outcomes involve intricate long-term processes that resist immediate assessment
 C) parents demonstrate insufficient concern for their children's welfare and neglect responsibilities
 D) competitive dynamics have no legitimate role in educational systems and should be eliminated
@@ -119,7 +119,7 @@ D) competitive dynamics have no legitimate role in educational systems and shoul
 The final paragraph suggests the author favors
 
 A) complete elimination of formal educational institutions
-B) enhancing educational quality universally rather than facilitating selective exit from underperforming schools
+B) enhancing educational quality broadly rather than facilitating selective exit from underperforming schools
 C) expanding the range of available educational options and alternatives
 D) transferring all educational provision to private sector entities
 
@@ -173,7 +173,7 @@ Fecal microbiota transplantation demonstrates that
 
 A) all bacteria are harmful
 B) restoring healthy microbial communities can cure certain infections
-C) FMT never works
+C) FMT rarely works effectively
 D) diet doesn't matter
 
 As used in context, "frontier" means
@@ -217,7 +217,7 @@ Strict preservationists would likely object to modern materials because
 
 A) they cost more
 B) they break continuity with original construction methods
-C) they never work
+C) they rarely work effectively
 D) materials don't matter
 
 Japan's tradition of rebuilding shrines suggests
@@ -234,7 +234,7 @@ B) it presents historical appearance while hiding modern infrastructure
 C) colonial history is irrelevant
 D) no one visits
 
-The final paragraph suggests preservation always involves
+The final paragraph suggests preservation generally involves
 
 A) exact replication
 B) interpretation and choices about what aspects of the past matter
@@ -271,10 +271,10 @@ Rather than replacing human judgment, AI should augment it—providing informati
 
 Both passages agree that
 
-A) AI should completely replace physicians
+A) AI should largely replace physicians
 B) AI can analyze medical images effectively
 C) AI is perfect
-D) human physicians never make mistakes
+D) human physicians rarely make mistakes
 
 Passage 2's main concern about training data is that
 
@@ -302,7 +302,7 @@ Passage 2's suggestion that AI should "augment" rather than replace human judgme
 A) AI is useless
 B) physicians should retain decision-making authority while using AI as a tool
 C) AI should work alone
-D) human judgment is always wrong
+D) human judgment is generally unreliable
 
 The passages' relationship is best described as
 
