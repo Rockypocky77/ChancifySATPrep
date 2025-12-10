@@ -34,7 +34,7 @@ I looked at the violin case, then at the sketchbook lying open on my desk, the l
 The passage primarily explores the narrator's
 
 
-A) abrupt choice to completely discontinue all creative pursuits and permanently abandon artistic expression in any form.
+A) shift away from creative pursuits after losing interest in music and exploring alternative forms of expression.
 
 
 B) effort to keep an injury secret from family members and friends, actively concealing information about their physical condition.
@@ -64,7 +64,7 @@ D) "For the first time, I wasn't trying to be perfect; I was trying to be honest
 The narrator's attitude toward the wrist injury is best described as
 
 
-A) exclusively negative and bitter, viewing it as a definitive termination of musical aspirations and professional objectives.
+A) primarily negative and bitter, viewing it as a significant setback to musical aspirations and professional objectives.
 
 
 B) ambivalent and complex, perceiving it simultaneously as a frustrating obstacle and an unanticipated liberation from intense performance expectations.
@@ -109,7 +109,7 @@ D) the narrator's plan to sell the drawings.
 The final sentence ("Then I picked up my pencil and began to work on the shadows…") suggests that the narrator
 
 
-A) has permanently abandoned the violin.
+A) has largely abandoned the violin in favor of drawing.
 
 
 B) intends to ignore the doctor's advice.
@@ -142,7 +142,7 @@ A more comprehensive approach might involve clearly defined roles, regular check
 The passage primarily
 
 
-A) argues that group projects should never be assigned.
+A) argues that group projects should generally be avoided in most educational contexts.
 
 
 B) examines why group projects can feel unfair and suggests ways to improve them.
@@ -172,7 +172,7 @@ D) groups meet too frequently.
 The passage suggests that one problem with peer evaluations is that they
 
 
-A) are always inaccurate.
+A) tend to be inaccurate in most cases.
 
 
 B) guarantee unfair grades.
@@ -223,7 +223,7 @@ A) less likely to participate.
 B) more likely to contribute consistently.
 
 
-C) guaranteed to receive higher grades.
+C) likely to receive higher grades in most cases.
 
 
 D) forced into leadership roles.
@@ -319,7 +319,7 @@ D) has no algae growth at all.
 Which statement is best supported by the data?
 
 
-A) Algae always grow best in darkness.
+A) Algae generally grow best in darkness.
 
 
 B) Algae growth increases with light up to a point, then begins to decrease at very high light levels.
@@ -418,7 +418,7 @@ Both passages would most likely agree that
 A) schools play an important role in encouraging students to volunteer.
 
 
-B) community service hours should never appear on college applications.
+B) community service hours should generally not appear on college applications.
 
 
 C) students are too busy to participate in any service.
@@ -445,7 +445,7 @@ D) reduce the importance of classroom learning.
 Passage 2 suggests that required community service may
 
 
-A) always be enjoyable for students.
+A) generally be enjoyable for most students.
 
 
 B) have no effect on organizations.
@@ -676,7 +676,7 @@ D) During this week, volunteers would be everywhere and bug students with questi
 The writer wants to add a concluding sentence that highlights the potential long-term effect of the plan. Which choice best accomplishes this?
 
 
-A) People are always going to throw some food away.
+A) People tend to throw some food away in most situations.
 
 
 B) Over time, the committee hopes that small changes based on real feedback will make school lunches both more appealing and less wasteful.
@@ -1534,13 +1534,13 @@ A scatterplot shows the number of hours students study for a test (horizontal ax
 A) Students who study more tend to earn higher test scores.
 
 
-B) Students who study more always get perfect scores.
+B) Students who study more tend to get higher scores.
 
 
 C) There is no relationship between studying and test scores.
 
 
-D) Students with high scores never study.
+D) Students with high scores rarely study.
 
 
 In a group of students, 22 are in band, 18 are in choir, and 9 are in both band and choir. How many students are in at least one of the two groups?

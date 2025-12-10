@@ -47,10 +47,10 @@ D) difficulty comprehending English language nuances and their cultural implicat
 
 The narrator's adult perspective differs from the teenage view by recognizing that
 
-A) parental perspectives were entirely misguided and lacked validity in all circumstances
+A) parental perspectives were generally misguided and lacked validity in most circumstances
 B) dietary choices represent relatively minor decisions with limited significance for personal development
 C) authentic identity emerges through synthesizing rather than choosing between cultural influences
-D) cultural identity requires selecting a single dominant framework and completely rejecting alternative perspectives
+D) cultural identity requires selecting a single dominant framework and rejecting alternative perspectives
 
 The "hunger" in the final line most strongly represents the narrator's
 
@@ -75,10 +75,10 @@ The key distinction lies in complexity and expertise. Novices become overwhelmed
 
 The passage primarily
 
-A) demonstrates conclusively that increased options universally diminish consumer satisfaction
+A) demonstrates that increased options generally diminish consumer satisfaction across most contexts
 B) introduces a theoretical framework and examines research that both validates and contextualizes its applicability
-C) provides comprehensive documentation of experimental procedures used in choice research
-D) contends that educational interventions can resolve all decision-making difficulties
+C) provides detailed documentation of experimental procedures used in choice research
+D) contends that educational interventions can help resolve many decision-making difficulties
 
 Which part of the passage best supports the answer to the previous question?
 
@@ -95,17 +95,17 @@ one bar labeled "24 jams" showing "3% of shoppers purchased."
 
 Which conclusion is best supported by this description?
 
-A) Consumer preferences consistently favor specific flavor profiles over others.
+A) Consumer preferences tend to favor specific flavor profiles over others in most cases.
 B) Under certain conditions, expanding product variety may paradoxically decrease purchase probability.
-C) Retailers should systematically eliminate product diversity to optimize sales outcomes.
-D) The observed phenomenon applies exclusively to jam purchases and lacks broader relevance.
+C) Retailers might benefit from reducing product diversity in some contexts to optimize sales outcomes.
+D) The observed phenomenon appears primarily in jam purchases and may have limited broader relevance.
 
 The meta-analyses revealed that choice overload
 
-A) represents a fundamentally flawed theoretical construct without empirical validity
-B) manifests uniformly across all consumer decision contexts without exception
+A) represents a theoretical construct with limited empirical support in most studies
+B) manifests consistently across most consumer decision contexts with few exceptions
 C) demonstrates context-dependent effects that emerge under specific conditions
-D) operates exclusively within financial planning domains and lacks broader applicability
+D) operates primarily within financial planning domains and may have limited broader applicability
 
 According to the passage, wine enthusiasts differ from casual drinkers because they
 
@@ -218,17 +218,17 @@ D) necessitated substantial financial investment in photographic technology and 
 
 Barthes's concepts of studium and punctum suggest that photographs contain
 
-A) exclusively factual content without interpretive dimensions or emotional significance
+A) primarily factual content with minimal interpretive dimensions or emotional significance
 B) simultaneously accessible cultural signification and individualized affective resonance
 C) purely technical metadata regarding photographic parameters and equipment settings
-D) evidence exclusively demonstrating photographic technique and expertise of the photographer
+D) evidence primarily demonstrating photographic technique and expertise of the photographer
 
 According to the passage, digital photography's constant documentation may paradoxically
 
 A) enhance memory precision across all dimensions of human experience and improve recall accuracy
 B) increase subjective well-being and life satisfaction universally through comprehensive documentation
 C) diminish clarity about meaningful experiences through excessive undifferentiated data accumulation
-D) render professional photographic services completely obsolete and eliminate the need for expertise
+D) reduce the demand for professional photographic services and diminish the need for specialized expertise
 
 In the sentence "We risk drowning in images while losing sight of what truly mattered," "drowning" most nearly means
 
@@ -268,7 +268,7 @@ Both passages would most likely agree that
 A) UBI is economically impossible under any circumstances and cannot be feasibly implemented
 B) technological change affects employment and the structure of work in significant ways
 C) the current welfare system already works perfectly and requires no modifications or improvements
-D) small pilot programs definitively prove all long-term effects of UBI and provide complete evidence
+D) small pilot programs provide strong evidence about many long-term effects of UBI and offer substantial support
 
 In Passage 1, "perverse incentives" most nearly refers to situations in which
 
@@ -282,7 +282,7 @@ How would the author of Passage 2 most likely respond to Finland's UBI trial men
 A) Accept the findings while emphasizing limitations in generalizing from limited-duration, restricted-scale experiments to universal permanent implementation
 B) Reject the existence or validity of the Finnish experimental program and its reported outcomes
 C) Conclude that the trial demonstrates complete absence of implementation risks and validates universal adoption
-D) Assert that cultural factors have no bearing on UBI policy discussions and can be completely ignored
+D) Assert that cultural factors have minimal bearing on UBI policy discussions and can be largely ignored
 
 Unlike Passage 1, Passage 2 places particular emphasis on
 
@@ -809,6 +809,41 @@ B) 3,014.4
 C) 502.4
 D) 120π
 
+95. A company manufactures two types of widgets. Type A costs $3 to produce and sells for $8. Type B costs $5 to produce and sells for $12. The company has a production budget of $450 and wants to maximize profit. If x represents the number of Type A widgets and y represents the number of Type B widgets produced, and the company must produce at least 20 of each type, which of the following systems represents the constraints?
+
+A) 3x + 5y ≤ 450, x ≥ 20, y ≥ 20
+B) 3x + 5y ≥ 450, x ≤ 20, y ≤ 20
+C) 8x + 12y ≤ 450, x ≥ 20, y ≥ 20
+D) 8x + 12y ≥ 450, x ≤ 20, y ≤ 20
+
+96. A piecewise function is defined as follows:
+f(x) = {
+  2x + 1 if x < 3
+  5x - 8 if x ≥ 3
+}
+What is f(3) + f(2)?
+
+A) 8
+B) 9
+C) 10
+D) 11
+
+97. A data set shows the relationship between study hours (x) and test scores (y) for 5 students:
+(2, 65), (4, 75), (6, 85), (8, 90), (10, 95)
+If a line of best fit has the equation y = 3.5x + 58, what is the predicted test score for a student who studies 7 hours?
+
+A) 82.5
+B) 84.5
+C) 86.5
+D) 88.5
+
+98. A rational equation is given: (x + 3)/(x - 2) = (2x - 1)/(x + 1). Which of the following could be a solution?
+
+A) x = -1
+B) x = 2
+C) x = 5
+D) x = -3
+
 
 ANSWER KEY
 
@@ -909,3 +944,11 @@ Math (55–98)
 92. A
 93. B
 94. B
+95. A
+96. D
+97. B
+98. C
+95. A
+96. D
+97. B
+98. C
