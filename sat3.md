@@ -664,7 +664,7 @@ A right triangle has hypotenuse 30 and one leg 18. What is the other leg?
 
 A) 16
 B) 24
-C) √576
+C) 576
 D) 32
 
 Similar triangles have ratio 4:7. If smaller perimeter is 48, what is larger perimeter?
