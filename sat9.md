@@ -489,24 +489,24 @@ D) -20
 
 56. If 5x - 9 ≥ 31, what is the smallest integer value of x?
 
-A) 6
-B) 7
-C) 8
-D) 9
+A) 8
+B) 9
+C) 4.4
+D) 40
 
 57. A line passes through points (0, -3) and (4, 13). What is the slope of this line?
 
-A) 2
-B) 3
-C) 4
-D) 5
+A) 4
+B) -4
+C) 10/4
+D) 16
 
 58. If 12x + 5 = 7x + 40, what is the value of x?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 7
+B) -7
+C) 45/19
+D) 35
 
 59. A system of equations is given below:
 2x + 3y = 19
@@ -514,30 +514,30 @@ D) 8
 What is the value of x?
 
 A) 5
-B) 6
-C) 7
-D) 8
+B) 70/14
+C) -5
+D) 36
 
 60. If 9x - 4y = 50 and x = 6, what is the value of y?
 
-A) -1
-B) 0
-C) 1
-D) 2
+A) 1
+B) 4
+C) -1
+D) 104
 
 61. The lines y = 2x + 1 and y = -3x + 21 intersect at a point. What is the y-coordinate of the intersection point?
 
-A) 7
+A) 4
 B) 9
-C) 11
-D) 13
+C) 21
+D) -9
 
 62. If 9a + 4b = 80 and a + b = 10, what is the value of b?
 
-A) 1
-B) 2
-C) 3
-D) 4
+A) 2
+B) 8
+C) -2
+D) 10
 
 63. What are the solutions to x² + 9x - 52 = 0?
 
@@ -569,17 +569,17 @@ D) -44
 
 67. If 10^(x+1) = 1000, what is the value of x?
 
-A) 1
-B) 2
-C) 3
-D) 4
+A) 2
+B) 3
+C) 999
+D) 10000
 
 68. If 3^(x+1) = 81, what is the value of x?
 
-A) 1
-B) 2
-C) 3
-D) 4
+A) 3
+B) 4
+C) 80
+D) 243
 
 69. A bacterial population quadruples every 6 hours. If the culture begins with 50 bacteria, which expression represents the population after t hours?
 
@@ -590,33 +590,38 @@ D) 50(4)^(6t)
 
 70. If 7^x = 343, what is the value of x?
 
-A) 2
-B) 3
-C) 4
-D) 5
+A) 3
+B) 49
+C) 336
+D) 2401
 
 71. An architect's scale drawing uses a ratio of 1 inch : 30 feet. If a hallway measures 5.5 inches on the drawing, what is the actual length of the hallway?
 
-A) 150 feet
-B) 155 feet
+A) 0.18 feet
+B) 35.5 feet
 C) 165 feet
-D) 175 feet
+D) 1650 feet
 
 72. A laptop originally priced at $1,200 is discounted by 25%. What is the sale price?
 
-A) $860
-B) $880
-C) $900
-D) $930
+A) $300
+B) $900
+C) $1,175
+D) $1,500
 
 73. If 55% of a number is 242, what is the number?
 
-A) 400
-B) 420
+A) 133.1
+B) 297
 C) 440
-D) 460
+D) 4.4
 
 74. A retail store marks up the wholesale cost of merchandise by 60%. If the wholesale price is $250, what is the retail price?
+
+A) $150
+B) $294.12
+C) $400
+D) $310
 
 A) $380
 B) $390
@@ -625,17 +630,17 @@ D) $410
 
 75. A student's test scores are 72, 78, 84, 90, and 96. What is the mean of these scores?
 
-A) 82
-B) 83
-C) 84
-D) 85
+A) 83
+B) 84
+C) 415
+D) 16.6
 
 76. The ages of study participants are 14, 18, 20, 22, and 30. What is the median age?
 
 A) 18
-B) 19
-C) 20
-D) 22
+B) 20
+C) 100
+D) 5
 
 77. A dataset contains the values 5, 9, 9, 12, 14, 14, 14, and 18. What is the mode?
 
@@ -653,24 +658,24 @@ D) 2/5
 
 79. A right triangle has legs measuring 10 and 24 units. What is the length of the hypotenuse?
 
-A) 24
+A) 22
 B) 25
-C) 26
-D) 28
+C) √676
+D) 49
 
 80. A right triangle has a hypotenuse of 41 units and one leg of 9 units. What is the length of the other leg?
 
-A) 32
-B) 38
-C) 40
-D) 42
+A) 16
+B) 40
+C) 56
+D) 100
 
 81. Two similar triangles have a side-length ratio of 5:8. If the perimeter of the smaller triangle is 55 units, what is the perimeter of the larger triangle?
 
-A) 80
-B) 85
-C) 88
-D) 90
+A) 36
+B) 90
+C) 126
+D) 225
 
 82. A triangle has side lengths of 9, 40, and 41 units. Which statement is correct?
 
@@ -709,10 +714,10 @@ D) 3π/4
 
 87. If f(x) = 2x² - 7x + 3, what is f(4)?
 
-A) 5
-B) 7
-C) 9
-D) 11
+A) 8
+B) 16
+C) 4
+D) 40
 
 88. If g(x) = -3x + 11, what is g(-2)?
 
@@ -751,10 +756,10 @@ D) Cannot be simplified
 
 93. If √(6x + 9) = 9, what is the value of x?
 
-A) 10
+A) 0
 B) 11
-C) 12
-D) 13
+C) 72
+D) 83
 
 94. What is √(x² - 10x + 25) in simplified form?
 

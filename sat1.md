@@ -483,59 +483,59 @@ Algebra / Linear / Systems / Functions
 
 A company's revenue R (in thousands of dollars) is modeled by R = 7(x + 5), where x represents the number of years since 2020. If the company's expenses E are modeled by E = 4(x + 2) and the company breaks even when R = E, what is the value of x?
 
-A) -15
-B) -13
-C) -11
-D) -9
+A) -9
+B) -3
+C) 3
+D) 9
 
 In a chemistry experiment, the concentration of a solution must be at least 17 units. If the concentration is given by 5x - 8, where x is the amount of solute added, what is the smallest integer value of x that satisfies this requirement?
 
 A) 4
 B) 5
 C) 6
-D) 7
+D) 25
 
 A linear function f(x) passes through the points (0, -3) and (4, 9). If f(x) = mx + b, where m is the slope and b is the y-intercept, what is the value of m?
 
-A) 2
+A) -3
 B) 3
-C) 4
-D) 5
+C) 3/2
+D) 6
 
 The sum of 6 times a number and 11 equals the sum of 3 times that number and 26. What is the number?
 
-A) 3
-B) 4
-C) 5
-D) 6
+A) 5
+B) 37/9
+C) 12.33
+D) -5
 
 A system of equations is given: 5x + 4y = 40 and 3x - y = 7. If (a, b) is the solution to this system, what is the value of a?
 
 A) 4
 B) 5
-C) 6
-D) 7
+C) 68/17
+D) 12
 
 If 4x + 3y = 35 and x = 5, what is y?
 
-A) 3
-B) 4
-C) 5
-D) 6
+A) 5
+B) 11
+C) 55/3
+D) 15
 
 Two linear functions are defined: f(x) = 4x - 1 and g(x) = -x + 14. If these functions intersect at point P, and P has coordinates (p, q), what is the value of q?
 
-A) 9
+A) 3
 B) 11
 C) 13
-D) 15
+D) 17
 
 If 6a + 3b = 45 and a + b = 10, what is b?
 
-A) 3
-B) 4
-C) 5
-D) 6
+A) 5
+B) 15
+C) -5
+D) 10
 
 
 Quadratics / Exponentials / Functions
@@ -571,16 +571,16 @@ D) -20
 If 5^(3x) = 125 and x > 0, what is the value of x?
 
 A) 1
-B) 2
-C) 3
-D) 5
+B) 3
+C) 1/3
+D) 9
 
 If 2^(x+3) = 32, what is x?
 
-A) 1
-B) 2
-C) 3
-D) 4
+A) 2
+B) 5
+C) 8
+D) 29
 
 A bacterial culture quadruples in size every 2 hours. If the initial population is 50 bacteria, and P(h) represents the population after h hours, which of the following correctly models P(h)?
 
@@ -593,39 +593,39 @@ If 6^x = 216, what is x?
 
 A) 2
 B) 3
-C) 4
-D) 36
+C) 36
+D) 210
 
 
 PSDA – Percents, Ratios, Data, Probability
 
 An architect creates a blueprint where 1 inch on the drawing represents 12 feet in the actual building. If a rectangular room is drawn as 5 inches by 7 inches on the blueprint, what is the actual length (in feet) of the longer side of the room?
 
-A) 50 feet
-B) 55 feet
+A) 7 feet
+B) 19 feet
 C) 60 feet
-D) 65 feet
+D) 84 feet
 
 A smartphone originally priced at $720 goes on sale with a 25% discount. After the discount is applied, an additional 5% tax is added to the sale price. What is the final price, including tax?
 
-A) $520
-B) $540
-C) $567
-D) $580
+A) $540
+B) $567
+C) $576
+D) $756
 
 Forty-five percent of a number is 108. What is the number?
 
-A) 220
-B) 230
+A) 48.6
+B) 153
 C) 240
-D) 250
+D) 2.4
 
 A retailer marks up an item's wholesale price by 80%. If the wholesale price is $75, what is the retail price?
 
-A) $125
-B) $130
+A) $60
+B) $93.75
 C) $135
-D) $140
+D) $155
 
 A bar graph shows the number of students who earned each test score in a class of 5 students:
 
@@ -637,17 +637,17 @@ one bar at 92
 
 What is the mean (average) score for the class?
 
-A) 80
-B) 81
-C) 82
-D) 83
+A) 78
+B) 82
+C) 86
+D) 410
 
 The ages of five people are 14, 17, 20, 20, and 24. What is the median age?
 
-A) 17
+A) 18.5
 B) 19
 C) 20
-D) 21
+D) 95
 
 In the data set 5, 8, 10, 10, 12, 15, what is the mode?
 
@@ -658,34 +658,34 @@ D) 15
 
 A bag contains 9 red, 6 blue, and 5 green marbles. If two marbles are selected at random without replacement, what is the probability that both marbles are green?
 
-A) 1/5
+A) 1/4
 B) 1/19
-C) 1/38
-D) 2/5
+C) 25/400
+D) 5/20
 
 
 Geometry / Right Triangles / Circles / Similarity
 
 A right triangle has legs of lengths 5 and 12. If the triangle is inscribed in a circle such that the hypotenuse is a diameter of the circle, what is the area of the circle in terms of π?
 
-A) 169π/4
-B) 169π/2
+A) 13π
+B) 169π/4
 C) 169π
-D) 338π
+D) 26π
 
 In a right triangle, the hypotenuse is 26 and one leg is 10. What is the length of the other leg?
 
-A) 22
-B) 23
-C) 24
-D) 25
+A) 16
+B) 24
+C) √576
+D) 36
 
 Two similar triangles have a side-length ratio of 2:5. If the smaller triangle's perimeter is 36, what is the perimeter of the larger triangle?
 
-A) 85
-B) 90
-C) 95
-D) 100
+A) 14.4
+B) 72
+C) 90
+D) 180
 
 A triangle has side lengths 8, 15, and 17. Is it a right triangle?
 
@@ -696,48 +696,48 @@ D) No, because 8 + 15 ≠ 17.
 
 A circle has radius 14 inches. What is its circumference?
 
-A) 14π inches
+A) 7π inches
 B) 28π inches
-C) 56π inches
-D) 196π inches
+C) 196π inches
+D) 14π inches
 
 The area of a circle is 81π square feet. What is the radius?
 
-A) 7 feet
-B) 8 feet
-C) 9 feet
-D) 10 feet
+A) 9 feet
+B) 81 feet
+C) 40.5 feet
+D) 18 feet
 
 A circle has circumference 24π centimeters. What is its area?
 
-A) 144π cm²
-B) 288π cm²
+A) 12π cm²
+B) 144π cm²
 C) 576π cm²
-D) 1152π cm²
+D) 24π cm²
 
 An arc of a circle with radius 15 has length 10π. What is the measure of the central angle, in radians?
 
-A) π/3
-B) 2π/3
-C) π/2
-D) 5π/6
+A) 2π/3
+B) 3π/2
+C) 150π
+D) 2/3
 
 
 Functions / Rational Expressions / Radicals / Trig
 
 If f(x) = 2x² - 7x + 3 and g(x) = x + 2, what is the value of f(g(3))?
 
-A) 16
+A) 6
 B) 18
-C) 20
-D) 22
+C) 32
+D) 53
 
 If g(x) = 4x - 9, what is g(-2)?
 
 A) -17
-B) -15
-C) -13
-D) -11
+B) -1
+C) 1
+D) 17
 
 What is the domain of f(x) = 1/(x + 4)?
 
@@ -769,10 +769,10 @@ D) Cannot be simplified
 
 If √(3x + 7) = 8, what is x?
 
-A) 17
+A) 1/3
 B) 19
-C) 21
-D) 23
+C) 57
+D) 71
 
 What is √(x² - 8x + 16) simplified?
 
@@ -783,31 +783,31 @@ D) Cannot be simplified
 
 In a right triangle, cos θ = 8/17. What is sin θ?
 
-A) 8/15
+A) 9/17
 B) 15/17
-C) 17/15
-D) 17/8
+C) 8/15
+D) 15/8
 
 Convert 5π/6 radians to degrees.
 
-A) 120°
-B) 135°
-C) 150°
-D) 165°
+A) 30°
+B) 150°
+C) 300°
+D) 900°/π
 
 In a right triangle, tan θ = 5/12. What is cos θ?
 
 A) 5/13
 B) 12/13
-C) 5/12
-D) 12/5
+C) 13/12
+D) 5/12
 
 A right circular cone has radius 8 cm and height 15 cm. What is the approximate volume of the cone, in cubic centimeters? (Use π ≈ 3.14.)
 
-A) 800.0
-B) 1,004.8
-C) 3,014.4
-D) 6,028.8
+A) 1,004.8
+B) 3,014.4
+C) 502.4
+D) 120π
 
 
 ANSWER KEY
@@ -869,14 +869,14 @@ Reading & Writing (1–54)
 54. B
 
 Math (55–98)
-55. D
+55. A
 56. B
 57. B
-58. C
+58. A
 59. A
-60. C
+60. A
 61. B
-62. C
+62. A
 63. A
 64. A
 65. B
@@ -884,17 +884,17 @@ Math (55–98)
 67. A
 68. B
 69. B
-70. B
-71. C
-72. B
-73. C
-74. C
+70. D
+71. B
+72. C
+73. B
+74. A
 75. C
-76. C
-77. B
-78. A
-79. B
-80. C
+76. B
+77. C
+78. B
+79. A
+80. B
 81. A
 82. B
 83. B
@@ -906,6 +906,6 @@ Math (55–98)
 89. B
 90. B
 91. B
-92. C
+92. A
 93. B
 94. B

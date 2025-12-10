@@ -492,58 +492,58 @@ SECTION 2: MATH (Questions 55–98)
 A manufacturing company's production cost C (in thousands) is modeled by C = 6(x + 7), where x is the number of units produced. If the revenue R is modeled by R = 3(x - 4) and the company breaks even when C = R, what is the value of x?
 
 A) -18
-B) -16
-C) -14
-D) -12
+B) -54/3
+C) 18
+D) 54
 
 In a physics experiment, the force F (in newtons) must be at least 30. If F = 7x - 12, where x is the applied voltage, what is the smallest integer value of x that satisfies this requirement?
 
-A) 5
+A) 2.57
 B) 6
 C) 7
-D) 8
+D) 42
 
 A linear function f(x) = mx + b passes through the points (-3, 5) and (5, 21). What is the value of m, the slope of the line?
 
 A) 2
-B) 3
-C) 4
-D) 5
+B) 13/4
+C) -2
+D) 8
 
 If 8x + 15 = 5x + 36, what is x?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 7
+B) 17
+C) 21/13
+D) -7
 
 If 7x + 3y = 60 and 4x - y = 18, what is x?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 6
+B) 114/19
+C) 18
+D) -6
 
 If 5x + 2y = 44 and x = 6, what is y?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 7
+B) 14
+C) 22
+D) -7
 
 Two linear functions are defined: f(x) = 5x + 2 and g(x) = -3x + 34. If these functions intersect at point P with coordinates (p, q), what is the value of p?
 
-A) 2
-B) 3
-C) 4
-D) 5
+A) 4
+B) 22
+C) 16
+D) -4
 
 If 4a + 5b = 54 and a + b = 12, what is a?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 6
+B) 7
+C) -6
+D) 48
 
 A quadratic equation models the height h (in meters) of a projectile: h = x² + 3x - 40, where x is time in seconds. At what times does the projectile reach ground level (h = 0)?
 
@@ -576,16 +576,16 @@ D) -12
 If 4^(2x) = 256, what is x?
 
 A) 2
-B) 3
-C) 4
-D) 8
+B) 4
+C) 8
+D) 64
 
 If 3^(x-1) = 81, what is x?
 
-A) 3
-B) 4
-C) 5
-D) 6
+A) 4
+B) 5
+C) 27
+D) 82
 
 A bacterial culture triples in size every 6 hours. If the initial population is 200 bacteria, and P(h) represents the population after h hours, which of the following correctly models P(h)?
 
@@ -596,52 +596,52 @@ D) P(h) = 200(6)^(h/3)
 
 If 8^x = 512, what is x?
 
-A) 2
-B) 3
-C) 4
-D) 64
+A) 3
+B) 64
+C) 504
+D) 4096
 
 An architect creates a scale model where 1 cm represents 8 meters in the actual building. If a building's actual height is 56 meters, and the model must fit within a display case that is 10 cm tall, what is the maximum model height (in cm) that will fit?
 
-A) 6 cm
-B) 7 cm
-C) 8 cm
-D) 9 cm
+A) 7 cm
+B) 48 cm
+C) 64 cm
+D) 448 cm
 
 A computer originally priced at $1,200 goes on sale with a 30% discount. After the discount is applied, an additional 8% sales tax is added to the sale price. What is the final price, including tax?
 
-A) $820
-B) $840
-C) $907.20
-D) $880
+A) $840
+B) $907.20
+C) $936
+D) $1,296
 
 If 55% of a number is 143, what is the number?
 
-A) 250
-B) 260
-C) 270
-D) 280
+A) 78.65
+B) 198
+C) 260
+D) 2.6
 
 A retailer marks up items by 90% over the wholesale price. If the wholesale cost is $50, what is the retail price?
 
-A) $85
-B) $90
+A) $45
+B) $55.56
 C) $95
-D) $100
+D) $140
 
 Heights (in inches): 62, 65, 68, 71, 74. What is the mean?
 
-A) 66
-B) 67
-C) 68
-D) 69
+A) 67
+B) 68
+C) 340
+D) 12
 
 Temperatures (°F): 45, 52, 58, 58, 63. What is the median?
 
-A) 52
-B) 55
-C) 58
-D) 60
+A) 55
+B) 58
+C) 55.2
+D) 63
 
 Dataset: 12, 15, 18, 18, 21, 24. What is the mode?
 
@@ -652,31 +652,31 @@ D) 24
 
 A box contains 10 red, 8 blue, and 7 yellow balls. If two balls are selected at random without replacement, what is the probability that both balls are red?
 
-A) 2/5
+A) 100/625
 B) 3/20
-C) 9/100
-D) 1/10
+C) 10/25
+D) 1/6
 
 A right triangle has legs of lengths 8 and 15. If the triangle is inscribed in a circle such that the hypotenuse is a diameter of the circle, what is the area of the circle in terms of π?
 
-A) 289π/4
-B) 289π/2
+A) 17π
+B) 289π/4
 C) 289π
-D) 578π
+D) 34π
 
 In a right triangle, the hypotenuse is 34 and one leg is 16. What is the length of the other leg?
 
-A) 28
-B) 29
-C) 30
-D) 31
+A) 18
+B) 30
+C) √900
+D) 50
 
 Two similar triangles have a side-length ratio of 3:8. If the smaller triangle's perimeter is 42, what is the perimeter of the larger triangle?
 
-A) 108
-B) 110
-C) 112
-D) 114
+A) 15.75
+B) 112
+C) 126
+D) 336
 
 A triangle has sides 5, 12, and 13. Is it a right triangle?
 
@@ -687,45 +687,45 @@ D) Yes, approximately
 
 A circle has radius 9 cm. If a sector of this circle has a central angle of 120°, what is the area of the sector in terms of π?
 
-A) 9π cm²
-B) 18π cm²
-C) 27π cm²
-D) 81π cm²
+A) 6π cm²
+B) 27π cm²
+C) 81π cm²
+D) 3π cm²
 
 A circle has area 100π square meters. What is its radius?
 
-A) 8 m
-B) 9 m
-C) 10 m
-D) 11 m
+A) 10 m
+B) 50 m
+C) 100 m
+D) 31.83 m
 
 A circle has circumference 36π inches. What is its area?
 
-A) 324π in²
-B) 648π in²
+A) 18π in²
+B) 324π in²
 C) 1296π in²
-D) 2592π in²
+D) 36π in²
 
 An arc of radius 20 has length 15π. What is the central angle (in radians)?
 
-A) π/4
-B) 3π/4
-C) π/2
-D) 2π/3
+A) 3π/4
+B) 4π/3
+C) 300π
+D) 3/4
 
 If f(x) = 5x² - 4x + 1 and g(x) = x + 2, what is the value of f(g(3))?
 
-A) 32
-B) 34
-C) 36
-D) 38
+A) 34
+B) 106
+C) 118
+D) 22
 
 If g(x) = 3x - 11, what is g(-4)?
 
 A) -23
-B) -21
-C) -19
-D) -17
+B) 1
+C) -1
+D) 23
 
 What is the domain of f(x) = 1/(x - 7)?
 
@@ -757,10 +757,10 @@ D) Cannot be simplified
 
 If √(4x + 9) = 9, what is x?
 
-A) 16
-B) 17
-C) 18
-D) 19
+A) 0
+B) 18
+C) 72
+D) 90
 
 Simplify √(x² + 10x + 25).
 
@@ -771,31 +771,31 @@ D) Cannot be simplified
 
 In a right triangle, if sin θ = 12/13, what is cos θ?
 
-A) 5/12
+A) 1/13
 B) 5/13
 C) 12/5
-D) 13/5
+D) 5/12
 
 Convert 7π/6 radians to degrees.
 
-A) 180°
-B) 195°
-C) 210°
-D) 225°
+A) 30°
+B) 210°
+C) 1260°/π
+D) 420°
 
 In a right triangle, if tan θ = 7/24, what is sin θ?
 
 A) 7/24
 B) 7/25
-C) 24/25
+C) 25/7
 D) 24/7
 
 A sphere has radius 6 cm. What is its volume, in terms of π?
 
-A) 288π cm³
-B) 900 cm³
-C) 2712.96 cm³
-D) 10851.84 cm³
+A) 144π cm³
+B) 288π cm³
+C) 864π cm³
+D) 36π cm³
 
 
 ANSWER KEY
@@ -860,44 +860,44 @@ Math (Questions 55–98)
 55. A
 56. B
 57. A
-58. C
-59. B
-60. C
-61. C
-62. B
+58. A
+59. A
+60. A
+61. A
+62. A
 63. A
 64. A
 65. A
 66. B
 67. A
-68. C
+68. A
 69. B
 70. B
 71. B
 72. B
-73. B
-74. C
-75. C
-76. C
-77. C
+73. C
+74. B
+75. B
+76. B
+77. B
 78. A
-79. C
-80. C
-81. C
-82. A
-83. B
-84. C
-85. A
-86. B
+79. A
+80. A
+81. B
+82. C
+83. A
+84. B
+85. B
+86. A
 87. A
 88. B
-89. B
+89. A
 90. A
-91. A
-92. A
-93. C
+91. B
+92. B
+93. B
 94. A
 95. B
-96. C
+96. B
 97. B
-98. A
+98. B

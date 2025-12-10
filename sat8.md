@@ -473,55 +473,55 @@ D) -9
 
 56. A delivery service charges according to the equation C = 5x - 11, where C is the cost in dollars and x is the number of packages. What is the minimum number of packages that must be shipped for the cost to be at least $39?
 
-A) 8
-B) 9
-C) 10
-D) 11
+A) 9
+B) 10
+C) 4.5
+D) 45
 
 57. A line passes through points (2, -5) and (8, 13). What is the slope of the line?
 
-A) 3
-B) 4
-C) 5
-D) 6
+A) 4
+B) -4
+C) 20/8
+D) 20
 
 58. If 6x + 19 = 2x + 63, what is the value of x?
 
 A) 8
 B) 9
-C) 10
-D) 11
+C) 4.67
+D) 81
 
 59. A system of equations is given below:
 4x + 3y = 43
 5x - 2y = 25
 What is the value of x?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 7
+B) 68/23
+C) -7
+D) 43
 
 60. If 9x + 2y = 80 and x = 6, what is the value of y?
 
-A) 9
-B) 11
-C) 13
-D) 15
+A) 13
+B) 26
+C) -13
+D) 134
 
 61. The lines y = 4x + 1 and y = -2x + 25 intersect at a point. What is the y-coordinate of the intersection point?
 
-A) 13
-B) 15
-C) 17
-D) 19
+A) 4
+B) 17
+C) 25
+D) -17
 
 62. If 8a + 3b = 87 and a + b = 14, what is the value of b?
 
-A) 4
-B) 5
-C) 6
-D) 7
+A) 5
+B) 9
+C) -5
+D) 25
 
 63. What are the solutions to x² + 10x - 24 = 0?
 
@@ -553,17 +553,17 @@ D) -20
 
 67. If 5^(2x) = 625, what is the value of x?
 
-A) 1
-B) 2
-C) 3
-D) 4
+A) 2
+B) 4
+C) 621
+D) 390625
 
 68. If 7^(x+1) = 343, what is the value of x?
 
-A) 1
-B) 2
-C) 3
-D) 4
+A) 2
+B) 3
+C) 342
+D) 2401
 
 69. A bacterial culture quadruples in size every 6 hours. If the culture begins with 150 bacteria, which expression represents the number of bacteria after t hours?
 
@@ -574,52 +574,52 @@ D) 150(4)^(t-6)
 
 70. If 3^x = 243, what is the value of x?
 
-A) 3
-B) 4
-C) 5
-D) 6
+A) 5
+B) 81
+C) 238
+D) 59049
 
 71. An architect's floor plan uses a scale of 1 inch : 12 feet. If a hallway measures 6.5 inches on the plan, what is the actual length of the hallway?
 
-A) 72 feet
-B) 78 feet
-C) 84 feet
-D) 90 feet
+A) 0.54 feet
+B) 18.5 feet
+C) 78 feet
+D) 780 feet
 
 72. A smartphone regularly priced at $820 is discounted by 30%. What is the sale price?
 
-A) $556
-B) $564
-C) $574
-D) $584
+A) $246
+B) $574
+C) $790
+D) $1,066
 
 73. If 55% of a number is 220, what is the number?
 
-A) 360
-B) 380
+A) 121
+B) 275
 C) 400
-D) 420
+D) 4
 
 74. A clothing store marks up the wholesale cost of a jacket by 65%. If the wholesale cost is $140, what is the retail price?
 
-A) $210
-B) $220
+A) $91
+B) $164.71
 C) $231
-D) $245
+D) $205
 
 75. A student's test scores are 70, 80, 82, 88, and 100. What is the mean of these scores?
 
-A) 80
-B) 82
-C) 84
-D) 86
+A) 82
+B) 84
+C) 88
+D) 420
 
 76. The ages of club members are 14, 17, 19, 21, 23, and 27. What is the median age?
 
 A) 18
 B) 20
-C) 21
-D) 22
+C) 121
+D) 6.05
 
 77. A dataset contains the values 5, 9, 11, 11, 13, and 17. What is the mode?
 
@@ -637,24 +637,24 @@ D) 1/2
 
 79. A right triangle has legs of lengths 10 and 24. What is the length of the hypotenuse?
 
-A) 22
+A) 20
 B) 24
-C) 26
-D) 28
+C) √625
+D) 50
 
 80. A right triangle has a hypotenuse of length 41 and one leg of length 40. What is the length of the other leg?
 
-A) 9
-B) 11
-C) 15
-D) 39
+A) 3.6
+B) 9
+C) 12.6
+D) 45
 
 81. Two similar triangles have a side-length ratio of 3:5. If the perimeter of the smaller triangle is 54, what is the perimeter of the larger triangle?
 
-A) 80
-B) 85
-C) 90
-D) 95
+A) 36
+B) 90
+C) 126
+D) 225
 
 82. A triangle has side lengths 9, 40, and 41. Which statement is correct?
 
@@ -693,10 +693,10 @@ D) π
 
 87. If f(x) = 2x² - 7x + 3, what is f(4)?
 
-A) 5
-B) 7
-C) 9
-D) 11
+A) 9
+B) 18
+C) 4.5
+D) 45
 
 88. If g(x) = -4x + 9, what is g(-2)?
 
@@ -735,10 +735,10 @@ D) It cannot be simplified.
 
 93. If √(7x + 2) = 10, what is the value of x?
 
-A) 10
-B) 12
-C) 14
-D) 16
+A) 0
+B) 13
+C) 72
+D) 85
 
 94. What is √(x² - 10x + 25) in simplified form?
 

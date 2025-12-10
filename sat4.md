@@ -506,58 +506,58 @@ SECTION 2: MATH (Questions 55–98)
 A company's cost C = 9(x + 4) and revenue R = 6(x - 5), where x is units produced. If C = R, what is x?
 
 A) -22
-B) -20
-C) -18
-D) -16
+B) 22
+C) -66/3
+D) 66
 
 If 8x - 15 ≥ 33, what is the smallest integer value of x that satisfies this inequality?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 6
+B) 7
+C) 2.25
+D) 48
 
 A linear function f(x) = mx + b passes through (0, -7) and (5, 8). What is the value of m?
 
-A) 2
-B) 3
-C) 4
-D) 5
+A) 3
+B) -3
+C) 1/5
+D) 15
 
 If 9x + 13 = 6x + 34, what is x?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 7
+B) -7
+C) 47/15
+D) 21
 
 If 8x + 3y = 49 and 5x - y = 22, what is x?
 
-A) 4
-B) 5
-C) 6
-D) 7
+A) 5
+B) 115/23
+C) -5
+D) 71
 
 If 7x + 4y = 59 and x = 9, what is y?
 
 A) -1
-B) 0
-C) 1
-D) 2
+B) 4
+C) -4
+D) 122
 
 Two linear functions f(x) = 5x - 3 and g(x) = -3x + 21 intersect at point P. If P has coordinates (p, q), what is q?
 
-A) 12
-B) 15
-C) 18
-D) 21
+A) 3
+B) 12
+C) 21
+D) -12
 
 If 9a + 5b = 85 and a + b = 13, what is b?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 8
+B) 5
+C) -8
+D) 32
 
 If x² + 8x - 48 = 0, what are the solutions?
 
@@ -591,15 +591,15 @@ If 8^(2x) = 64, what is x?
 
 A) 1
 B) 2
-C) 3
-D) 8
+C) 56
+D) 512
 
 If 5^(x+2) = 125, what is x?
 
 A) 1
-B) 2
-C) 3
-D) 5
+B) 5
+C) 123
+D) 625
 
 A cell population doubles every 3 hours. Starting with 200 cells, which expression represents the population after h hours?
 
@@ -610,52 +610,52 @@ D) 200(3)^(h/2)
 
 If 9^x = 729, what is x?
 
-A) 2
-B) 3
-C) 4
-D) 81
+A) 3
+B) 81
+C) 720
+D) 6561
 
 A model scale is 1 inch : 20 feet. If a room is 6 inches on the model, what is the actual length?
 
-A) 100 feet
-B) 110 feet
+A) 0.3 feet
+B) 26 feet
 C) 120 feet
-D) 130 feet
+D) 1200 feet
 
 A camera priced at $960 is discounted 40%. What is the sale price?
 
-A) $556
+A) $384
 B) $576
-C) $596
-D) $616
+C) $920
+D) $1,344
 
 If 60% of a number is 144, what is the number?
 
-A) 220
-B) 230
+A) 86.4
+B) 204
 C) 240
-D) 250
+D) 2.4
 
 A store marks up wholesale price by 75%. If wholesale price is $160, what is the retail price?
 
-A) $270
-B) $280
-C) $290
-D) $300
+A) $120
+B) $188.24
+C) $280
+D) $235
 
 Test scores: 71, 77, 84, 89, 94. What is the mean?
 
 A) 81
 B) 83
-C) 84
-D) 85
+C) 415
+D) 16.6
 
 Ages: 15, 18, 21, 21, 25. What is the median?
 
-A) 18
-B) 20
-C) 21
-D) 22
+A) 19
+B) 21
+C) 20
+D) 105
 
 Dataset: 6, 11, 13, 13, 16, 19. What is the mode?
 
@@ -673,24 +673,24 @@ D) 1/2
 
 A right triangle has legs of 7 and 24. What is the hypotenuse?
 
-A) 23
+A) 20
 B) 24
-C) 25
-D) 26
+C) √676
+D) 49
 
 A right triangle has a hypotenuse of 34 and one leg of 30. What is the other leg?
 
-A) 14
+A) 5.25
 B) 15
-C) 16
-D) 17
+C) 21
+D) 63
 
 Two similar triangles have a ratio of 4:9. If the smaller triangle's perimeter is 52, what is the larger triangle's perimeter?
 
-A) 115
-B) 117
-C) 119
-D) 121
+A) 45.6
+B) 119
+C) 171
+D) 285
 
 A triangle has sides 6, 8, 10. Is it a right triangle?
 
@@ -729,10 +729,10 @@ D) 4π/5
 
 If f(x) = 4x² - 9x + 2, what is f(3)?
 
-A) 5
-B) 7
-C) 9
-D) 11
+A) 7
+B) 14
+C) 3.5
+D) 35
 
 If g(x) = 6x - 13, what is g(-4)?
 
@@ -771,10 +771,10 @@ D) Cannot be simplified
 
 If √(5x + 11) = 11, what is x?
 
-A) 20
-B) 22
-C) 24
-D) 26
+A) 21
+B) 42
+C) 10.5
+D) 105
 
 What is √(x² - 14x + 49) simplified?
 

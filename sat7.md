@@ -493,55 +493,55 @@ D) -9
 
 56. A company's profit P, in thousands of dollars, is modeled by P = 3x - 5, where x represents units sold in hundreds. If the profit is at least $19,000, what is the minimum number of units (in hundreds) the company must sell?
 
-A) 7
-B) 8
-C) 9
-D) 10
+A) 8
+B) 4.67
+C) 14
+D) 57
 
 57. A line passes through points (0, -4) and (5, 16). What is the slope of this line?
 
-A) 3
-B) 4
-C) 5
-D) 6
+A) 4
+B) -4
+C) 12/5
+D) 20
 
 58. If 9x + 17 = 6x + 38, what is x?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 7
+B) -7
+C) 55/15
+D) 21
 
 59. A system of equations is shown below:
 3x + 7y = 32
 5x - 2y = 26
 What is the value of x?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 6
+B) 58/41
+C) -6
+D) 32
 
 60. If 6x + 5y = 67 and x = 7, what is the value of y?
 
-A) 3
-B) 4
-C) 5
-D) 6
+A) 5
+B) 25
+C) -5
+D) 109
 
 61. The lines y = 5x - 3 and y = -3x + 29 intersect at a point. What is the y-coordinate of the intersection point?
 
-A) 17
-B) 19
-C) 21
-D) 22
+A) 4
+B) 17
+C) 29
+D) -17
 
 62. If 7a + 3b = 50 and a + b = 10, what is the value of b?
 
-A) 4
-B) 5
-C) 6
-D) 7
+A) 5
+B) 10
+C) -5
+D) 20
 
 63. What are the solutions to x² + 8x - 48 = 0?
 
@@ -573,17 +573,17 @@ D) -42
 
 67. If 4^(2x) = 64, what is the value of x?
 
-A) 1
-B) 1.5
-C) 2
-D) 3
+A) 1.5
+B) 3
+C) 60
+D) 4096
 
 68. If 3^(x+2) = 81, what is the value of x?
 
-A) 1
-B) 2
-C) 3
-D) 4
+A) 2
+B) 4
+C) 79
+D) 6561
 
 69. A bacterial population doubles every 4 hours. If a culture begins with 120 bacteria, which expression represents the population after h hours?
 
@@ -594,29 +594,29 @@ D) 120(4)^(h/2)
 
 70. If 5^x = 625, what is the value of x?
 
-A) 2
-B) 3
-C) 4
-D) 5
+A) 4
+B) 125
+C) 620
+D) 3125
 
 71. An architect's scale drawing uses a ratio of 1 inch : 20 feet. If a room measures 3.5 inches on the drawing, what is the actual length of the room?
 
-A) 60 feet
-B) 65 feet
+A) 0.175 feet
+B) 23.5 feet
 C) 70 feet
-D) 75 feet
+D) 700 feet
 
 72. A television originally priced at $840 is discounted by 40%. What is the sale price?
 
-A) $484
-B) $494
-C) $504
-D) $514
+A) $336
+B) $504
+C) $800
+D) $1,176
 
 73. If 42% of a number is 168, what is the number?
 
-A) 380
-B) 390
+A) 70.56
+B) 210
 C) 400
 D) 410
 
@@ -630,23 +630,23 @@ D) $215
 75. A student's test scores are 76, 82, 85, 91, and 96. What is the mean of these scores?
 
 A) 84
-B) 85
-C) 86
-D) 87
+B) 86
+C) 420
+D) 16.8
 
 76. The ages of participants in a study are 15, 18, 22, 22, 26, and 29. What is the median age?
 
-A) 20
-B) 22
-C) 24
-D) 26
+A) 19
+B) 23
+C) 21.5
+D) 108
 
 77. A dataset contains the values 3, 6, 9, 9, 9, 12, 15, and 18. What is the mode?
 
-A) 3
-B) 6
-C) 9
-D) 12
+A) 7
+B) 14
+C) 3.5
+D) 35
 
 78. A container holds 10 red balls, 8 blue balls, and 6 green balls. If one ball is selected at random, what is the probability that it is blue?
 
@@ -657,24 +657,24 @@ D) 7/12
 
 79. A right triangle has legs measuring 7 and 24 units. What is the length of the hypotenuse?
 
-A) 23
+A) 20
 B) 24
-C) 25
-D) 26
+C) √625
+D) 49
 
 80. A right triangle has a hypotenuse of 34 units and one leg of 16 units. What is the length of the other leg?
 
-A) 28
-B) 29
-C) 30
-D) 31
+A) 11.2
+B) 28
+C) 39.2
+D) 140
 
 81. Two similar triangles have corresponding sides in a ratio of 4:9. If the perimeter of the smaller triangle is 48 units, what is the perimeter of the larger triangle?
 
-A) 104
-B) 106
-C) 108
-D) 110
+A) 43.2
+B) 108
+C) 151.2
+D) 270
 
 82. A triangle has sides of length 6, 8, and 10 units. Which statement about this triangle is correct?
 
@@ -713,10 +713,10 @@ D) 5π/6
 
 87. If f(x) = 4x² - 9x + 2, what is f(3)?
 
-A) 5
-B) 7
-C) 9
-D) 11
+A) 8
+B) 16
+C) 4
+D) 40
 
 88. If g(x) = 7x - 15, what is g(-4)?
 
@@ -755,10 +755,10 @@ D) Cannot be simplified
 
 93. If √(5x + 11) = 11, what is the value of x?
 
-A) 20
-B) 21
-C) 22
-D) 23
+A) 0
+B) 22
+C) 110
+D) 132
 
 94. What is √(x² - 14x + 49) in simplified form?
 

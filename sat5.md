@@ -509,59 +509,59 @@ SECTION 2: MATH (Questions 55–98)
 
 A company's cost C = 10(x + 6) and revenue R = 7(x - 3), where x is units. If C = R, what is x?
 
-A) -33
-B) -31
-C) -29
-D) -27
+A) -27
+B) 27
+C) -81/3
+D) 81
 
 If 9x - 18 ≥ 45, what is the smallest integer value of x that satisfies this inequality?
 
-A) 6
-B) 7
-C) 8
-D) 9
+A) 7
+B) 8
+C) 3
+D) 63
 
 A linear function f(x) = mx + b passes through (0, 4) and (7, 25). What is m?
 
-A) 2
-B) 3
-C) 4
-D) 5
+A) 3
+B) -3
+C) 21/29
+D) 29
 
 If 10x + 17 = 7x + 38, what is x?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 7
+B) -7
+C) 55/17
+D) 21
 
 If 9x + 4y = 73 and 6x - y = 23, what is x?
 
 A) 5
-B) 6
-C) 7
-D) 8
+B) 165/33
+C) -5
+D) 96
 
 If 8x + 6y = 82 and x = 11, what is y?
 
-A) -2
-B) -1
-C) 0
-D) 1
+A) -1
+B) 1
+C) -6
+D) 170
 
 Lines y = 6x - 5 and y = -4x + 25 intersect. What is the y-coordinate?
 
-A) 13
-B) 17
-C) 21
-D) 25
+A) 3
+B) 13
+C) 25
+D) -13
 
 If 10a + 6b = 104 and a + b = 14, what is b?
 
-A) 6
-B) 7
-C) 8
-D) 9
+A) 9
+B) 5
+C) -9
+D) 36
 
 If x² + 10x - 56 = 0, what are the solutions?
 
@@ -595,15 +595,15 @@ If 10^(2x) = 100, what is x?
 
 A) 1
 B) 2
-C) 3
-D) 10
+C) 50
+D) 1000
 
 If 6^(x+3) = 216, what is x?
 
 A) 0
-B) 1
-C) 2
-D) 3
+B) 3
+C) 213
+D) 1296
 
 A virus population quintuples every 5 hours. Starting with 100 viruses, which expression represents the population after t hours?
 
@@ -614,52 +614,52 @@ D) 500(5)^(t/2)
 
 If 11^x = 1331, what is x?
 
-A) 2
-B) 3
-C) 4
-D) 121
+A) 3
+B) 121
+C) 1320
+D) 14641
 
 A diagram scale is 1 inch : 25 feet. If a hallway is 8 inches on the diagram, what is the actual length?
 
-A) 180 feet
-B) 190 feet
+A) 0.32 feet
+B) 33 feet
 C) 200 feet
-D) 210 feet
+D) 2000 feet
 
 A television priced at $1,080 is discounted 45%. What is the sale price?
 
-A) $584
+A) $486
 B) $594
-C) $604
-D) $614
+C) $1,035
+D) $1,566
 
 If 65% of a number is 156, what is the number?
 
-A) 220
-B) 230
+A) 101.4
+B) 221
 C) 240
-D) 250
+D) 2.4
 
 A business marks up wholesale by 85%. If wholesale is $200, what is retail price?
 
-A) $355
-B) $365
+A) $170
+B) $235.29
 C) $370
-D) $380
+D) $285
 
 Test scores: 74, 80, 87, 92, 97. What is the mean?
 
-A) 84
+A) 83
 B) 86
-C) 87
-D) 88
+C) 430
+D) 17.2
 
 Ages: 17, 20, 23, 23, 27. What is the median?
 
-A) 20
-B) 22
-C) 23
-D) 24
+A) 21
+B) 23
+C) 22
+D) 110
 
 Dataset: 8, 13, 15, 15, 18, 21. What is the mode?
 
@@ -677,24 +677,24 @@ D) 4/9
 
 A right triangle has legs of 8 and 15. What is the hypotenuse?
 
-A) 15
-B) 16
-C) 17
-D) 18
+A) 16
+B) √289
+C) 19
+D) 51
 
 A right triangle has hypotenuse 37 and one leg 35. What is the other leg?
 
-A) 10
+A) 4.4
 B) 11
-C) 12
-D) 13
+C) 15.4
+D) 44
 
 Similar triangles have ratio 5:11. If smaller perimeter is 60, what is larger perimeter?
 
-A) 130
+A) 52.8
 B) 132
-C) 134
-D) 136
+C) 190.8
+D) 330
 
 A triangle has sides 7, 24, 25. Is it a right triangle?
 
@@ -733,10 +733,10 @@ D) 4π/5
 
 If f(x) = 5x² - 11x - 8, what is f(4)?
 
-A) 24
-B) 26
-C) 28
-D) 30
+A) 28
+B) 56
+C) 80
+D) -28
 
 If g(x) = 7x - 15, what is g(-5)?
 
@@ -775,10 +775,10 @@ D) Cannot be simplified
 
 If √(6x + 13) = 13, what is x?
 
-A) 24
-B) 26
-C) 28
-D) 30
+A) 0
+B) 28
+C) 156
+D) 182
 
 What is √(x² - 16x + 64) simplified?
 

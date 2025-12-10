@@ -490,50 +490,50 @@ If 4x - 7 ≥ 21, what is the smallest integer value of x?
 
 A) 6
 B) 7
-C) 8
-D) 9
+C) 3
+D) 54
 
 A line passes through points (0, 5) and (3, 17). What is the slope?
 
-A) 3
-B) 4
-C) 5
-D) 6
+A) 4
+B) -4
+C) 22/3
+D) 12
 
 If 8x + 13 = 5x + 34, what is x?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 7
+B) -7
+C) 47/13
+D) 21
 
 If 4x + 5y = 49 and 2x - y = 7, what is x?
 
-A) 5
-B) 6
-C) 7
-D) 8
+A) 6
+B) 84/14
+C) -6
+D) 56
 
 If 7x + 2y = 50 and x = 6, what is y?
 
-A) 2
-B) 3
-C) 4
-D) 5
+A) 4
+B) 8
+C) -4
+D) 92
 
 Lines y = 3x + 2 and y = -2x + 27 intersect. What is the y-coordinate of intersection?
 
-A) 15
+A) 5
 B) 17
-C) 19
-D) 21
+C) 27
+D) -17
 
 If 5a + 2b = 27 and a + b = 9, what is b?
 
-A) 4
-B) 5
-C) 6
-D) 7
+A) 6
+B) 3
+C) -6
+D) 18
 
 If x² + 6x - 27 = 0, what are the solutions?
 
@@ -565,17 +565,17 @@ D) -28
 
 If 3^(2x) = 81, what is x?
 
-A) 1
-B) 2
-C) 3
-D) 4
+A) 2
+B) 4
+C) 77
+D) 6561
 
 If 2^(x+4) = 64, what is x?
 
-A) 1
-B) 2
-C) 3
-D) 4
+A) 2
+B) 6
+C) 60
+D) 4096
 
 A bacteria population triples every 3 hours. Starting with 80 bacteria, which expression represents the population after h hours?
 
@@ -586,52 +586,52 @@ D) 80(3)^(h-3)
 
 If 4^x = 256, what is x?
 
-A) 2
-B) 3
-C) 4
-D) 64
+A) 4
+B) 64
+C) 252
+D) 65536
 
 A map scale is 1 inch : 15 feet. If a hallway is 4 inches on the map, what is the actual length?
 
-A) 50 feet
-B) 55 feet
+A) 0.27 feet
+B) 19 feet
 C) 60 feet
-D) 65 feet
+D) 600 feet
 
 A laptop priced at $960 is discounted 35%. What is the sale price?
 
-A) $604
-B) $614
-C) $624
-D) $634
+A) $336
+B) $624
+C) $925
+D) $1,296
 
 If 36% of a number is 144, what is the number?
 
-A) 380
-B) 390
+A) 51.84
+B) 180
 C) 400
-D) 410
+D) 4
 
 A store marks up wholesale cost by 90%. If wholesale is $85, what is retail price?
 
-A) $151.50
-B) $156.50
+A) $76.50
+B) $94.44
 C) $161.50
-D) $166.50
+D) $175
 
 Test scores: 68, 74, 82, 88, 93. What is the mean?
 
-A) 79
-B) 80
-C) 81
-D) 82
+A) 80
+B) 81
+C) 82
+D) 405
 
 Ages: 12, 16, 19, 19, 23, 25. What is the median?
 
-A) 18
+A) 17.5
 B) 19
-C) 20
-D) 21
+C) 19.5
+D) 114
 
 Dataset: 7, 9, 12, 12, 12, 15, 18. What is the mode?
 
@@ -650,23 +650,23 @@ D) 9/20
 A right triangle has legs of 9 and 12. What is the hypotenuse?
 
 A) 13
-B) 14
-C) 15
-D) 16
+B) √196
+C) 17
+D) 41
 
 A right triangle has hypotenuse 29 and one leg 20. What is the other leg?
 
-A) 19
-B) 20
-C) 21
-D) 22
+A) 7.6
+B) 19
+C) 26.6
+D) 95
 
 Similar triangles have a ratio of 3:7. If the smaller perimeter is 42, what is the larger perimeter?
 
-A) 92
-B) 94
-C) 96
-D) 98
+A) 36.8
+B) 92
+C) 132.8
+D) 322
 
 A triangle has sides 7, 24, 25. Is it a right triangle?
 
@@ -705,10 +705,10 @@ D) 3π/4
 
 If f(x) = 3x² - 8x + 5, what is f(4)?
 
-A) 19
-B) 21
-C) 23
-D) 25
+A) 21
+B) 42
+C) 10.5
+D) 105
 
 If g(x) = 5x - 11, what is g(-3)?
 
@@ -747,10 +747,10 @@ D) Cannot be simplified
 
 If √(4x + 9) = 9, what is x?
 
-A) 16
-B) 17
-C) 18
-D) 19
+A) 0
+B) 18
+C) 72
+D) 90
 
 What is √(x² - 12x + 36) simplified?
 
