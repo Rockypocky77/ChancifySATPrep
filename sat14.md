@@ -37,16 +37,16 @@ It sounded small, but it was mine. Maybe being seen was terrifying—but hiding 
 The passage primarily focuses on
 
 
-A) the technical difficulties of running stage lights and equipment operation.
+A) the mechanical challenges and operational complexities involved in managing theatrical lighting systems and technical equipment during performances.
 
 
-B) a disagreement between two friends about a school play and casting decisions.
+B) a conflict between two friends regarding participation in a school production and disagreements about role assignments and casting choices.
 
 
-C) how a student learns to overcome disappointment after failing an audition and rejection.
+C) a student's process of processing and moving beyond the emotional impact of unsuccessful audition outcomes and learning to cope with rejection.
 
 
-D) an experienced backstage student deciding to risk performing onstage.
+D) a student with extensive backstage experience making a deliberate choice to step outside their comfort zone and attempt onstage performance despite uncertainty and fear.
 
 
 Which choice provides the best evidence for the answer to the previous question?
@@ -67,37 +67,37 @@ D) "Maybe being seen was terrifying—but hiding felt worse."
 The description "My heart hammered in my chest like someone knocking on a door from the inside" (paragraph 6) primarily emphasizes the narrator's
 
 
-A) physical exhaustion after rehearsal.
+A) physical fatigue and depletion of energy reserves following extended rehearsal periods and practice sessions.
 
 
-B) anger at the director's decision.
+B) frustration and resentment directed toward the director's choices and decisions regarding the production or casting process.
 
 
-C) intense nervousness and anticipation.
+C) profound anxiety and eager expectation, with physiological responses reflecting the emotional intensity of the approaching audition experience.
 
 
-D) confusion about the audition schedule.
+D) uncertainty and lack of clarity about the specific timing, location, and procedural details of the audition process.
 
 
 The first paragraph mainly serves to
 
 
-A) explain why the narrator dislikes theater.
+A) provide reasons for the narrator's negative feelings toward theatrical activities and explain their aversion to drama programs.
 
 
-B) contrast the narrator's earlier comfort backstage with the new challenge of being onstage.
+B) establish a comparison between the narrator's previous sense of security and competence in backstage roles and their current apprehension about transitioning to onstage performance.
 
 
-C) describe the ending of the spring play.
+C) recount the conclusion and final scenes of the spring theatrical production, detailing how the play reaches its resolution.
 
 
-D) show that the narrator was forced to work in the light booth.
+D) demonstrate that the narrator had no choice but to accept the light booth position and was compelled to work there against their preferences.
 
 
 Which inference about Rowan is best supported by the passage?
 
 
-A) Rowan plans to skip the audition at the last minute.
+A) Rowan intends to withdraw from the audition process immediately before it occurs, deciding not to participate despite previous commitment.
 
 
 B) Rowan is afraid of performing but is choosing to audition anyway.
