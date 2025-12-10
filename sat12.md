@@ -25,16 +25,16 @@ He paused, fingers hovering above the keyboard. Journalism was supposed to tell 
 The passage primarily explores the narrator's experience of
 
 
-A) how school newspapers are funded and financial support mechanisms.
+A) the financial structures and funding mechanisms that support student publications and how resources are allocated for journalistic activities.
 
 
-B) the history of cafeteria food in schools and meal service evolution.
+B) the historical development of school meal programs and how cafeteria services have evolved over time to meet changing nutritional standards and student needs.
 
 
-C) a student's struggle to balance honesty with responsibility in reporting.
+C) the ethical tension between reporting truthfully about institutional problems and recognizing the potential consequences of published words on real individuals and communities.
 
 
-D) a teacher's attempt to censor student journalism and restrict press freedom.
+D) an educator's efforts to suppress student expression and limit journalistic freedom through editorial interference and content restrictions.
 
 
 Which choice provides the best evidence for the answer to the previous question?
@@ -55,28 +55,28 @@ D) "Journalism was supposed to tell the truth, but he couldn't ignore that his w
 In the context of the passage, the phrase "his words had weight" most nearly suggests that Alex
 
 
-A) thinks no one will read his article and lacks audience interest.
+A) perceives that his article will receive minimal readership and fails to generate meaningful engagement or interest among the school community.
 
 
-B) believes his writing style is too formal and needs simplification.
+B) recognizes that his prose employs overly complex language structures that require simplification to improve accessibility and comprehension.
 
 
-C) understands that his article could affect real people.
+C) comprehends that his published reporting possesses the capacity to influence, impact, or cause consequences for actual individuals, including students and staff members.
 
 
-D) worries that the newspaper is too long and exceeds space limits.
+D) concerns himself with the physical length of his article and whether it exceeds the spatial constraints and layout limitations of the publication.
 
 
 The description of Alex's freshman-year articles ("club fund-raisers and pep rallies") primarily serves to
 
 
-A) show that he was once uninterested in journalism.
+A) demonstrate that he previously lacked engagement with journalistic work and approached reporting with indifference or apathy.
 
 
-B) contrast his earlier light topics with his current more serious subject.
+B) establish a comparison between his past coverage of uncontroversial, celebratory events and his present investigation of substantive issues that involve potential criticism and accountability.
 
 
-C) criticize the lack of important news at his school.
+C) express disapproval of the school's failure to provide opportunities for covering significant news stories and meaningful journalistic content.
 
 
 D) suggest that he prefers sports reporting to other topics.

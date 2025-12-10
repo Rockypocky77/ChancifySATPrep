@@ -19,16 +19,16 @@ Lena stopped mid-measure and let the chord fade. She realized she could no longe
 The passage primarily explores the narrator's experience of
 
 
-A) the history of piano competitions and their evolution over time.
+A) the evolution of musical performance standards from childhood to professional competitions and how expectations change over time.
 
 
-B) the pressure a student feels when performance becomes a measure of worth.
+B) the psychological tension between intrinsic motivation and external validation, where artistic expression becomes entangled with self-worth measurement.
 
 
-C) the difference between classical and modern music and stylistic variations.
+C) the stylistic differences between informal family performances and formal competitive settings, highlighting how context shapes musical interpretation.
 
 
-D) the technical difficulty of advanced piano pieces and performance challenges.
+D) the technical mastery required for advanced repertoire and the physical challenges of maintaining precision under performance pressure.
 
 
 Which choice provides the best evidence for the answer to the previous question?
@@ -49,61 +49,61 @@ D) "Now, at seventeen, they felt heavy, like evidence."
 In the passage, the phrase "her mind lagged behind, stumbling over what-ifs" most nearly suggests that Lena
 
 
-A) is bored by the piece she is playing and lacks interest.
+A) finds the repetitive practice monotonous and struggles to maintain engagement with familiar material.
 
 
-B) has forgotten how to play the piano and lost her skills.
+B) experiences cognitive interference where muscle memory functions automatically while her conscious mind becomes preoccupied with potential negative outcomes.
 
 
-C) is distracted by anxious thoughts about the competition.
+C) is mentally rehearsing various scenarios and possible consequences rather than focusing on the present moment of performance.
 
 
-D) is trying to memorize new music while performing and learning simultaneously.
+D) attempts to process new musical information during execution, creating a disconnect between learning and performing.
 
 
 The description of Lena's childhood performances ("wrong notes had made everyone laugh") primarily serves to
 
 
-A) show that her relatives did not take her talent seriously.
+A) illustrate how family members viewed musical mistakes as endearing rather than consequential, establishing a baseline of acceptance.
 
 
-B) contrast the relaxed atmosphere of the past with the high stakes she feels now.
+B) establish a temporal contrast between an environment where errors were met with affectionate humor and her current reality where mistakes carry evaluative weight and personal significance.
 
 
-C) criticize her family for not training her more strictly.
+C) demonstrate that early training lacked the discipline necessary for serious musical development, suggesting a missed opportunity for rigorous preparation.
 
 
-D) suggest that she preferred performing at home to performing in public.
+D) reveal her preference for intimate, supportive performance contexts over formal competitive environments that demand perfection.
 
 
 Which inference about Lena is best supported by the passage?
 
 
-A) She plans to quit piano after the competition.
+A) She has reached a point where she questions the sustainability of continuing piano if it remains tied to external validation rather than personal fulfillment.
 
 
-B) She is unsure whether her motivation comes from passion or pressure.
+B) She experiences uncertainty about whether her continued engagement with piano stems from genuine artistic passion or from fear of failure and the need to prove her worth through performance.
 
 
-C) She believes the judges will be unfair to her.
+C) She anticipates that the judging process will be biased against her, leading her to doubt the fairness of competitive evaluation systems.
 
 
-D) She secretly wishes she had chosen a different instrument.
+D) She regrets her instrument choice and imagines that selecting a different musical path might have led to greater satisfaction and less pressure.
 
 
 The tone of the passage is best described as
 
 
-A) humorous and lighthearted.
+A) wryly observant with moments of gentle irony that highlight the absurdity of performance anxiety.
 
 
-B) angry and confrontational.
+B) frustrated and accusatory, pointing blame at the competitive system and its evaluative pressures.
 
 
-C) determined and triumphant.
+C) resolute and confident, suggesting that determination will overcome obstacles and lead to success.
 
 
-D) tense and introspective.
+D) contemplative and anxious, capturing the internal conflict and psychological weight of performance expectations through reflective, measured prose.
 
 
 Questions 7–12: Social Science Passage
@@ -121,91 +121,91 @@ Rather than treating remote work as a universal solution or a temporary fad, som
 The primary purpose of the passage is to
 
 
-A) argue that remote work should replace in-person work entirely.
+A) advocate for a complete transition to remote work arrangements, arguing that technological advances make physical offices obsolete and that employee preferences should drive organizational change.
 
 
-B) describe the rise of remote work and how hybrid models attempt to balance its benefits and challenges.
+B) examine the growing prevalence of remote work arrangements, identify both advantages and limitations of fully remote models, and present hybrid approaches as potential solutions that address multiple concerns simultaneously.
 
 
-C) explain how remote work harms all types of jobs.
+C) demonstrate that remote work negatively impacts productivity, collaboration, and employee development across all industries and job categories without exception.
 
 
-D) promote working exclusively from the office.
+D) encourage organizations to return to traditional office-based work models, emphasizing the superior benefits of in-person interaction and dismissing remote work as a temporary trend.
 
 
 According to the passage, which factor limits the spread of remote work?
 
 
-A) Employees dislike using screens for communication.
+A) Workers find digital communication tools inadequate substitutes for face-to-face interaction and resist adopting screen-based collaboration methods.
 
 
-B) Remote work always lowers productivity.
+B) Research consistently shows that remote work arrangements result in decreased output and efficiency compared to traditional office settings.
 
 
-C) Some jobs require workers to be physically present.
+C) Certain occupations fundamentally depend on physical presence and direct interaction with materials, equipment, or people, making remote work structurally impossible for those roles.
 
 
-D) Hybrid schedules are too expensive to implement.
+D) The financial costs associated with implementing hybrid work models, including technology infrastructure and space reconfiguration, exceed what most organizations can afford.
 
 
 The author distinguishes between fully remote work and hybrid models primarily to
 
 
-A) show that hybrid models are less popular.
+A) demonstrate that hybrid arrangements have lower adoption rates and less employee satisfaction compared to fully remote options.
 
 
-B) argue that fully remote work is impossible.
+B) establish that complete remote work is fundamentally unworkable and that some form of in-person presence is always necessary for organizational success.
 
 
-C) suggest that workers prefer hybrid schedules only when forced.
+C) indicate that hybrid schedules represent a compromise that employees accept reluctantly when full remote work is unavailable, rather than a preferred option.
 
 
-D) illustrate that some organizations are seeking a middle ground.
+D) highlight how certain organizations are exploring solutions that combine elements of both remote and in-person work to address multiple competing needs and concerns.
 
 
 Which inference is best supported by the passage?
 
 
-A) No single approach to work arrangements meets the needs of all jobs and employees.
+A) Different work arrangements suit different contexts, and a one-size-fits-all solution fails to account for the varied requirements of different industries, roles, and individual preferences.
 
 
-B) Remote work will soon disappear as offices reopen.
+B) The shift toward remote work represents a temporary phenomenon that will reverse as organizations recognize the limitations and return to traditional office-based models.
 
 
-C) Hybrid work eliminates all concerns about isolation.
+C) Hybrid work models completely resolve issues of employee isolation and disconnection that arise in fully remote environments, providing perfect solutions to all remote work challenges.
 
 
-D) Employees generally prefer commuting to the office every day.
+D) Most workers find daily office commutes preferable to remote work options, valuing the routine and structure that traditional work arrangements provide.
 
 
 The author's attitude toward remote and hybrid work can best be described as
 
 
-A) strongly enthusiastic and uncritical.
+A) unreservedly positive, presenting remote work as an unqualified improvement over traditional arrangements without addressing potential drawbacks.
 
 
-B) dismissive and skeptical.
+B) fundamentally negative, treating remote work as a problematic trend that undermines workplace effectiveness and should be avoided.
 
 
-C) balanced, acknowledging both benefits and challenges.
+C) measured and analytical, recognizing both the advantages that remote work offers to certain employees and the limitations that prevent it from being universally applicable, while exploring hybrid solutions.
 
 
-D) indifferent and uninterested.
+D) neutral and disengaged, presenting information without taking a position or expressing interest in the implications of different work arrangements.
 
 
 Which choice best describes the structure of the passage?
 
 
-A) A personal story is told to support a scientific claim.
+A) An anecdotal example from an individual's experience provides empirical evidence that validates a broader scientific principle about work arrangements.
 
 
-B) A trend is introduced, its limitations are discussed, and a compromise approach is presented.
+B) A contemporary development is presented, followed by analysis of constraints and challenges it faces, concluding with exploration of alternative solutions that address multiple concerns.
 
 
-C) A problem is described and then definitively solved.
+C) A workplace challenge is identified and analyzed, leading to a conclusive resolution that eliminates all associated difficulties and provides a definitive answer.
 
 
-D) Two unrelated workplace topics are briefly mentioned.
+D) Multiple distinct workplace phenomena are introduced sequentially without establishing connections or relationships between them.
 
 
 Questions 13–20: Natural Science Passage with Data
@@ -235,16 +235,16 @@ Based on these data, the researcher concluded that increasing temperature genera
 The main purpose of the passage is to
 
 
-A) prove that all reactions stop above 40°C.
+A) establish that chemical reactions universally cease functioning when temperatures exceed 40 degrees Celsius, demonstrating an absolute temperature limit.
 
 
-B) describe an experiment that shows how temperature influences reaction speed.
+B) present experimental methodology and results that demonstrate the relationship between temperature variation and the rate at which a chemical reaction proceeds, including observations about the pattern of change.
 
 
-C) compare reactions in liquids and gases.
+C) analyze the differences between reaction mechanisms in liquid versus gaseous states and how phase affects temperature sensitivity.
 
 
-D) argue that only high temperatures lead to chemical changes.
+D) demonstrate that elevated temperatures are necessary prerequisites for initiating chemical transformations and that low temperatures prevent reactions entirely.
 
 
 Between which pair of temperatures does the reaction time decrease by the greatest number of seconds?
@@ -265,31 +265,31 @@ D) 30°C and 40°C
 Compared with the reaction at 20°C, the reaction at 30°C
 
 
-A) takes longer to complete.
+A) requires a greater duration to reach completion, indicating that higher temperatures slow reaction progress.
 
 
-B) finishes more quickly.
+B) reaches completion in less time, demonstrating that increased temperature accelerates the reaction process.
 
 
-C) shows no difference in time.
+C) exhibits identical completion times, suggesting that temperature changes within this range have negligible effects on reaction kinetics.
 
 
-D) cannot be measured.
+D) produces results that fall outside measurable parameters, making comparison impossible with available instrumentation.
 
 
 The data most strongly support which statement?
 
 
-A) Reaction time increases steadily as temperature increases.
+A) Reaction duration increases in a linear, predictable manner as temperature rises, following a consistent mathematical relationship.
 
 
-B) Temperature has no clear relationship with reaction time.
+B) No discernible pattern connects temperature variations to reaction timing, indicating that these variables operate independently.
 
 
-C) Higher temperatures generally correspond to faster (shorter) reactions.
+C) Elevated temperatures tend to correlate with reduced reaction durations, though the magnitude of change varies across different temperature intervals rather than following a uniform pattern.
 
 
-D) The reaction time is always cut in half when the temperature increases by 10°C.
+D) Each 10-degree temperature increase produces exactly a 50% reduction in reaction time, creating a precise halving effect that applies consistently across all temperature ranges.
 
 
 Suppose the researcher tested the reaction at 50°C. Which prediction is most reasonable based on the pattern in the data?
@@ -325,31 +325,31 @@ D) "The results are described as follows…"
 If the data were graphed with temperature on the horizontal axis and reaction time on the vertical axis, the line of best fit would most likely have
 
 
-A) a positive slope, because higher temperatures mean longer times.
+A) an upward-sloping trend, indicating that increased temperature values correspond to increased reaction duration measurements.
 
 
-B) a negative slope, because higher temperatures mean shorter times.
+B) a downward-sloping trend, showing that as temperature increases along the horizontal axis, reaction time decreases along the vertical axis.
 
 
-C) a slope of zero, because time does not change with temperature.
+C) a horizontal line with no slope, demonstrating that reaction time remains constant regardless of temperature variations.
 
 
-D) alternating positive and negative segments.
+D) a complex pattern with segments that slope upward and downward in alternating sequence, reflecting inconsistent temperature-time relationships.
 
 
 In the context of this passage, the word "effect" in "effect of temperature" most nearly refers to
 
 
-A) the appearance of the thermometer.
+A) the visual characteristics and physical properties of the temperature-measuring instrument used in the experiment.
 
 
-B) the cause of the reaction.
+B) the underlying mechanism or factor that initiates and drives the chemical reaction process itself.
 
 
-C) the influence temperature has on reaction time.
+C) the measurable impact or influence that variations in temperature exert on the duration required for the reaction to proceed to completion.
 
 
-D) the researcher's opinion of the results.
+D) the subjective interpretation or evaluative judgment that the researcher forms regarding the experimental outcomes and their significance.
 
 
 Questions 21–30: Paired Passages (Humanities / Education)
@@ -376,46 +376,46 @@ This does not mean laptops should be banned. Instead, educators might teach stud
 Both passages most strongly suggest that
 
 
-A) typing notes is always a distraction.
+A) digital note-taking consistently interferes with learning and should be eliminated from all educational contexts regardless of circumstances.
 
 
-B) handwritten notes are neater than typed notes.
+B) handwritten notes possess superior organizational qualities and visual clarity compared to digitally produced text, making them inherently more effective.
 
 
-C) the way students take notes affects how they process information.
+C) the method students employ for capturing information during lectures influences their cognitive engagement, comprehension depth, and ability to synthesize material.
 
 
-D) laptops should be prohibited in all classrooms.
+D) educational institutions should implement universal bans on laptop computers in classroom settings to prevent distraction and improve learning outcomes.
 
 
 The central claim of Passage 2 is that
 
 
-A) laptops should replace notebooks in college classrooms.
+A) digital devices represent the future of education and should completely supplant traditional notebook-based note-taking systems in academic settings.
 
 
-B) both handwritten and digital note-taking have roles when used thoughtfully.
+B) different note-taking approaches serve distinct purposes and can be valuable when selected intentionally based on learning goals, course content, and cognitive objectives.
 
 
-C) instructors should punish students who use social media during class.
+C) educators must implement disciplinary measures against students who engage with non-academic digital content during instructional time to maintain classroom focus.
 
 
-D) note-taking methods have no effect on learning.
+D) the specific technique used for recording information has no measurable impact on student comprehension, retention, or academic performance outcomes.
 
 
 Compared with the tone of Passage 2, the tone of Passage 1 is more
 
 
-A) analytical and detached.
+A) objective and removed, presenting information without emotional investment or personal perspective.
 
 
-B) nostalgic and personal.
+B) reflective and intimate, drawing on personal experience and emotional connection to convey insights about the note-taking process.
 
 
-C) pessimistic and hostile.
+C) negative and antagonistic, expressing frustration and opposition toward alternative approaches or competing viewpoints.
 
 
-D) technical and formal.
+D) specialized and academic, employing technical terminology and formal language structures typical of scholarly discourse.
 
 
 Which choice provides the best evidence in Passage 2 that handwritten notes may support deeper thinking?
@@ -436,91 +436,91 @@ D) "This does not mean laptops should be banned."
 Both passages would most likely agree that
 
 
-A) students should never use laptops during lectures.
+A) laptop computers have no legitimate place in lecture settings and should be completely excluded from classroom environments.
 
 
-B) note-taking is more than simply writing down everything a speaker says.
+B) effective note-taking involves active processing, selection, and organization of information rather than verbatim transcription of all spoken content.
 
 
-C) typing notes is better for learning than handwriting.
+C) digital note-taking methods produce superior learning outcomes compared to handwritten approaches across all academic contexts and subject areas.
 
 
-D) instructors should choose one note-taking method for all courses.
+D) educational institutions should mandate uniform note-taking techniques for all courses to ensure consistency and standardization.
 
 
 In Passage 1, the author's description of "arrows connecting ideas" and "comments squeezed into margins" primarily serves to
 
 
-A) criticize the author's handwriting.
+A) acknowledge deficiencies in penmanship and calligraphic skills that detract from note quality and readability.
 
 
-B) show that the author is not paying attention during lectures.
+B) demonstrate that the author fails to maintain focus during instructional periods and engages in tangential activities.
 
 
-C) illustrate how handwritten notes reflect a process of actively organizing ideas.
+C) exemplify how handwritten notes capture the dynamic, non-linear process of actively synthesizing, connecting, and restructuring information during learning.
 
 
-D) suggest that the author is uninterested in the material.
+D) indicate that the author lacks genuine engagement with course material and approaches learning with indifference or apathy.
 
 
 In Passage 2, the phrase "the goal is not to declare one method superior" most nearly means that the author
 
 
-A) believes one method is clearly better.
+A) actually considers one approach definitively superior but chooses not to state this conclusion explicitly.
 
 
-B) thinks note-taking is unnecessary.
+B) considers note-taking practices irrelevant to learning outcomes and believes students can succeed without recording information.
 
 
-C) wants students to choose methods based on context rather than habit.
+C) advocates for intentional selection of note-taking strategies that match specific learning contexts, course requirements, and cognitive objectives rather than defaulting to habitual approaches.
 
 
-D) wants universities to ban physical notebooks.
+D) recommends that educational institutions eliminate traditional paper-based notebooks in favor of exclusively digital documentation systems.
 
 
 Which choice best describes the relationship between the two passages?
 
 
-A) Passage 1 offers a personal example that supports the more general claims made in Passage 2.
+A) Passage 1 provides an individual, experiential perspective that illustrates and reinforces the broader, research-based observations and recommendations presented in Passage 2.
 
 
-B) Passage 1 contradicts the research findings described in Passage 2.
+B) Passage 1 presents evidence or viewpoints that directly conflict with or undermine the scientific findings and conclusions reported in Passage 2.
 
 
-C) Passage 2 summarizes the plot of Passage 1.
+C) Passage 2 condenses the narrative events, character development, and story progression contained within Passage 1 into a brief synopsis.
 
 
-D) The passages discuss unrelated topics.
+D) The passages address completely separate subjects with no thematic, conceptual, or substantive connections between them.
 
 
 On which point would the authors most likely disagree?
 
 
-A) Whether handwritten notes can help students see connections among ideas.
+A) Whether handwritten note-taking methods facilitate students' ability to identify relationships, patterns, and connections between different concepts and pieces of information.
 
 
-B) Whether students sometimes misuse laptops in class.
+B) Whether students occasionally engage in inappropriate or non-academic uses of laptop computers during instructional periods.
 
 
-C) Whether laptops should be banned entirely from classrooms.
+C) Whether educational institutions should implement complete prohibitions on laptop computers in classroom environments, eliminating all digital devices regardless of context or purpose.
 
 
-D) Whether summarizing information is part of note-taking.
+D) Whether the process of condensing and synthesizing information into concise summaries represents an essential component of effective note-taking practices.
 
 
 The final sentence of Passage 2 ("The goal is not… intentional choices.") mainly serves to
 
 
-A) introduce a new criticism of laptops.
+A) present an additional negative assessment of laptop computers and their detrimental effects on classroom learning environments.
 
 
-B) clarify that the author advocates flexibility and strategy in choosing note-taking methods.
+B) emphasize that the author supports adaptable, context-aware selection of note-taking approaches rather than rigid adherence to a single method, encouraging strategic decision-making.
 
 
-C) argue that digital notes are always more efficient.
+C) establish that digital note-taking systems consistently produce superior efficiency and effectiveness compared to all alternative approaches.
 
 
-D) suggest that students should avoid changing their habits.
+D) recommend that students maintain their existing note-taking routines without modification, avoiding experimentation with different techniques.
 
 
 Questions 31–37: Writing / Expression of Ideas
