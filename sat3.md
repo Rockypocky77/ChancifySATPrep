@@ -513,12 +513,12 @@ B) -6
 C) 42/7
 D) 18
 
-If 6x + 5y = 53 and 4x - y = 11, what is x?
+If 6x + 5y = 54 and 4x - y = 10, what is x?
 
 A) 4
 B) 5
-C) -4
-D) 11
+C) 6
+D) 7
 
 If 6x + 3y = 51 and x = 7, what is y?
 
@@ -855,12 +855,12 @@ Reading & Writing (1–54)
 Math (55–98)
 55. A
 56. B
-57. B
-58. C
+57. A
+58. A
 59. A
-60. C
-61. B
-62. C
+60. A
+61. A
+62. B
 63. A
 64. A
 65. B
