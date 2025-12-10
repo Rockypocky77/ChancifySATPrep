@@ -652,9 +652,9 @@ D) 24
 
 A box contains 10 red, 8 blue, and 7 yellow balls. If two balls are selected at random without replacement, what is the probability that both balls are red?
 
-A) 100/625
+A) 1/4
 B) 3/20
-C) 10/25
+C) 2/5
 D) 1/6
 
 A right triangle has legs of lengths 8 and 15. If the triangle is inscribed in a circle such that the hypotenuse is a diameter of the circle, what is the area of the circle in terms of π?
@@ -668,7 +668,7 @@ In a right triangle, the hypotenuse is 34 and one leg is 16. What is the length 
 
 A) 18
 B) 30
-C) √900
+C) 900
 D) 50
 
 Two similar triangles have a side-length ratio of 3:8. If the smaller triangle's perimeter is 42, what is the perimeter of the larger triangle?
@@ -873,30 +873,30 @@ Math (Questions 55–98)
 68. A
 69. B
 70. B
-71. B
+71. A
 72. B
 73. C
-74. B
+74. C
 75. B
 76. B
-77. B
-78. A
-79. A
-80. A
+77. C
+78. B
+79. B
+80. B
 81. B
 82. C
 83. A
 84. B
 85. B
 86. A
-87. A
-88. B
-89. A
+87. B
+88. A
+89. B
 90. A
-91. B
-92. B
+91. A
+92. A
 93. B
-94. A
+94. B
 95. B
 96. B
 97. B
