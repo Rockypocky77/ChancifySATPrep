@@ -825,7 +825,7 @@ What is f(3) + f(2)?
 
 A) 8
 B) 9
-C) 10
+C) 12
 D) 11
 
 97. A data set shows the relationship between study hours (x) and test scores (y) for 5 students:
@@ -944,7 +944,7 @@ Math (55–98)
 92. B
 93. B
 94. B
-95. B
-96. B
+95. A
+96. C
 97. A
 98. C
