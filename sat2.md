@@ -545,12 +545,12 @@ B) 2
 C) 6
 D) 12
 
-A quadratic equation models the height h (in meters) of a projectile: h = x² + 3x - 40, where x is time in seconds. At what times does the projectile reach ground level (h = 0)?
+A quadratic equation models the height h (in meters) of a projectile: h = x² + 3x - 40, where x is time in seconds. At what positive time does the projectile reach ground level (h = 0)?
 
-A) x = -8 or x = 5
-B) x = 8 or x = -5
-C) x = -5 or x = 8
-D) x = 5 or x = -8
+A) 5 seconds
+B) 8 seconds
+C) 13 seconds
+D) 16 seconds
 
 If (x + 9)² = 64, what are the possible values of x?
 
