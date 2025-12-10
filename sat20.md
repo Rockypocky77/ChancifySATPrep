@@ -916,7 +916,7 @@ A) several changes were proposed by the superintendent
 B) the superintendent proposed several changes
 
 
-C) several changes had been proposed by the superintendent
+C) the superintendent's several changes were proposed
 
 
 D) the proposing of several changes was done by the superintendent
@@ -949,7 +949,7 @@ B) 6
 C) 7
 
 
-D) 8
+D) 49
 
 
 A line passes through the points ((1, -2)) and ((5, 10)). What is the slope of the line?

@@ -916,7 +916,7 @@ A) several improvements were implemented by the manager
 B) the manager implemented several improvements
 
 
-C) several improvements had been implemented by the manager
+C) the manager's several improvements were implemented
 
 
 D) the implementing of several improvements was done by the manager
@@ -943,7 +943,7 @@ B) 4
 C) 5
 
 
-D) 6
+D) 26
 
 
 A line passes through the points ((-1, 2)) and ((5, 20)). What is the slope of the line?

@@ -910,7 +910,7 @@ A) several changes were proposed by the committee
 B) the committee proposed several changes
 
 
-C) several changes had been proposed by the committee
+C) the committee's several changes were proposed
 
 
 D) the proposing of several changes was done
@@ -943,7 +943,7 @@ B) 3
 C) 4
 
 
-D) 5
+D) 16
 
 
 A line passes through the points ((2, -3)) and ((6, 5)). What is the slope of the line?

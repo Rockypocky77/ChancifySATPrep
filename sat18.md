@@ -910,7 +910,7 @@ B) indicates
 C) are indicating
 
 
-D) have indicated
+D) have been indicating
 
 
 Wetlands support diverse species. [5] mangrove forests provide nursery habitats for many fish.
@@ -940,7 +940,7 @@ B) investment, it
 C) investment; it
 
 
-D) investment it
+D) investment, and it
 
 
 After considering several alternatives carefully, a final recommendation was submitted by the committee.
@@ -952,7 +952,7 @@ A) NO CHANGE
 B) the committee submitted a final recommendation
 
 
-C) a final recommendation by the committee was submitted
+C) the committee's final recommendation was submitted
 
 
 D) submitting a final recommendation occurred

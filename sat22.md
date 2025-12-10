@@ -946,7 +946,7 @@ B) 8
 C) 9
 
 
-D) 10
+D) 45
 
 
 A line passes through the points ((2, 5)) and ((6, 17)). What is the slope of the line?

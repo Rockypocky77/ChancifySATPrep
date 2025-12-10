@@ -973,7 +973,7 @@ B) 6
 C) 7
 
 
-D) 8
+D) 17
 
 
 A line passes through the points ((2, 3)) and ((6, 11)). What is the slope of the line?

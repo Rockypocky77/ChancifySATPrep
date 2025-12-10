@@ -931,7 +931,7 @@ B) feedback, organizers
 C) feedback; organizers
 
 
-D) feedback the organizers
+D) feedback, and organizers
 
 
 Having analyzed the market thoroughly, a new strategy was proposed by the marketing team.
@@ -943,7 +943,7 @@ A) NO CHANGE
 B) the marketing team proposed a new strategy
 
 
-C) a new strategy by the marketing team was proposed
+C) the marketing team's new strategy was proposed
 
 
 D) proposing a new strategy occurred

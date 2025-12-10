@@ -865,7 +865,7 @@ B) supports
 C) are supporting
 
 
-D) has been support
+D) have been supporting
 
 
 Many ecosystems rely on keystone species. For instance, sea otters help control sea urchin populations.
@@ -895,7 +895,7 @@ B) promise, the program
 C) promise; the program
 
 
-D) promise the program
+D) promise, and the program
 
 
 After analyzing the data carefully, recommendations were made by the researchers to revise the policy.
@@ -907,7 +907,7 @@ A) recommendations were made by the researchers
 B) the researchers made recommendations
 
 
-C) recommendations had been made by the researchers
+C) the researchers' recommendations were made
 
 
 D) the making of recommendations was done by the researchers
@@ -934,7 +934,7 @@ B) 4
 C) 6
 
 
-D) 8
+D) 7
 
 
 A line passes through the points (1, -2) and (5, 6). What is the slope of the line?
@@ -979,7 +979,7 @@ B) 10
 C) 12
 
 
-D) 14
+D) 16
 
 
 The equation of a line is y = -3x + 9. What is the x-intercept of this line?
@@ -988,7 +988,7 @@ The equation of a line is y = -3x + 9. What is the x-intercept of this line?
 A) -3
 
 
-B) -9/3
+B) -9
 
 
 C) 3

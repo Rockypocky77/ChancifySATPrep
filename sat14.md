@@ -922,7 +922,7 @@ A) several changes were proposed by the principal
 B) the principal proposed several changes
 
 
-C) several changes had been proposed by the principal
+C) the principal's several changes were proposed
 
 
 D) the proposing of several changes was done by the principal
@@ -949,7 +949,7 @@ B) 3
 C) 4
 
 
-D) 5
+D) 18
 
 
 A line passes through the points ((-2, 1)) and ((4, 13)). What is the slope of the line?

@@ -955,7 +955,7 @@ B) 5
 C) 6
 
 
-D) 7
+D) 48
 
 
 A line passes through the points ((-2, 7)) and ((4, -5)). What is the slope of the line?

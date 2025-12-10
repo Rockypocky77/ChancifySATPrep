@@ -946,7 +946,7 @@ B) concerns, it
 C) concerns; it
 
 
-D) concerns it
+D) concerns, and it
 
 
 Having considered all stakeholder feedback, the board implemented several policy changes.

@@ -928,7 +928,7 @@ B) ambitious, the committee
 C) ambitious; the committee
 
 
-D) ambitious the committee
+D) ambitious, and the committee
 
 
 After examining the survey data carefully, recommendations were drafted by the research team.
@@ -940,7 +940,7 @@ A) NO CHANGE
 B) the research team drafted recommendations
 
 
-C) recommendations by the research team were drafted
+C) the research team's recommendations were drafted
 
 
 D) drafting recommendations occurred
