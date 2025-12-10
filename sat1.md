@@ -509,7 +509,7 @@ B) 5
 C) 10
 D) 15
 
-A system of equations is given: 5x + 4y = 40 and 3x - y = 7. If (a, b) is the solution to this system, and a third equation cx + dy = 25 also passes through (a, b) where c = a and d = b, what is the value of c + d?
+A system of equations is given: 5x + 4y = 40 and 3x - y = 7. If (a, b) is the solution to this system, and a third equation cx + dy = 41 also passes through (a, b) where c = a and d = b, what is the value of c + d?
 
 A) 4
 B) 9
@@ -661,7 +661,7 @@ A bag contains 9 red, 6 blue, and 5 green marbles. If two marbles are selected a
 A) 1/4
 B) 1/19
 C) 1/16
-D) 1/4
+D) 5/20
 
 
 Geometry / Right Triangles / Circles / Similarity
@@ -909,9 +909,9 @@ Math (55–98)
 57. B
 58. B
 59. B
-60. B
-61. A
-62. B
+60. A
+61. B
+62. A
 63. A
 64. A
 65. B
