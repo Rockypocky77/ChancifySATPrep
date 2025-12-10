@@ -874,7 +874,7 @@ The artist, whose murals cover several city walls, they were invited to speak at
 A) they were invited
 
 
-B) were invited
+B) was invited
 
 
 C) has been invited by them
@@ -919,7 +919,7 @@ B) 8
 C) 9
 
 
-D) 16
+D) 7
 
 
 A line has slope (\frac{3}{2}) and passes through the point ((2, 1)). What is its (y)-intercept?
@@ -964,7 +964,7 @@ B) 150
 C) 200
 
 
-D) 250
+D) 350
 
 
 The graph of a line passes through ((0, 4)) and ((6, 10)). What is the slope of the line?
