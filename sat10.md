@@ -904,147 +904,60 @@ SECTION 2: MATH (44 Questions, 55–98)
 Algebra — Questions 55–64
 
 
-Solve for (x):
-
-
- (5x - 7 = 3x + 9)
-
+A company's production cost C (in thousands) is modeled by C = 5(x + 3), where x is units produced. The company's revenue R is modeled by R = 3(x - 1) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 34, what is the value of x?
 
 A) 1
-
-
 B) 8
-
-
 C) 9
-
-
 D) 7
 
-
-A line has slope (\frac{3}{2}) and passes through the point ((2, 1)). What is its (y)-intercept?
-
+A linear function f(x) = mx + b has slope (\frac{3}{2}) and passes through the point ((2, 1)). What is the value of b (the y-intercept)?
 
 A) (-2)
-
-
 B) (-1)
-
-
 C) 1
-
-
 D) 4
 
+In a chemistry experiment, the concentration must be greater than 11 units. If concentration = 2x + 5, where x is the amount added, what is the smallest integer value of x?
 
-The inequality (2x + 5 > 11) is equivalent to
-
-
-A) (x > 3)
-
-
-B) (x > 8)
-
-
-C) (x < 3)
-
-
-D) (x < 8)
-
+A) 3
+B) 4
+C) 5
+D) 8
 
 A cell phone plan charges a flat fee of $20 plus $0.10 per text message. If the monthly bill is $35, how many text messages were sent?
 
-
 A) 100
-
-
 B) 150
-
-
 C) 200
-
-
 D) 350
 
-
-The graph of a line passes through ((0, 4)) and ((6, 10)). What is the slope of the line?
-
+A linear function f(x) = mx + b passes through ((0, 4)) and ((6, 10)). What is the value of m (the slope)?
 
 A) (\frac{1}{2})
-
-
 B) 1
-
-
 C) (\frac{2}{3})
-
-
 D) (\frac{3}{2})
 
-
-A system of equations is given by
-
-
- [
-
-
- \begin{cases}
-
-
- x + y = 7 \
-
-
- x - y = 3
-
-
- \end{cases}
-
-
- ]
-
-
- What is the value of (x)?
-
+A system of equations is given: x + y = 7 and x - y = 3. If (a, b) is the solution to this system, and a third equation cx + dy = 19 also passes through (a, b) where c = a and d = b, what is the value of c + d?
 
 A) 2
-
-
 B) 3
-
-
 C) 4
-
-
 D) 5
-
 
 A car rental company charges $40 per day plus a one-time fee of $25. Which equation models the total cost (C) for (d) days?
 
-
 A) (C = 25d + 40)
-
-
 B) (C = 40d + 25)
-
-
 C) (C = 40 + 25d^2)
-
-
 D) (C = 25 + d)
-
 
 On a graph of a linear function, the point ((0, -3)) represents
 
-
 A) the slope
-
-
 B) the (x)-intercept
-
-
 C) the (y)-intercept
-
-
 D) the average rate of change
 
 
@@ -1751,128 +1664,49 @@ B
 
 
 Math (55–98)
-
-
-B
-
-
-A
-
-
-A
-
-
-B
-
-
-B
-
-
-D
-
-
-B
-
-
-C
-
-
-B
-
-
-B
-
-
-A
-
-
-A
-
-
-C
-
-
-A
-
-
-C
-
-
-C
-
-
-A
-
-
-4
-
-
-A
-
-
-3
-
-
-B
-
-
-(\dfrac{6}{3} = 2) (so 2)
-
-
-A
-
-
-C
-
-
-C
-
-
-15
-
-
-A
-
-
-A
-
-
-B
-
-
-B
-
-
-150
-
-
-B
-
-
-A
-
-
-B
-
-
-(45\pi)
-
-
-A
-
-
-B
-
-
-B
-
-
-60
-
-
-D
-
-
-6
+55. B
+56. A
+57. A
+58. B
+59. B
+60. D
+61. B
+62. C
+63. B
+64. B
+65. A
+66. A
+67. C
+68. A
+69. C
+70. C
+71. A
+72. C
+73. A
+74. C
+75. B
+76. C
+77. A
+78. C
+79. C
+80. B
+81. C
+82. C
+83. A
+84. A
+85. A
+86. B
+87. B
+88. B
+89. A
+90. B
+91. B
+92. B
+93. B
+94. B
+95. B
+96. D
+97. D
+98. D
 
 
