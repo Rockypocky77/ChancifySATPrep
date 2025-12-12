@@ -952,18 +952,11 @@ D) proposing a new strategy occurred
 SECTION 2: MATH (Questions 55–98)
 
 
-If (7(x + 3) = 5(x - 9)), what is (x)?
-
+A company's production cost C (in thousands) is modeled by C = 7(x + 3), where x is units produced. The company's revenue R is modeled by R = 5(x - 9) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 0, what is the value of x?
 
 A) (-37)
-
-
 B) (-35)
-
-
 C) (-33)
-
-
 D) (-31)
 
 

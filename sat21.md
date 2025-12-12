@@ -967,8 +967,7 @@ D) implementing several policy changes occurred
 SECTION 2: MATH (Questions 55–98)
 
 
-If (6(x + 4) = 5(x - 2)), what is (x)?
-
+A company's production cost C (in thousands) is modeled by C = 6(x + 4), where x is units produced. The company's revenue R is modeled by R = 5(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 34, what is the value of x?
 
 A) (-40)
 

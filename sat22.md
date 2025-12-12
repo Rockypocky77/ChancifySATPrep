@@ -925,27 +925,11 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-Solve for (x):
-
-
- [
-
-
- 5x + 7 = 52
-
-
- ]
-
+A company's production cost C (in thousands) is modeled by C = 5(x + 2), where x is units produced. The company's revenue R is modeled by R = 3(x - 3) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 25, what is the value of x?
 
 A) 7
-
-
 B) 8
-
-
 C) 9
-
-
 D) 45
 
 

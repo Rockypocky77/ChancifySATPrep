@@ -934,27 +934,11 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-Solve for (x):
-
-
- [
-
-
- 8x + 5 = 53
-
-
- ]
-
+A company's production cost C (in thousands) is modeled by C = 8(x + 1), where x is units produced. The company's revenue R is modeled by R = 5(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 26, what is the value of x?
 
 A) 4
-
-
 B) 5
-
-
 C) 6
-
-
 D) 48
 
 

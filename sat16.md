@@ -940,27 +940,11 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-Solve for (x):
-
-
- [
-
-
- 7x - 8 = 34
-
-
- ]
-
+A company's production cost C (in thousands) is modeled by C = 7(x + 2), where x is units produced. The company's revenue R is modeled by R = 4(x - 3) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 38, what is the value of x?
 
 A) 4
-
-
 B) 5
-
-
 C) 6
-
-
 D) 42
 
 

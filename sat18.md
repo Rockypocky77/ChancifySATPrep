@@ -961,15 +961,10 @@ D) submitting a final recommendation occurred
 SECTION 2: MATH (44 Questions)
 
 
-If (6(x + 4) = 3(x - 8)), what is (x)?
-
+A company's production cost C (in thousands) is modeled by C = 6(x + 4), where x is units produced. The company's revenue R is modeled by R = 3(x - 8) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 0, what is the value of x?
 
 A) (-10)
-
-
 B) (-12)
-
-
 C) (-14)
 
 
