@@ -928,21 +928,11 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-Solve for (x):
-
-
- [ 8x - 3 = 29 ]
-
+A company's production cost C (in thousands) is modeled by C = 8(x + 1), where x is units produced. The company's revenue R is modeled by R = 5(x - 1) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 25, what is the value of x?
 
 A) 3
-
-
 B) 4
-
-
 C) 5
-
-
 D) 26
 
 
