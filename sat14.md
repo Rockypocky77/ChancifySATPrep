@@ -934,81 +934,39 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-Solve for (x):
-
-
- [ 6x + 5 = 23 ]
-
+A company's production cost C (in thousands) is modeled by C = 6(x + 1), where x is units produced. The company's revenue R is modeled by R = 4(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 20, what is the value of x?
 
 A) 2
-
-
 B) 3
-
-
 C) 4
-
-
 D) 18
 
-
-A line passes through the points ((-2, 1)) and ((4, 13)). What is the slope of the line?
-
+A linear function f(x) = mx + b passes through the points ((-2, 1)) and ((4, 13)). What is the value of m (the slope)?
 
 A) (\dfrac{1}{3})
-
-
 B) (\dfrac{3}{2})
-
-
 C) (2)
-
-
 D) (4)
 
-
-The inequality (5x - 4 \le 21) is equivalent to
-
+In a chemistry experiment, the concentration must be at most 21 units. If concentration = 5x - 4, where x is the amount added, what is the largest integer value of x?
 
 A) (x \le 3)
-
-
 B) (x \le 5)
-
-
 C) (x \ge 3)
-
-
 D) (x \ge 5)
-
 
 A phone plan charges a monthly fee of $25 plus $0.10 per text message. If a customer's bill for one month is $37.50, how many text messages did the customer send?
 
-
 A) 100
-
-
 B) 110
-
-
 C) 120
-
-
 D) 125
 
-
-The equation of a line is (y = 3x - 9). What is the (x)-intercept of this line?
-
+A linear function f(x) = 3x - 9 has an x-intercept. What is the x-coordinate of this intercept?
 
 A) (-3)
-
-
 B) (-9)
-
-
 C) (3)
-
-
 D) (9)
 
 
