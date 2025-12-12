@@ -673,14 +673,14 @@ D) 1/2
 
 A right triangle has legs of 7 and 24. What is the hypotenuse?
 
-A) 20
+A) 25
 B) 24
 C) √676
 D) 49
 
 A right triangle has a hypotenuse of 34 and one leg of 30. What is the other leg?
 
-A) 5.25
+A) 16
 B) 15
 C) 21
 D) 63
@@ -729,7 +729,7 @@ D) 4π/5
 
 If f(x) = 4x² - 9x + 2, what is f(3)?
 
-A) 7
+A) 11
 B) 14
 C) 3.5
 D) 35
@@ -771,7 +771,7 @@ D) Cannot be simplified
 
 If √(5x + 11) = 11, what is x?
 
-A) 21
+A) 22
 B) 42
 C) 10.5
 D) 105
@@ -871,14 +871,14 @@ Reading & Writing (1–54)
 54. B
 
 Math (55–98)
-55. A
-56. B
-57. B
-58. C
-59. B
+55. C
+56. A
+57. A
+58. A
+59. A
 60. A
-61. A
-62. D
+61. B
+62. A
 63. A
 64. A
 65. B
@@ -886,7 +886,7 @@ Math (55–98)
 67. A
 68. A
 69. B
-70. B
+70. A
 71. C
 72. B
 73. C
@@ -895,21 +895,21 @@ Math (55–98)
 76. C
 77. C
 78. A
-79. C
-80. C
+79. A
+80. A
 81. B
 82. A
 83. B
 84. C
 85. A
 86. C
-87. D
+87. A
 88. A
 89. B
 90. A
 91. A
 92. B
-93. B
+93. A
 94. B
 95. B
 96. C
