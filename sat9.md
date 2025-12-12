@@ -480,56 +480,53 @@ D) Issuing final recommendations occurred after comparing several marketing stra
 
 SECTION 2: MATH (Questions 55–98)
 
-55. If 7(x + 4) = 4(x - 11), what is the value of x?
+55. A company's production cost C (in thousands) is modeled by C = 7(x + 4), where x is units produced. The company's revenue R is modeled by R = 4(x - 11) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 0, what is the value of x?
 
 A) -24
 B) -22
 C) -20
 D) 24
 
-56. If 5x - 9 ≥ 31, and x must also satisfy x ≤ 12, what is the smallest integer value of x that satisfies both requirements?
+56. In a chemistry experiment, the concentration must be at least 31 units. If concentration = 5x - 9, where x is the amount added, and x must also satisfy x ≤ 12, what is the smallest integer value of x?
 
 A) 8
 B) 9
 C) 10
 D) 12
 
-57. A line passes through points (0, -3) and (4, 13). What is the slope of this line?
+57. A linear function f(x) = mx + b passes through (0, -3) and (4, 13). What is the value of m?
 
 A) 4
 B) -4
-C) 16/4
+C) 1/4
 D) 16
 
-58. If 12x + 5 = 7x + 40, what is the value of x?
+58. If 12x + 5 = 7x + 40, what is x?
 
 A) 7
 B) -7
 C) 35/5
-D) 35
+D) 21
 
-59. A system of equations is given below:
-2x + 3y = 19
-4x - y = 17
-What is the value of x?
+59. A system of equations is given: 2x + 3y = 19 and 4x - y = 17. If (a, b) is the solution to this system, and a third equation cx + dy = 34 also passes through (a, b) where c = a and d = b, what is the value of c + d?
 
 A) 5
-B) 4
-C) -5
-D) 36
+B) 8
+C) 13
+D) 17
 
-60. If 9x - 4y = 50 and x = 6, what is the value of y?
+60. If 9x - 4y = 50 and x = 6, and y also satisfies the equation 3y - k = 3 where k is a constant, what is the value of k?
 
-A) 1
-B) 4
-C) -1
-D) 6
+A) 0
+B) 3
+C) 6
+D) 9
 
-61. The lines y = 2x + 1 and y = -3x + 21 intersect at a point. What is the y-coordinate of the intersection point?
+61. Two linear functions are defined: f(x) = 2x + 1 and g(x) = -3x + 21. If these functions intersect at point P with coordinates (p, q), and a third function h(x) = ax + b also passes through P where a = p and b = q, what is the value of h(0)?
 
 A) 4
 B) 9
-C) 21
+C) 13
 D) 25
 
 62. If 9a + 4b = 80 and a + b = 10, what is the value of b?
@@ -811,9 +808,9 @@ Reading & Writing (1–54):
 49.D 50.A 51.B 52.B 53.B 54.B
 
 Math (55–98):
-55.B 56.C 57.C 58.C 59.A 60.C
-61.B 62.B 63.A 64.A 65.A 66.A
-67.B 68.C 69.B 70.B 71.C 72.C
+55.B 56.A 57.A 58.A 59.A 60.A
+61.B 62.A 63.A 64.A 65.A 66.A
+67.A 68.A 69.B 70.B 71.C 72.C
 73.C 74.C 75.C 76.C 77.C 78.A
 79.C 80.C 81.C 82.A 83.B 84.C
 85.C 86.C 87.B 88.D 89.B 90.A
