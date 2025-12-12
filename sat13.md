@@ -934,84 +934,39 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-Solve for (x):
-
-
- [
-
-
- 5x - 2 = 3x + 14
-
-
- ]
-
+A company's production cost C (in thousands) is modeled by C = 5(x + 2), where x is units produced. The company's revenue R is modeled by R = 3(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 28, what is the value of x?
 
 A) 2
-
-
 B) 4
-
-
 C) 6
+D) 8
 
 
-D) 7
-
-
-A line passes through the points ((-1, 4)) and ((5, -8)). What is the slope of the line?
-
+A linear function f(x) = mx + b passes through the points ((-1, 4)) and ((5, -8)). What is the value of m (the slope)?
 
 A) (-3)
-
-
 B) (-2)
-
-
 C) 2
-
-
 D) 3
 
-
-The inequality (2x + 7 \ge 19) is equivalent to
-
+In a chemistry experiment, the concentration must be at least 19 units. If concentration = 2x + 7, where x is the amount added, what is the smallest integer value of x?
 
 A) (x \le 6)
-
-
 B) (x \ge 6)
-
-
 C) (x < 6)
-
-
 D) (x > 6)
-
 
 A taxi company charges a flat fee of $3 plus $1.75 per mile. If a passenger's total fare is $17, how many miles did the passenger travel?
 
-
 A) 6
-
-
 B) 7
-
-
 C) 8
-
-
 D) 9
 
-
-The equation of a line is (y = -4x + 12). What is the x-intercept of this line?
-
+A linear function f(x) = -4x + 12 has an x-intercept. What is the x-coordinate of this intercept?
 
 A) (-3)
-
-
 B) 0
-
-
 C) 3
 
 
