@@ -919,135 +919,60 @@ SECTION 2: MATH (Questions 55–98)
 Algebra — Questions 55–64
 
 
-Solve for x:
-
-
- 7x + 4 = 3x + 28
-
+A company's production cost C (in thousands) is modeled by C = 7(x + 2), where x is units produced. The company's revenue R is modeled by R = 3(x - 4) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 50, what is the value of x?
 
 A) 3
-
-
 B) 4
-
-
 C) 6
-
-
 D) 7
 
-
-A line passes through the points (1, -2) and (5, 6). What is the slope of the line?
-
+A linear function f(x) = mx + b passes through the points (1, -2) and (5, 6). What is the value of m (the slope)?
 
 A) 1/2
-
-
 B) 3/2
-
-
 C) 2
-
-
 D) 4
 
+In a chemistry experiment, the concentration must be at most 13 units. If concentration = 4x - 3, where x is the amount added, what is the largest integer value of x?
 
-The inequality 4x - 3 ≤ 13 is equivalent to
-
-
-A) x ≤ 3
-
-
-B) x ≤ 4
-
-
-C) x ≥ 3
-
-
-D) x ≥ 4
-
+A) 3
+B) 4
+C) 5
+D) 6
 
 A streaming service charges a monthly fee of $12 plus $2 for each movie rented. If a customer's bill for one month is $32, how many movies did the customer rent?
 
-
 A) 8
-
-
 B) 10
-
-
 C) 12
-
-
 D) 16
 
-
-The equation of a line is y = -3x + 9. What is the x-intercept of this line?
-
+A linear function f(x) = -3x + 9 has an x-intercept. What is the x-coordinate of this intercept?
 
 A) -3
-
-
 B) -9
-
-
 C) 3
-
-
 D) 9
 
-
-A system of equations is given by
-
-
- 2x + y = 11
-
-
- x - y = 1
-
-
-What is the value of x?
-
+A system of equations is given: 2x + y = 11 and x - y = 1. If (a, b) is the solution to this system, and a third equation cx + dy = 25 also passes through (a, b) where c = a and d = b, what is the value of c + d?
 
 A) 2
-
-
 B) 3
-
-
 C) 5
-
-
 D) 4
-
 
 A gym charges a one-time sign-up fee of $50 and a monthly fee of $15. Which equation represents the total cost C for m months?
 
-
 A) C = 50m + 15
-
-
 B) C = 15m + 50
-
-
 C) C = 50 + m + 15
-
-
 D) C = 65m
-
 
 The function f(x) = 5x - 7 models a quantity over time. What does the point (0, -7) represent in this context?
 
-
 A) The slope of the function
-
-
 B) The average rate of change
-
-
 C) The starting value when x = 0
-
-
 D) The maximum value of the function
 
 
@@ -1730,137 +1655,49 @@ B
 
 
 Math (55–98)
-
-
-C
-
-
-C
-
-
-B
-
-
-B
-
-
-C
-
-
-D
-
-
-B
-
-
-C
-
-
-A
-
-
-A
-
-
-B
-
-
-C
-
-
-C
-
-
-A
-
-
-C
-
-
-B
-
-
-D
-
-
-15/2
-
-
-B
-
-
-3
-
-
-C
-
-
-5
-
-
-C
-
-
-D
-
-
-12
-
-
-C
-
-
-B
-
-
-C
-
-
-20
-
-
-B
-
-
-B
-
-
-B
-
-
-300
-
-
-C
-
-
-B
-
-
-C
-
-
-B
-
-
-144π
-
-
-A
-
-
-C
-
-
-B
-
-
-30
-
-
-B
-
-
-5
+55. A
+56. C
+57. B
+58. B
+59. C
+60. D
+61. B
+62. C
+63. A
+64. A
+65. B
+66. C
+67. C
+68. A
+69. C
+70. B
+71. D
+72. C
+73. B
+74. C
+75. C
+76. D
+77. C
+78. D
+79. C
+80. C
+81. B
+82. C
+83. B
+84. B
+85. B
+86. B
+87. C
+88. B
+89. A
+90. B
+91. B
+92. C
+93. A
+94. B
+95. B
+96. B
+97. B
+98. D
 
 
