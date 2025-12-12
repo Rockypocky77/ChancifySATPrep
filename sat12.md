@@ -922,153 +922,60 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-Solve for (x):
-
-
- [
-
-
- 4x + 5 = 21
-
-
- ]
-
+A company's production cost C (in thousands) is modeled by C = 4(x + 3), where x is units produced. The company's revenue R is modeled by R = 2(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 22, what is the value of x?
 
 A) 2
-
-
 B) 3
-
-
 C) 4
-
-
 D) 16
 
-
-A line passes through the points ((2, -3)) and ((6, 5)). What is the slope of the line?
-
+A linear function f(x) = mx + b passes through the points ((2, -3)) and ((6, 5)). What is the value of m (the slope)?
 
 A) (\dfrac{1}{2})
-
-
 B) (\dfrac{3}{2})
-
-
 C) (2)
-
-
 D) (4)
 
+In a chemistry experiment, the concentration must be less than 11 units. If concentration = 3x - 1, where x is the amount added, what is the largest integer value of x?
 
-The inequality (3x - 1 < 11) is equivalent to
-
-
-A) (x < -4)
-
-
-B) (x < 3)
-
-
-C) (x < 4)
-
-
-D) (x > 4)
-
+A) 2
+B) 3
+C) 4
+D) 5
 
 A taxi company charges a flat fee of $4 plus $1.50 per mile. If a passenger's total fare is $16, how many miles did the passenger travel?
 
-
 A) 6
-
-
 B) 8
-
-
 C) 10
-
-
 D) 12
 
-
-The equation of a line is (y = 2x - 10). What is the (x)-intercept of this line?
-
+A linear function f(x) = 2x - 10 has an x-intercept. What is the x-coordinate of this intercept?
 
 A) (-10)
-
-
 B) (-5)
-
-
 C) (5)
-
-
 D) (10)
 
-
-A system of equations is given by
-
-
- [
-
-
- \begin{cases}
-
-
- x + y = 9 \
-
-
- x - y = 1
-
-
- \end{cases}
-
-
- ]
-
-
- What is the value of (x)?
-
+A system of equations is given: x + y = 9 and x - y = 1. If (a, b) is the solution to this system, and a third equation cx + dy = 26 also passes through (a, b) where c = a and d = b, what is the value of c + d?
 
 A) 3
-
-
 B) 4
-
-
 C) 5
-
-
 D) 6
-
 
 A gym charges a sign-up fee of $30 and a monthly fee of $20. Which equation represents the total cost (C) in dollars for (m) months of membership?
 
-
 A) (C = 30m + 20)
-
-
 B) (C = 20m + 30)
-
-
 C) (C = 50m)
-
-
 D) (C = 30 + 20)
-
 
 The function (f(x) = 3x + 2) represents a quantity over time. What does the point ((0, 2)) represent?
 
-
 A) The slope of the function
-
-
 B) The average rate of change
-
-
 C) The starting value when (x = 0)
-
-
 D) The maximum value of the function
 
 
