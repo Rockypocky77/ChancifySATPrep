@@ -485,147 +485,147 @@ D) issuing recommendations occurred
 
 SECTION 2: MATH (Questions 55–98)
 
-A company's production cost C (in thousands) is modeled by C = 5(x + 8), where x is units produced. The company's revenue R is modeled by R = 3(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 46, what is the value of x?
+A company's production cost C (in thousands) is modeled by C = 5(x + 8), where x is units produced. The company's revenue R is modeled by R = 3(x - 2) + k. If the company breaks even when C = R and k = 46, and the profit margin m is defined as m = (R - C)/x when x > 0, what is m when x = 12?
 
-A) -23
-B) -11.5
-C) 0
-D) 23
+A) 0
+B) 2/3
+C) -2/3
+D) 5/6
 
-In a chemistry experiment, the concentration must be at least 27 units. If concentration = 6x - 9, where x is the amount added, and x must also satisfy x ≤ 10, what is the smallest integer value of x?
+In a chemistry experiment, the concentration must be at least 27 units but no more than 63 units. If concentration = 6x - 9, where x is the amount added, and x must satisfy x ≤ 15, how many integer values of x satisfy all requirements?
 
-A) 3
+A) 5
 B) 6
 C) 7
-D) 10
+D) 8
 
-A linear function f(x) = mx + b passes through (0, -5) and (4, 7). What is the value of m?
+A linear function f(x) = mx + b passes through (0, -5/2) and (4, 7/2). Another function g(x) = (1/3)x + 2 intersects f(x) at point P. What is the y-coordinate of P?
+
+A) 7/3
+B) 8/3
+C) 3
+D) 10/3
+
+If 7x + 12 = 4x + 30, and this value of x satisfies x² - kx + 6 = 0, what is k?
+
+A) 5
+B) 6
+C) 7
+D) 8
+
+If 6x + 5y = 54 and 4x - y = 10, what is the value of (x² - y²)/(x - y)?
+
+A) 8
+B) 10
+C) 12
+D) 14
+
+For the system 6x + ky = 51 and 2x - 3y = -7, the solution satisfies x = 7. What is k, and what is xy/k?
+
+A) k = 3, xy/k = 7
+B) k = 3, xy/k = 21/3
+C) k = 4, xy/k = 21/4
+D) k = 5, xy/k = 21/5
+
+Two linear functions f(x) = (5/2)x + 1 and g(x) = -(3/2)x + 9 intersect at point P. A third function h(x) has slope equal to the average of f and g's slopes and passes through P. What is h(0)?
 
 A) 3
-B) -3
-C) 1/2
-D) 12
-
-If 7x + 12 = 4x + 30, what is x?
-
-A) 6
-B) -6
-C) 42/7
-D) 18
-
-If 6x + 5y = 54 and 4x - y = 10, what is x?
-
-A) 4
-B) 5
-C) 6
-D) 7
-
-If 6x + 3y = 51 and x = 7, what is y?
-
-A) 3
-B) 9
-C) 17
-D) -3
-
-Two linear functions f(x) = 4x + 3 and g(x) = -2x + 21 intersect at point P. If P has coordinates (p, q), what is the value of q?
-
-A) 3
-B) 15
-C) 21
-D) 27
-
-If 5a + 3b = 41 and a + b = 11, what is b?
-
-A) 7
 B) 4
-C) -7
-D) 11
+C) 5
+D) 6
 
-A quadratic equation models the height h (in meters) of a projectile: h = x² + 5x - 36, where x is time in seconds. At what times does the projectile reach ground level (h = 0)?
+If 5a + 3b = 41 and a + b = 11, what is (a² - b²)/(a - b)?
 
-A) x = -9 or x = 4
-B) x = 9 or x = -4
-C) x = -4 or x = 9
-D) x = 4 or x = -9
+A) 9
+B) 11
+C) 13
+D) 15
 
-If (x - 8)² = 49, what are the possible values of x?
+A ball's height is h(t) = -5t² + 30t + 8, where h is in meters and t is in seconds. For how many seconds is the ball at or above 40 meters?
 
-A) 1 and 15
-B) -1 and -15
-C) 1 and -15
-D) -1 and 15
+A) 1.6 seconds
+B) 2 seconds
+C) 2.4 seconds
+D) 3 seconds
 
-What is the vertex of y = (x + 4)² - 6?
+If (x - 8)² = 121/4 and x must also satisfy 3x - 2 < 20, what is the sum of all valid values of x?
 
-A) (4, -6)
-B) (-4, -6)
-C) (4, 6)
-D) (-4, 6)
+A) 27/2
+B) 16
+C) 37/2
+D) Only one value exists: 11/2
 
-If x² - 10x + 21 = 0, what is the sum of the solutions?
+The parabola y = (x + 4)² - 6 has vertex V. A line with slope 2/3 passes through V. What is the x-intercept of this line?
 
-A) 10
-B) 21
-C) -10
-D) -21
+A) 5
+B) 6
+C) 7
+D) 8
 
-If 6^(2x) = 36, what is x?
+If x² - 10x + 21 = 0 and r, s are solutions with r < s, what is (s² - r²)/(s - r)?
 
-A) 1
-B) 2
-C) 6
-D) 30
+A) 8
+B) 10
+C) 12
+D) 14
 
-If 4^(x+2) = 64, what is x?
+If 6^(2x) = 36 and this value of x satisfies 3x² + kx - 2 = 0, what is k?
 
-A) 1
-B) 3
-C) 62
-D) 16
+A) -1
+B) 1
+C) 5
+D) -5
 
-A bacterial culture doubles in size every 4 hours. If the initial population is 150 bacteria, and P(h) represents the population after h hours, which of the following correctly models P(h)?
+Given 4^(x+2) = 64 and 3^(y-1) = 27, what is (x + y)/(xy)?
 
-A) P(h) = 150(2)^h
-B) P(h) = 150(2)^(h/4)
-C) P(h) = 300(2)^h
-D) P(h) = 150(4)^(h/2)
+A) 1/2
+B) 5/4
+C) 3/2
+D) 2
 
-If 7^x = 343, what is x?
+A bacterial culture doubles in size every 4 hours. If the initial population is 150 bacteria, after how many hours will the population first exceed 30,000?
 
-A) 3
-B) 49
-C) 336
-D) 2401
+A) 28 hours
+B) 32 hours
+C) 36 hours
+D) 40 hours
 
-A map scale is 1 inch : 10 feet. If a room is 6 inches on the map, what is the actual length?
+If 7^x = 343 and this x is used in (2x - 1)/(x² - 2), what is the value?
 
-A) 0.6 feet
-B) 16 feet
-C) 60 feet
-D) 600 feet
+A) 5/7
+B) 1
+C) 7/5
+D) 5/4
 
-A tablet priced at $800 is discounted 35%. What is the sale price?
+A map scale is 1 inch : 10 feet. A rectangular room is 6 inches × 8 inches on the map. What is the actual area of the room in square feet, and what is the ratio of actual perimeter to map perimeter?
 
-A) $280
-B) $520
-C) $765
-D) $1,080
+A) 4,800 sq ft; ratio 10:1
+B) 4,800 sq ft; ratio 100:1
+C) 480 sq ft; ratio 10:1
+D) 480 sq ft; ratio 100:1
 
-If 40% of a number is 128, what is the number?
+A tablet priced at $800 is discounted 35%. After the discount, 8% tax is added. If the buyer uses a $40 gift card after tax, and splits the remaining cost among 4 people, how much does each person pay?
 
-A) 51.2
-B) 168
-C) 320
-D) 3.2
+A) $121.80
+B) $130.80
+C) $140.60
+D) $150.40
 
-A store marks up wholesale by 85%. If wholesale is $60, what is retail?
+If 40% of a number N is 128, and 25% of N is then increased by 30%, what is the resulting value?
 
-A) $51
-B) $70.59
-C) $111
-D) $145
+A) 91
+B) 104
+C) 117
+D) 130
 
-Test scores: 70, 76, 84, 88, 92. What is the mean?
+A store marks up wholesale by 85%. After marking up, the item sells at a 20% discount. If the final sale price is $88.80, what was the wholesale cost?
+
+A) $55
+B) $60
+C) $65
+D) $70
+
+Test scores: 70, 76, 84, 88, 92. A sixth score s is added, and the new mean is 84. What is s, and what is the new median?
 
 A) 80
 B) 82
