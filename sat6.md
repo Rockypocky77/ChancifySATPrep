@@ -500,82 +500,82 @@ B) -4
 C) 12/3
 D) 12
 
-If 8x + 13 = 5x + 34, what is x?
+If 8x + 13 = 5x + 34, and this x satisfies x² - kx + 7 = 0, what is k?
 
-A) 7
-B) -7
-C) 47/3
-D) 21
+A) 8
+B) 56/7
+C) 56/9
+D) 64/7
 
-If 4x + 5y = 49 and 2x - y = 7, what is x?
+If 4x + 5y = 49 and 2x - y = 7, what is (x² - y²)/(x - y)?
 
-A) 6
-B) 7
-C) -6
-D) 56
+A) 12
+B) 14
+C) 16
+D) 18
 
-If 7x + 2y = 50 and x = 6, what is y?
+For the system 7x + ky = 50 and 3x - 2y = 10, the solution satisfies x = 6. What is k, and what is xy/k?
 
-A) 4
-B) 8
-C) -4
+A) k = 2, xy/k = 12
+B) k = 2, xy/k = 24
+C) k = 4, xy/k = 6
+D) k = 4, xy/k = 12
+
+Lines f(x) = (7/3)x + 1 and g(x) = -(5/3)x + 9 intersect at P. A third function h(x) has slope = average of f and g's slopes and passes through P. What is h(0)?
+
+A) 3
+B) 4
+C) 5
 D) 6
 
-Lines y = 3x + 2 and y = -2x + 27 intersect. What is the y-coordinate of intersection?
+If 5a + 2b = 27 and a + b = 9, what is (a² - b²)/(a - b)?
 
-A) 5
-B) 17
-C) 27
-D) 29
+A) 7
+B) 9
+C) 11
+D) 13
 
-If 5a + 2b = 27 and a + b = 9, what is b?
+A ball's height is h(t) = -4t² + 18t + 8, where h is in meters and t is in seconds. For how many seconds is the ball at or above 26 meters?
 
-A) 6
+A) 1.5 seconds
+B) 2 seconds
+C) 2.5 seconds
+D) 3 seconds
+
+If (x - 9)² = 81/4 and x must also satisfy 2x - 3 < 25, what is the sum of all valid values of x?
+
+A) 27/2
+B) 18
+C) 37/2
+D) Only one value: 27/2
+
+The parabola y = (x - 4)² + 7 has vertex V. A line with slope -5/3 passes through V. What is the x-intercept?
+
+A) 37/5
+B) 41/5
+C) 9
+D) 49/5
+
+If x² - 11x + 28 = 0 and r, s are solutions with r < s, what is (s² - r²)/(s - r)?
+
+A) 9
+B) 11
+C) 13
+D) 15
+
+If 3^(2x) = 81 and this x satisfies x² - kx + 2 = 0, what is k?
+
+A) 2
 B) 3
-C) -6
-D) 9
+C) 4
+D) 5
 
-If x² + 6x - 27 = 0, what are the solutions?
+Given 2^(x+4) = 64 and 3^(y-1) = 81, what is (x + y)/(xy)?
 
-A) x = -9 or x = 3
-B) x = 9 or x = -3
-C) x = -3 or x = 9
-D) x = 3 or x = -9
-
-If (x - 9)² = 49, what are the possible values of x?
-
-A) 2 and 16
-B) -2 and -16
-C) 2 and -16
-D) -2 and 16
-
-What is the vertex of y = (x - 4)² + 7?
-
-A) (4, 7)
-B) (-4, 7)
-C) (4, -7)
-D) (-4, -7)
-
-If x² - 11x + 28 = 0, what is the sum of the solutions?
-
-A) 11
-B) 28
-C) -11
-D) -28
-
-If 3^(2x) = 81, what is x?
-
-A) 2
-B) 4
-C) 77
-D) 6561
-
-If 2^(x+4) = 64, what is x?
-
-A) 2
-B) 6
-C) 60
-D) 4096
+A) 2/3
+B) 7/10
+C) 3/4
+D) 5/6
 
 A bacteria population triples every 3 hours. Starting with 80 bacteria, which expression represents the population after h hours?
 
