@@ -489,313 +489,313 @@ D) Having completed all requirements successfully, successful graduation occurre
 
 SECTION 2: MATH (Questions 55–98)
 
-A manufacturing company's production cost C (in thousands) is modeled by C = 6(x + 7), where x is the number of units produced. The company's revenue R is modeled by R = 3(x - 4) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 54, what is the value of x?
+A manufacturing company's production cost C (in thousands) is modeled by C = 6(x + 7), where x is the number of units produced. The company's revenue R is modeled by R = 3(x - 4) + k. If the company breaks even when C = R and k = 54, and the profit margin m is defined as m = (R - C)/x when x > 0, what is the value of m when x = 10?
 
-A) -18
-B) -6
-C) 0
-D) 18
+A) 0
+B) 3/5
+C) -3/5
+D) 6/5
 
-In a physics experiment, the force F (in newtons) must be at least 30. If F = 7x - 12, where x is the applied voltage, and x must also satisfy x ≤ 10, what is the smallest integer value of x that satisfies both requirements?
+In a physics experiment, the force F (in newtons) must be at least 30 but no more than 58. If F = 7x - 12, where x is the applied voltage, and x must also satisfy x ≤ 10, how many integer values of x satisfy all three requirements?
+
+A) 3
+B) 4
+C) 5
+D) 6
+
+A linear function f(x) = mx + b passes through the points (-3, 5/2) and (5, 21/2). Another function g(x) = (1/2)x + 4 intersects f(x) at point P. What is the y-coordinate of P?
+
+A) 9/2
+B) 5
+C) 11/2
+D) 6
+
+If 8x + 15 = 5x + 36, and this value of x satisfies the equation 3x - k = 12, find k. Then, if y = k² - 4k + 3, what is the value of y?
+
+A) 0
+B) 3
+C) 8
+D) 15
+
+If 7x + 3y = 60 and 4x - y = 18, what is the value of 2x + y?
+
+A) 16
+B) 18
+C) 20
+D) 22
+
+For the system 5x + ky = 44 and 2x - 3y = -9, the solution satisfies x = 6. What is k, and what is the value of (x + y)/k?
+
+A) k = 2, (x + y)/k = 13/2
+B) k = 2, (x + y)/k = 6
+C) k = 3, (x + y)/k = 13/3
+D) k = 3, (x + y)/k = 4
+
+Two linear functions are defined: f(x) = (5/2)x + 3 and g(x) = -(3/2)x + 11. These functions intersect at point P. A third function h(x) has slope equal to (slope of f + slope of g)/2 and passes through P. What is h(0)?
 
 A) 4
+B) 5
+C) 6
+D) 7
+
+If 4a + 5b = 54 and a + b = 12, what is the value of (a² - b²)/(a - b)?
+
+A) 10
+B) 12
+C) 14
+D) 16
+
+A ball's height is modeled by h(t) = -5t² + 25t + 6, where h is in meters and t is in seconds. For how many seconds is the ball at or above 26 meters?
+
+A) 2 seconds
+B) 2.5 seconds
+C) 3 seconds
+D) 3.5 seconds
+
+If (x + 9)² = 81/4 and x must also satisfy 2x + 5 > 0, what is the sum of all valid values of x?
+
+A) -27/2
+B) -9
+C) -15/2
+D) -13/2
+
+The parabola y = (x - 6)² + 8 has vertex V. A line with slope -3/4 passes through V. What is the x-intercept of this line?
+
+A) 38/3
+B) 40/3
+C) 14
+D) 44/3
+
+If x² - 7x + 12 = 0 and r, s are the solutions with r < s, what is (s² - r²)/(s - r)?
+
+A) 5
 B) 6
 C) 7
-D) 10
+D) 8
 
-A linear function f(x) = mx + b passes through the points (-3, 5) and (5, 21). What is the value of m, the slope of the line?
+If 4^(2x) = 256 and this value of x satisfies x² + kx - 6 = 0, what is k?
+
+A) -4
+B) -1
+C) 1
+D) 4
+
+Given 3^(x-1) = 81 and 2^(y+2) = 64, what is (x + y)/2?
+
+A) 4
+B) 9/2
+C) 5
+D) 11/2
+
+A bacterial culture triples in size every 6 hours. If the initial population is 200 bacteria, after how many hours will the population first exceed 50,000?
+
+A) 24
+B) 30
+C) 36
+D) 42
+
+If 8^x = 512, and this x is used in the expression (2x - 1)/(x + 2), what is the value of that expression?
+
+A) 1
+B) 5/5
+C) 1
+D) 1
+
+An architect creates a scale model where 1 cm represents 8 meters. A rectangular building has actual dimensions 56 m × 72 m × 40 m (L × W × H). What is the volume of the scale model in cubic centimeters?
+
+A) 315 cm³
+B) 350 cm³
+C) 385 cm³
+D) 420 cm³
+
+A computer originally priced at $1,200 goes on sale with a 30% discount. After the discount, 8% tax is added. If the buyer also uses a $100 gift card after tax, and splits the remaining cost equally among 4 people, how much does each person pay?
+
+A) $176.80
+B) $201.80
+C) $226.80
+D) $251.80
+
+If 55% of a number N is 143, and 40% of N is then decreased by 25%, what is the resulting value?
+
+A) 78
+B) 88
+C) 98
+D) 104
+
+A retailer marks up items by 90% over wholesale. After marking up, the item sells at a 20% discount during a sale. If the final sale price is $76, what was the wholesale cost?
+
+A) $45
+B) $50
+C) $55
+D) $60
+
+Heights (in inches): 62, 65, 68, 71, 74. A sixth height h is added, and the new mean is 69. What is h, and what is the new median?
+
+A) h = 74; median = 69.5
+B) h = 74; median = 68
+C) h = 78; median = 69.5
+D) h = 78; median = 68
+
+Temperatures (°F): 45, 52, 58, 58, 63. A sixth temperature t is added, and the new median is 55. What is the range of possible values for t?
+
+A) t ≤ 52
+B) t < 52
+C) 45 ≤ t ≤ 52
+D) t < 58
+
+In a data set, the mean is 15, the median is 14, and the mode is 12. If the set has exactly 5 values and one value is 22, which could be the data set?
+
+A) {10, 12, 12, 19, 22}
+B) {8, 12, 12, 21, 22}
+C) {10, 12, 14, 17, 22}
+D) {9, 12, 12, 20, 22}
+
+A box contains 6 red, 5 blue, and 4 yellow balls. Two balls are drawn without replacement. What is the probability that the two balls are different colors?
+
+A) 59/105
+B) 74/105
+C) 31/105
+D) 46/105
+
+A right triangle with legs 8 and 15 is inscribed in a circle so that the hypotenuse is a diameter. What is the area of the circle minus the area of the triangle?
+
+A) 289π/4 - 60
+B) 289π/4 - 120
+C) 289π - 60
+D) 289π - 120
+
+In a right triangle, the hypotenuse is 34 and one leg is 16. If this triangle is similar to another triangle with hypotenuse 51, what is the perimeter of the larger triangle?
+
+A) 108
+B) 120
+C) 126
+D) 132
+
+Two similar triangles have a side-length ratio of 3:8. If the smaller triangle's area is 36 square units, what is the area of the larger triangle?
+
+A) 96
+B) 192
+C) 256
+D) 288
+
+A right triangle has sides 5, 12, and 13. If a circle is inscribed in this triangle (touching all three sides), what is the radius of the inscribed circle?
 
 A) 2
 B) 3
-C) -2
-D) 8
+C) 4
+D) 5
 
-If 8x + 15 = 5x + 36, and this value of x also satisfies the equation 3x - k = 12 where k is a constant, what is the value of k?
+A circle has radius 9 cm. A sector of this circle has area 27π cm². What is the arc length of this sector?
 
-A) 7
-B) 9
-C) 12
-D) 15
+A) 3π cm
+B) 6π cm
+C) 9π cm
+D) 12π cm
 
-If 7x + 3y = 60 and 4x - y = 18, what is x?
+A circle has area 100π square meters. A sector of this circle has central angle 72°. What is the area of this sector?
 
-A) 6
-B) 5
-C) 18
-D) -6
+A) 15π m²
+B) 20π m²
+C) 25π m²
+D) 30π m²
 
-If 5x + 2y = 44 and x = 6, and y also satisfies the equation 3y - 2z = 19 where z is a constant, what is the value of z?
+A circle has circumference 36π inches. A chord of length 18√3 inches is drawn. What is the distance from the center to the chord?
 
-A) 1
-B) 7
-C) 14
-D) 19
+A) 9 in
+B) 9√2 in
+C) 12 in
+D) 15 in
 
-Two linear functions are defined: f(x) = 5x + 2 and g(x) = -3x + 34. If these functions intersect at point P with coordinates (p, q), and a third function h(x) = ax + b also passes through P where a = p and b = q, what is the value of h(1)?
+An arc of a circle has length 15π and the circle's area is 400π. What is the central angle in degrees?
 
-A) 4
-B) 22
-C) 26
-D) 30
+A) 108°
+B) 120°
+C) 135°
+D) 150°
 
-If 4a + 5b = 54 and a + b = 12, and the difference between a and b is equal to d, what is the value of d?
+If f(x) = 5x² - 4x + 1 and g(x) = x + 2, what is f(g(3)) - g(f(1))?
 
-A) 0
-B) 2
-C) 6
-D) 12
+A) 102
+B) 104
+C) 106
+D) 108
 
-A quadratic equation models the height h (in meters) of a projectile: h = x² + 3x - 40, where x is time in seconds. At what positive time does the projectile reach ground level (h = 0)?
+If g(x) = 3x - 11, for what value of a does g(a) = (a + 5)/2?
 
-A) 5 seconds
-B) 8 seconds
-C) 13 seconds
-D) 16 seconds
+A) 22/5
+B) 27/5
+C) 32/5
+D) 37/5
 
-If (x + 9)² = 64, what are the possible values of x?
+What is the domain of f(x) = √(x + 2)/(x² - 4)?
 
-A) -1 and -17
-B) 1 and 17
-C) -1 and 17
-D) 1 and -17
+A) x ≥ -2 and x ≠ 2
+B) x > -2 and x ≠ 2
+C) x ≥ -2 and x ≠ ±2
+D) x > -2 and x ≠ ±2
 
-What is the vertex of y = (x - 6)² + 8?
+The height of a ball is h(t) = -4t² + 24t + 5, where h is in meters and t is in seconds. For how many seconds is the ball at or above 37 meters?
 
-A) (6, 8)
-B) (-6, 8)
-C) (6, -8)
-D) (-6, -8)
+A) 2 seconds
+B) 2.5 seconds
+C) 3 seconds
+D) 3.5 seconds
 
-If x² - 7x + 12 = 0, what is the product of the solutions?
+Simplify (x² - 9)/(x² + 5x + 6) and state all values where the original is undefined.
 
-A) 7
-B) 12
-C) -7
-D) -12
+A) (x - 3)/(x + 2); undefined at x = -2, -3
+B) (x + 3)/(x + 2); undefined at x = -2
+C) (x - 3)/(x + 2); undefined at x = -2
+D) (x + 3)/(x + 2); undefined at x = -2, -3
 
-If 4^(2x) = 256, what is x?
+Solve: 3/(x - 4) + 2/(x + 3) = 1. Discard any extraneous solutions.
+
+A) x = (7 + √113)/2
+B) x = (7 - √113)/2 only
+C) x = (7 + √113)/2 and (7 - √113)/2
+D) No solution
+
+If √(4x + 9) = x - 3, what are all valid solutions for x?
+
+A) x = 0 only
+B) x = 9 only
+C) x = 0 and x = 9
+D) No solution
+
+If √(x² + 10x + 25) = 3x - 7 and x > 0, what is x?
 
 A) 2
-B) 4
-C) 8
-D) 16
+B) 3
+C) 4
+D) No solution
 
-If 3^(x-1) = 81, what is x?
+In a right triangle, sin θ = 12/13 for an acute angle θ. What is sin²θ - cos²θ?
 
-A) 4
-B) 5
-C) 27
-D) 80
+A) 119/169
+B) 144/169
+C) 25/169
+D) 48/169
 
-A bacterial culture triples in size every 6 hours. If the initial population is 200 bacteria, and P(h) represents the population after h hours, which of the following correctly models P(h)?
+A circle has radius 12. An arc of this circle has length 7π. What is the central angle in degrees?
 
-A) P(h) = 200(3)^h
-B) P(h) = 200(3)^(h/6)
-C) P(h) = 600(3)^h
-D) P(h) = 200(6)^(h/3)
+A) 95°
+B) 100°
+C) 105°
+D) 110°
 
-If 8^x = 512, what is x?
+In a right triangle, tan θ = 7/24 for an acute angle θ. What is sin θ + cos θ?
 
-A) 3
-B) 64
-C) 504
-D) 4096
+A) 31/25
+B) 31/24
+C) 25/31
+D) 1
 
-An architect creates a scale model where 1 cm represents 8 meters in the actual building. If a building's actual height is 56 meters, and the model must fit within a display case that is 10 cm tall, what is the maximum model height (in cm) that will fit?
-
-A) 7 cm
-B) 48 cm
-C) 64 cm
-D) 448 cm
-
-A computer originally priced at $1,200 goes on sale with a 30% discount. After the discount is applied, an additional 8% sales tax is added to the sale price. What is the final price, including tax?
-
-A) $840
-B) $907.20
-C) $936
-D) $1,296
-
-If 55% of a number is 143, what is the number?
-
-A) 78.65
-B) 198
-C) 260
-D) 2.6
-
-A retailer marks up items by 90% over the wholesale price. If the wholesale cost is $50, what is the retail price?
-
-A) $45
-B) $55.56
-C) $95
-D) $140
-
-Heights (in inches): 62, 65, 68, 71, 74. What is the mean?
-
-A) 67
-B) 68
-C) 340
-D) 12
-
-Temperatures (°F): 45, 52, 58, 58, 63. What is the median?
-
-A) 55
-B) 58
-C) 55.2
-D) 63
-
-Dataset: 12, 15, 18, 18, 21, 24. What is the mode?
-
-A) 12
-B) 15
-C) 18
-D) 24
-
-A box contains 10 red, 8 blue, and 7 yellow balls. If two balls are selected at random without replacement, what is the probability that both balls are red?
-
-A) 1/4
-B) 3/20
-C) 2/5
-D) 1/6
-
-A right triangle has legs of lengths 8 and 15. If the triangle is inscribed in a circle such that the hypotenuse is a diameter of the circle, what is the area of the circle in terms of π?
-
-A) 17π
-B) 289π/4
-C) 289π
-D) 34π
-
-In a right triangle, the hypotenuse is 34 and one leg is 16. What is the length of the other leg?
-
-A) 18
-B) 30
-C) 900
-D) 50
-
-Two similar triangles have a side-length ratio of 3:8. If the smaller triangle's perimeter is 42, what is the perimeter of the larger triangle?
-
-A) 15.75
-B) 112
-C) 126
-D) 336
-
-A triangle has sides 5, 12, and 13. Is it a right triangle?
-
-A) Yes, 5² + 12² = 13²
-B) No, 5² + 12² ≠ 13²
-C) Cannot be determined
-D) Yes, approximately
-
-A circle has radius 9 cm. If a sector of this circle has a central angle of 120°, what is the area of the sector in terms of π?
-
-A) 6π cm²
-B) 27π cm²
-C) 81π cm²
-D) 3π cm²
-
-A circle has area 100π square meters. What is its radius?
-
-A) 10 m
-B) 50 m
-C) 100 m
-D) 31.83 m
-
-A circle has circumference 36π inches. What is its area?
-
-A) 18π in²
-B) 324π in²
-C) 1296π in²
-D) 36π in²
-
-An arc of radius 20 has length 15π. What is the central angle (in radians)?
-
-A) 3π/4
-B) 4π/3
-C) 300π
-D) 3/4
-
-If f(x) = 5x² - 4x + 1 and g(x) = x + 2, what is the value of f(g(3))?
-
-A) 34
-B) 106
-C) 118
-D) 22
-
-If g(x) = 3x - 11, what is g(-4)?
-
-A) -23
-B) 1
-C) -1
-D) 23
-
-What is the domain of f(x) = 1/(x - 7)?
-
-A) All real numbers
-B) All real numbers except 7
-C) All real numbers except -7
-D) x > 7 only
-
-The function h(x) = x² - 12x + 32 represents the height (in meters) of a projectile above ground level, where x is time in seconds. At what times does the projectile reach ground level?
-
-A) x = 4 and x = 8
-B) x = -4 and x = -8
-C) x = 4 and x = -8
-D) x = -4 and x = 8
-
-Simplify (6x + 18)/(x + 3) (for x ≠ -3).
-
-A) 6
-B) 6x
-C) x + 3
-D) Cannot be simplified
-
-Simplify (x² - 49)/(x + 7) (for x ≠ -7).
-
-A) x - 7
-B) x + 7
-C) x² - 7
-D) Cannot be simplified
-
-If √(4x + 9) = 9, what is x?
-
-A) 0
-B) 18
-C) 72
-D) 90
-
-Simplify √(x² + 10x + 25).
-
-A) x + 5
-B) |x + 5|
-C) x + 25
-D) Cannot be simplified
-
-In a right triangle, if sin θ = 12/13, what is cos θ?
-
-A) 1/13
-B) 5/13
-C) 12/5
-D) 5/12
-
-Convert 7π/6 radians to degrees.
-
-A) 30°
-B) 210°
-C) 1260°/π
-D) 420°
-
-In a right triangle, if tan θ = 7/24, what is sin θ?
-
-A) 7/24
-B) 7/25
-C) 25/7
-D) 24/7
-
-A sphere has radius 6 cm. What is its volume, in terms of π?
+A sphere has volume 288π cm³. A cone has the same radius and height equal to the diameter of the sphere. What is the volume of the cone in terms of π?
 
 A) 144π cm³
-B) 288π cm³
-C) 864π cm³
-D) 36π cm³
+B) 192π cm³
+C) 216π cm³
+D) 288π cm³
 
 
 ANSWER KEY
