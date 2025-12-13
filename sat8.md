@@ -502,81 +502,82 @@ B) 6
 C) -7
 D) 43
 
-60. If 9x + 2y = 80 and x = 6, what is the value of y?
+60. For the system 9x + ky = 80 and 2x - 3y = -21, the solution satisfies x = 6. What is k, and what is xy/k?
 
-A) 13
-B) 26
-C) -13
+A) k = 2, xy/k = 33
+B) k = 2, xy/k = 66/2
+C) k = 3, xy/k = 22
+D) k = 3, xy/k = 33
+
+61. Lines f(x) = (7/2)x - 2 and g(x) = -(5/2)x + 10 intersect at P. A function h(x) has slope = average of f and g's slopes and passes through P. What is h(0)?
+
+A) 3
+B) 4
+C) 5
 D) 6
 
-61. The lines y = 4x + 1 and y = -2x + 25 intersect at a point. What is the y-coordinate of the intersection point?
+62. If 8a + 3b = 87 and a + b = 14, what is (a² - b²)/(a - b)?
 
-A) 4
-B) 17
-C) 25
-D) 29
+A) 12
+B) 14
+C) 16
+D) 18
 
-62. If 8a + 3b = 87 and a + b = 14, what is the value of b?
+63. A ball's height is h(t) = -5t² + 30t + 6, where h is in meters and t is in seconds. For how many seconds is the ball at or above 41 meters?
 
-A) 5
+A) 2 seconds
+B) 2.5 seconds
+C) 3 seconds
+D) 3.5 seconds
+
+64. If (x - 8)² = 100/4 and x must also satisfy 3x - 2 < 25, what is the sum of all valid values of x?
+
+A) 13
+B) 16
+C) 19
+D) Only one value: 3
+
+65. The parabola y = (x - 3)² - 11 has vertex V. A line with slope 5/3 passes through V. What is the x-intercept?
+
+A) 33/5 + 3
+B) 33/5
+C) 6.6
+D) 48/5
+
+66. If x² - 9x + 20 = 0 and r, s are solutions with r < s, what is (s² - r²)/(s - r)?
+
+A) 7
 B) 9
-C) -5
-D) 14
+C) 11
+D) 13
 
-63. What are the solutions to x² + 10x - 24 = 0?
-
-A) x = -12 or x = 2
-B) x = 12 or x = -2
-C) x = -4 or x = 6
-D) x = 4 or x = -6
-
-64. If (x - 8)² = 49, what are the possible values of x?
-
-A) 1 and 15
-B) -1 and -15
-C) 1 and -15
-D) -1 and 15
-
-65. What is the vertex of the parabola y = (x - 3)² - 11?
-
-A) (3, -11)
-B) (-3, -11)
-C) (3, 11)
-D) (-3, 11)
-
-66. If x² - 9x + 20 = 0, what is the sum of the solutions?
-
-A) 9
-B) 20
-C) -9
-D) -20
-
-67. If 5^(2x) = 625, what is the value of x?
-
-A) 2
-B) 4
-C) 621
-D) 390625
-
-68. If 7^(x+1) = 343, what is the value of x?
+67. If 5^(2x) = 625 and this x satisfies x² - kx + 2 = 0, what is k?
 
 A) 2
 B) 3
-C) 342
-D) 2401
+C) 4
+D) 5
 
-69. A bacterial culture quadruples in size every 6 hours. If the culture begins with 150 bacteria, which expression represents the number of bacteria after t hours?
+68. Given 7^(x+1) = 343 and 3^(y-1) = 81, what is (x + y)/(xy)?
 
-A) 150(4)^t
-B) 150(4)^(t/6)
-C) 600(4)^t
-D) 150(4)^(t-6)
+A) 5/8
+B) 3/4
+C) 7/8
+D) 1
 
-70. If 3^x = 243, what is the value of x?
+69. A bacterial culture quadruples in size every 6 hours. If the culture begins with 150 bacteria, after how many hours will it first exceed 75,000?
 
-A) 5
-B) 81
-C) 238
+A) 24
+B) 30
+C) 36
+D) 42
+
+70. If 3^x = 243, and this x is used in (2x - 1)/(x² - 4), what is the value?
+
+A) 9/21
+B) 3/7
+C) 1/2
+D) 4/7
 D) 59049
 
 71. An architect's floor plan uses a scale of 1 inch : 12 feet. If a hallway measures 6.5 inches on the plan, what is the actual length of the hallway?
