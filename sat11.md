@@ -919,12 +919,12 @@ SECTION 2: MATH (Questions 55–98)
 Algebra — Questions 55–64
 
 
-A company's production cost C (in thousands) is modeled by C = 7(x + 2), where x is units produced. The company's revenue R is modeled by R = 3(x - 4) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 50, what is the value of x?
+A company's production cost C (in thousands) is C = 7(x + 2) and revenue R = 3(x - 4) + k. If C = R when k = 26, and profit margin m = (R - C)/x when x > 0, what is m when x = 12?
 
-A) 3
-B) 4
-C) 6
-D) 7
+A) -4/3
+B) -7/6
+C) -5/4
+D) -1
 
 A linear function f(x) = mx + b passes through the points (1, -2) and (5, 6). What is the value of m (the slope)?
 
@@ -933,12 +933,12 @@ B) 3/2
 C) 2
 D) 4
 
-In a chemistry experiment, the concentration must be at most 13 units. If concentration = 4x - 3, where x is the amount added, what is the largest integer value of x?
+The concentration 4x - 3 must be at least 5 but at most 21. Also, x ≤ 8. How many integer values of x satisfy all requirements?
 
-A) 3
-B) 4
-C) 5
-D) 6
+A) 4
+B) 5
+C) 6
+D) 7
 
 A streaming service charges a monthly fee of $12 plus $2 for each movie rented. If a customer's bill for one month is $32, how many movies did the customer rent?
 
@@ -954,12 +954,12 @@ B) -9
 C) 3
 D) 9
 
-A system of equations is given: 2x + y = 11 and x - y = 1. If (a, b) is the solution to this system, and a third equation cx + dy = 25 also passes through (a, b) where c = a and d = b, what is the value of c + d?
+For the system 2x + y = 11 and x - y = 1, what is (x² - y²)/(x - y)?
 
-A) 2
-B) 3
-C) 5
-D) 4
+A) 5
+B) 7
+C) 9
+D) 11
 
 A gym charges a one-time sign-up fee of $50 and a monthly fee of $15. Which equation represents the total cost C for m months?
 
