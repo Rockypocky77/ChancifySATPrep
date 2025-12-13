@@ -507,82 +507,82 @@ D) publishing conclusions occurred
 
 SECTION 2: MATH (Questions 55–98)
 
-A company's cost C = 10(x + 6) and revenue R = 7(x - 3), where x is units. The company also has a fixed overhead cost k. If C = R + k and k = 81, what is x?
+A company's cost C = 10(x + 6) and revenue R = 7(x - 3), where x is units. If C = R + k where k = 81, and profit margin m = (R - C)/x when x > 0, what is m when x = 18?
 
-A) -27
-B) -13.5
-C) 0
-D) 27
+A) -3/2
+B) -5/3
+C) -7/6
+D) -4/3
 
-If 9x - 18 ≥ 45, and x must also satisfy x ≤ 10, what is the smallest integer value of x that satisfies both requirements?
-
-A) 7
-B) 8
-C) 9
-D) 10
-
-A linear function f(x) = mx + b passes through (0, 4) and (7, 25). What is m?
-
-A) 3
-B) -3
-C) 21/7
-D) 29
-
-If 10x + 17 = 7x + 38, what is x?
-
-A) 7
-B) -7
-C) 55/3
-D) 21
-
-If 9x + 4y = 73 and 6x - y = 23, what is x?
+The expression 9x - 18 must be at least 45 but no more than 99. Also, x must satisfy x ≤ 15. How many integer values of x satisfy all three requirements?
 
 A) 5
 B) 6
-C) -5
-D) 96
+C) 7
+D) 8
 
-If 8x + 6y = 82 and x = 11, what is y?
+A linear function f(x) = mx + b passes through (0, 5/2) and (6, 29/2). Another function g(x) = (3/4)x + 2 intersects f(x) at point P. What is the y-coordinate of P?
 
-A) -1
-B) 1
-C) -6
-D) 11
+A) 7/2
+B) 4
+C) 9/2
+D) 5
 
-Lines y = 6x - 5 and y = -4x + 25 intersect. What is the y-coordinate?
+If 10x + 17 = 7x + 38, and this x satisfies x² - kx + 7 = 0, what is k?
+
+A) 8
+B) 50/7
+C) 56/7
+D) 64/7
+
+If 9x + 4y = 73 and 6x - y = 23, what is the value of 2x + y?
+
+A) 15
+B) 17
+C) 19
+D) 21
+
+For the system 8x + ky = 82 and 3x - 2y = 39, the solution satisfies x = 11. What is k, and what is (x - y)/k?
+
+A) k = 6, (x - y)/k = 2
+B) k = 6, (x - y)/k = 5/3
+C) k = 4, (x - y)/k = 3
+D) k = 4, (x - y)/k = 5/2
+
+Lines f(x) = (5/2)x - 1 and g(x) = -(3/2)x + 7 intersect at P. A third function h(x) has slope equal to the average of f and g's slopes and passes through P. What is h(0)?
 
 A) 3
-B) 13
-C) 25
-D) 30
+B) 4
+C) 5
+D) 6
 
-If 10a + 6b = 104 and a + b = 14, what is b?
+If 10a + 6b = 104 and a + b = 14, what is (a² - b²)/(a - b)?
 
-A) 9
-B) 5
-C) -9
+A) 12
+B) 14
+C) 16
+D) 18
+
+A ball's height is h(t) = -5t² + 25t + 10, where h is in meters and t is in seconds. For how many seconds is the ball at or above 35 meters?
+
+A) 2 seconds
+B) 2.5 seconds
+C) 3 seconds
+D) 3.5 seconds
+
+If (x - 13)² = 225/4 and x must also satisfy 3x - 5 < 50, what is the sum of all valid values of x?
+
+A) 33/2
+B) 26
+C) 53/2
+D) Only one value exists: 41/2
+
+The parabola y = (x - 7)² + 9 has vertex V. A line with slope -3/2 passes through V. What is the x-intercept of this line?
+
+A) 11
+B) 12
+C) 13
 D) 14
-
-If x² + 10x - 56 = 0, what are the solutions?
-
-A) x = -14 or x = 4
-B) x = 14 or x = -4
-C) x = -4 or x = 14
-D) x = 4 or x = -14
-
-If (x - 13)² = 81, what are the possible values of x?
-
-A) 4 and 22
-B) -4 and -22
-C) 4 and -22
-D) -4 and 22
-
-What is the vertex of y = (x - 7)² + 9?
-
-A) (7, 9)
-B) (-7, 9)
-C) (7, -9)
-D) (-7, -9)
 
 If x² - 17x + 70 = 0, what is the sum of the solutions?
 
