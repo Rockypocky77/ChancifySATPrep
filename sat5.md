@@ -2,57 +2,57 @@ SAT PRACTICE TEST 5
 
 SECTION 1: READING & WRITING (54 Questions)
 
-Questions 1–6: Literature – Identity and Belonging
-The Translation
+---
 
-My name is Yuki, but here everyone calls me Julie. The transformation happened on my first day at Morrison Elementary—the teacher glanced at my name tag, frowned, and said, "That's difficult. How about Julie? It's close enough."
+**Question 1**
 
-I was seven. I didn't know I could say no.
-
-At home, I remained Yuki. My grandmother, who lived with us and spoke minimal English, would call "Yuki-chan!" and I'd help her fold laundry or shell edamame. At school, Julie raised her hand in math class and ate peanut butter sandwiches, which I'd learned to request instead of onigiri because Emma had wrinkled her nose at my lunch last week.
-
-The split felt manageable until the fifth-grade heritage project. We were supposed to present our family backgrounds. Most kids showed Ellis Island documents or talked about Irish or Italian grandparents. I prepared carefully—photos of Tokyo, a kimono my grandmother had kept, some of her calligraphy.
-
-"That's so cool," Emma said afterward. "You're like, basically Japanese."
-
-Basically. As if it were approximate, diluted, not quite authentic because I'd been born in Sacramento and my English had no accent.
-
-That night, I asked my grandmother to teach me more Japanese. She looked pleased but puzzled—I'd resisted lessons for years, frustrated by the difficulty, by how the language felt foreign in my mouth despite my face.
-
-"Yuki-chan ga nihon-jin ni naritai?" she asked. Did I want to become Japanese?
-
-The question exposed the problem: I was trying to become what I already was supposed to be, what I looked like but didn't quite feel like, caught between two languages and fully fluent in neither.
-
-Now, at seventeen, I've reclaimed Yuki. I correct teachers on the first day. I study Japanese seriously. I've learned that identity isn't either/or—not a translation where something gets lost, but more like a bridge connecting places, strong precisely because it spans distance.
-
-But sometimes I still feel the split: Yuki and Julie, both me, both true, both incomplete alone.
+My name is Yuki, but here everyone calls me Julie. The transformation happened on my first day at Morrison Elementary—the teacher glanced at my name tag, frowned, and said, "That's difficult. How about Julie? It's close enough." I was seven. I didn't know I could say no. At home, I remained Yuki. At school, Julie raised her hand in class and ate peanut butter sandwiches. Now, at seventeen, I've reclaimed Yuki—I correct teachers on the first day. Identity isn't either/or, I've learned, but more like a bridge spanning distance.
 
 The passage primarily explores
 
-A) the process of acquiring proficiency in Japanese linguistic structures
+A) the technical process of learning Japanese language structures
 B) the narrator's complex negotiation of bicultural identity and belonging
-C) adversarial relationships with educational authority figures
-D) the formation and maintenance of peer relationships during childhood
+C) conflicts with authority figures in educational settings
+D) strategies for making friends during elementary school years
 
-The teacher's suggestion "It's close enough" reveals
+---
 
-A) genuine efforts to facilitate student comfort and integration into the classroom environment
-B) prioritizing administrative ease over recognition of cultural distinctiveness
-C) challenges in accurately pronouncing non-English names and linguistic difficulties
-D) limitations imposed by instructional time constraints and scheduling pressures
+**Question 2**
+
+The teacher glanced at my name tag, frowned, and said, "That's difficult. How about Julie? It's close enough." I was seven. I didn't know I could say no. The renaming took seconds—a quick administrative decision that would shape how I understood myself for years. She hadn't asked my parents. She hadn't tried to pronounce it. Yuki was simply too much trouble, and Julie was close enough—a phrase that would echo through my childhood.
+
+The teacher's suggestion "It's close enough" primarily reveals
+
+A) genuine concern for helping the student integrate comfortably into class
+B) prioritizing convenience over respecting cultural identity and distinctiveness
+C) innocent difficulty with unfamiliar phonetic patterns and pronunciation
+D) pressure from administrators to simplify classroom procedures
+
+---
+
+**Question 3**
+
+At school, Julie ate peanut butter sandwiches, which I'd learned to request instead of onigiri because Emma had wrinkled her nose at my lunch last week. The rice ball had been my grandmother's specialty—carefully shaped, filled with pickled plum, wrapped in nori. But under Emma's disgusted gaze, it had transformed into something shameful, something to hide. So Julie ate sandwiches, and Yuki's lunches stayed home.
 
 Requesting peanut butter sandwiches instead of onigiri demonstrates
 
-A) natural evolution of dietary preferences over time and changing tastes
-B) adaptation to perceived social norms following negative responses to cultural expressions
-C) medical restrictions requiring avoidance of specific food ingredients and health concerns
-D) selection of more readily available meal options and convenience factors
+A) natural evolution of the narrator's dietary preferences over time
+B) adaptation to social pressure after experiencing rejection of cultural food
+C) medical allergies requiring avoidance of certain ingredients
+D) simple preference for foods more readily available at school
 
-Emma's comment "basically Japanese" suggests
+---
 
-A) wholehearted embrace of the narrator's cultural background
-B) perceiving the narrator's identity as qualified or partial rather than complete
-C) familiarity with geographical and cultural distinctions
+**Question 4**
+
+"That's so cool," Emma said after my heritage presentation. "You're like, basically Japanese." Basically. The word stung. As if being Japanese were approximate, diluted, not quite authentic because I'd been born in Sacramento and my English had no accent. I looked Japanese but didn't feel Japanese enough; I felt American but didn't look American enough. "Basically" placed me in a category of people who almost belonged but never quite did.
+
+Emma's comment "basically Japanese" suggests she perceives the narrator's identity as
+
+A) complete and authentic Japanese heritage worthy of celebration
+B) qualified or partial rather than fully authentic
+C) more American than Japanese despite appearances
+D) identical to her own European-American heritage
 D) uncertainty about cultural classifications
 
 The grandmother's question "Did you want to become Japanese?" highlights
