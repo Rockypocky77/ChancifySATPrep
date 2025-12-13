@@ -904,12 +904,12 @@ SECTION 2: MATH (44 Questions, 55–98)
 Algebra — Questions 55–64
 
 
-A company's production cost C (in thousands) is modeled by C = 5(x + 3), where x is units produced. The company's revenue R is modeled by R = 3(x - 1) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 34, what is the value of x?
+A company's production cost C (in thousands) is modeled by C = 5(x + 3), where x is units produced. The company's revenue R is modeled by R = 3(x - 1) + k. If the company breaks even when C = R and k = 18, and profit margin m = (R - C)/x when x > 0, what is m when x = 10?
 
-A) 1
-B) 8
-C) 9
-D) 7
+A) -1
+B) -4/5
+C) -3/5
+D) -2/5
 
 A linear function f(x) = mx + b has slope (\frac{3}{2}) and passes through the point ((2, 1)). What is the value of b (the y-intercept)?
 
@@ -918,12 +918,12 @@ B) (-1)
 C) 1
 D) 4
 
-In a chemistry experiment, the concentration must be greater than 11 units. If concentration = 2x + 5, where x is the amount added, what is the smallest integer value of x?
+The concentration 2x + 5 must be greater than 11 but at most 27. Also, x ≤ 15. How many integer values of x satisfy all requirements?
 
-A) 3
-B) 4
-C) 5
-D) 8
+A) 6
+B) 7
+C) 8
+D) 9
 
 A cell phone plan charges a flat fee of $20 plus $0.10 per text message. If the monthly bill is $35, how many text messages were sent?
 
@@ -932,19 +932,19 @@ B) 150
 C) 200
 D) 350
 
-A linear function f(x) = mx + b passes through ((0, 4)) and ((6, 10)). What is the value of m (the slope)?
+A linear function f(x) passes through (0, 7/2) and (6, 19/2). Another function g(x) = (1/3)x + 2 intersects f(x) at P. What is the y-coordinate of P?
 
-A) (\frac{1}{2})
-B) 1
-C) (\frac{2}{3})
-D) (\frac{3}{2})
+A) 3
+B) 10/3
+C) 11/3
+D) 4
 
-A system of equations is given: x + y = 7 and x - y = 3. If (a, b) is the solution to this system, and a third equation cx + dy = 19 also passes through (a, b) where c = a and d = b, what is the value of c + d?
+For the system x + y = 7 and x - y = 3, what is (x² - y²)/(x - y)?
 
-A) 2
-B) 3
-C) 4
-D) 5
+A) 5
+B) 7
+C) 9
+D) 11
 
 A car rental company charges $40 per day plus a one-time fee of $25. Which equation models the total cost (C) for (d) days?
 
