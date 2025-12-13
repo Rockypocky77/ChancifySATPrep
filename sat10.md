@@ -3,35 +3,24 @@ SAT PRACTICE TEST 10
 
 SECTION 1: READING & WRITING (54 Questions)
 
+---
 
-Questions 1–7: Literature Passage
+**Question 1**
 
+Maya moved back to her childhood town after ten years away. The houses looked smaller now, as if they had quietly folded in on themselves while she was gone. The bakery still leaned on the corner, its windows fogged with the familiar warmth of rising dough. As she walked down the street, she realized that nothing had truly stayed the same; instead, everything had learned to resemble its old self. Maya felt both like an intruder and a historian, carrying a version of the town that no longer existed except in her memory.
 
-Maya moved back to her childhood town after ten years away. The houses looked smaller now, as if they had quietly folded in on themselves while she was gone. The bakery still leaned on the corner, its windows fogged with the familiar warmth of rising dough.
+The passage primarily suggests that Maya
 
+A) regrets returning to a town that has completely erased her past
+B) finds the town unrecognizable and cold without familiar landmarks
+C) experiences the town as familiar yet subtly changed, creating mixed emotions
+D) is amazed the town has remained exactly as she remembered it
 
-As she walked down the street, she realized that nothing had truly stayed the same; instead, everything had learned to resemble its old self. The new café with its bright metal chairs sat where the dusty bookstore used to be. Children raced past her, shouting the same games with different slang. Maya felt both like an intruder and a historian, carrying a version of the town that no longer existed except in her memory.
+---
 
+**Question 2**
 
-The central idea of the passage is that Maya
-
-
-A) regrets returning to a town that has completely erased her past and destroyed memories.
-
-
-B) is disappointed that the town has become unrecognizable and cold without familiar warmth.
-
-
-C) sees the town as familiar yet subtly changed, creating mixed feelings.
-
-
-D) is amazed that the town has remained exactly the same as in her memory without any changes.
-
-
-Which choice provides the best evidence for the answer to the previous question?
-
-
-A) "The houses looked smaller now, as if they had quietly folded in on themselves while she was gone."
+The new café with its bright metal chairs sat where the dusty bookstore used to be. Children raced past her, shouting the same games with different slang. The bakery still leaned on the corner, but the baker was someone's daughter now, not the grey-haired man who had slipped Maya free cookies. Everything had learned to resemble its old self—close enough to trigger memory, different enough to feel like looking at a photograph that had been subtly altered.
 
 
 B) "The bakery still leaned on the corner, its windows fogged with the familiar warmth of rising dough."
