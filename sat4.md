@@ -2,62 +2,57 @@ SAT PRACTICE TEST 4
 
 SECTION 1: READING & WRITING (54 Questions)
 
-Questions 1–6: Literature – Family Dynamics
-Inheritance
+---
 
-The lawyer's office smelled like old paper and decisions that couldn't be undone. My sister Jenna sat across from me, her expression unreadable in that way she'd perfected after years of family dinners where nothing real was ever said.
+**Question 1**
 
-"Your father's estate," the lawyer began, and I wanted to stop him, to say that estates were for people who'd been distant and formal, not for someone who'd taught me to ride a bike and burned pancakes every Sunday morning. But Dad had become distant. The last decade had hollowed him out—not all at once, but gradually, the way rivers reshape stone.
-
-The will was straightforward. The house to Jenna. The investments to me. Equal value, the lawyer assured us, as if value could be measured only in dollars.
-
-Jenna took the news silently. I knew what she was thinking: I got the house because I'd stayed. Because I'd visited every week, endured the repetitive conversations as dementia erased him piece by piece. I'd moved across the country for a job, for a life, for reasons that seemed important at the time.
-
-"He was proud of you," Jenna said finally, and I couldn't tell if she meant it or if this was another thing we'd say to fill the space where honesty should be.
-
-"That's not why—"
-
-"I know." She stood. "The house needs work. Roof, probably plumbing. Your investments are cleaner."
-
-Cleaner. As if guilt came off with soap and water.
-
-We divided his belongings over the next week. The process was archaeological—layers of a life we'd only partly known. Photos of a young man we'd never met. Letters from a war he'd never discussed. A journal with entries that stopped abruptly in 1987, the year our mother left.
-
-"Did you know he wrote?" Jenna asked, holding the journal like it might shatter.
-
-"No."
-
-"There's a lot we didn't know."
-
-The inheritance wasn't the house or the money. It was this: the weight of questions we'd never asked, the archaeology of a person we'd loved but hadn't fully tried to understand until it was too late.
+The lawyer's office smelled like old paper and decisions that couldn't be undone. My sister Jenna sat across from me, her expression unreadable. "Your father's estate," the lawyer began. Dad had taught me to ride a bike and burned pancakes every Sunday—but the last decade had hollowed him out, gradually, the way rivers reshape stone. The will was straightforward: house to Jenna, investments to me. Equal value, the lawyer assured us, as if value could be measured only in dollars.
 
 The passage primarily explores
 
-A) legal conflicts arising from property distribution in estate settlements
-B) the narrator's experience of regret and partial comprehension regarding paternal identity
-C) competitive dynamics between siblings regarding financial inheritance
-D) procedures for marketing and disposing of residential real estate
+A) legal procedures governing property distribution in estate settlements
+B) the narrator's experience of regret and incomplete understanding of their father
+C) competitive financial dynamics between siblings over inheritance
+D) real estate market conditions affecting inherited property values
+
+---
+
+**Question 2**
+
+Jenna had stayed. She'd visited every week, endured the repetitive conversations as dementia erased him piece by piece. I'd moved across the country for a job, for a life, for reasons that seemed important at the time. Now, sitting in the lawyer's office, those reasons felt thin—excuses I'd constructed to justify absence while my sister shouldered the weight of watching our father disappear.
 
 The description of dementia "erasing him piece by piece" suggests
 
-A) available therapeutic interventions for cognitive decline and treatment options
-B) the progressive dissolution of the father's cognitive identity and autobiographical memory
-C) primarily physical manifestations of aging processes with minimal cognitive components
-D) memory lapses represent typical and expected aging patterns that are normal
+A) the availability of effective therapeutic interventions for cognitive decline
+B) the gradual dissolution of the father's identity and memory over time
+C) primarily physical rather than cognitive symptoms of the aging process
+D) typical memory lapses that occur normally during healthy aging
 
-As used in context, "archaeological" means
+---
 
-A) pertaining to historical civilizations and their material remains
-B) requiring specialized expertise in archaeological methodology
-C) the systematic uncovering and examination of accumulated layers representing past experiences
-D) characterized by scientific rigor and objective analytical approaches
+**Question 3**
 
-Jenna's comment that investments are "cleaner" implies
+We divided his belongings over the next week. The process was archaeological—layers of a life we'd only partly known. Photos of a young man we'd never met. Letters from a war he'd never discussed. A journal with entries that stopped abruptly in 1987, the year our mother left. Each discovery revealed how little we'd asked, how much we'd assumed, how incomplete our understanding of him had always been.
 
-A) financial assets demand minimal ongoing management or attention and require less effort
-B) monetary investments possess greater economic value than real property and generate higher returns
-C) financial instruments lack the emotional weight and guilt-associated complications of physical inheritance
-D) liquid assets can be converted to cash more readily than real estate and provide flexibility
+As used in the passage, "archaeological" most nearly means
+
+A) relating to the scientific study of ancient civilizations
+B) requiring specialized training in excavation techniques
+C) the process of uncovering hidden layers of someone's past
+D) characterized by precise measurement and documentation
+
+---
+
+**Question 4**
+
+"The house needs work. Roof, probably plumbing. Your investments are cleaner," Jenna said. Cleaner. As if guilt came off with soap and water. She'd inherited the physical burden of a deteriorating house; I'd inherited abstract numbers on statements I'd never need to visit. She'd have to walk through rooms where Dad had lived and faded; I'd never have to confront those spaces at all.
+
+Jenna's comment that investments are "cleaner" implies that
+
+A) financial assets require minimal ongoing maintenance and attention
+B) monetary investments have higher economic value than real estate
+C) financial inheritance lacks the emotional complications of physical property
+D) liquid assets provide greater flexibility in estate planning
 
 The journal stopping in 1987 is significant because
 
