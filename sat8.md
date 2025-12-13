@@ -2,42 +2,50 @@ SAT PRACTICE TEST 8
 
 SECTION 1: READING & WRITING (54 Questions)
 
-Questions 1–6: Literature Passage
+---
 
-The Practice Room
+**Question 1**
 
-The practice room was barely bigger than a closet, lined with gray soundproofing foam that made my violin sound too loud and too small at the same time. My brother had practiced in this same room, years ago, before leaving for his music conservatory on the other side of the country. His framed acceptance letter still hung in our hallway like a family trophy.
+The practice room was barely bigger than a closet, lined with gray soundproofing foam. My brother had practiced in this same room years ago before leaving for his music conservatory. His framed acceptance letter still hung in our hallway like a family trophy. When I first picked up the violin, everyone said, "You'll be just like Daniel." At twelve, that sounded like a compliment. At sixteen, it felt like a sentence. Judges glanced at my last name and smiled in recognition—not of me, but of him.
 
-When I first picked up the violin, everyone said, "You'll be just like Daniel." At twelve, that sounded like a compliment. At sixteen, it felt like a sentence. Teachers compared our audition scores. Relatives asked whether I'd chosen the same repertoire he played. At competitions, judges glanced at my last name and smiled in recognition—not of me, but of him.
+The passage primarily explores the narrator's experience of
 
-Tomorrow's concert program listed my name next to a solo we had both played: the first movement of the Bruch concerto. Choosing it had felt like playing second violin in my own life, echoing notes he had already made important. But when my teacher asked if I wanted to switch pieces, I surprised both of us by saying no.
-
-I lifted my bow and started again from the opening phrase, this time a little louder, a little less careful. The notes weren't perfect, but they sounded more like mine. My hands still shook, but beneath the tremor I felt something steadier forming—a thin, new line of confidence weaving through the familiar melody.
-
-1. The passage primarily explores the narrator's experience of
-
-A) mastering the technical difficulties inherent in violin concertos
+A) mastering technical difficulties inherent in advanced violin repertoire
 B) struggling to establish an independent identity while living in a sibling's shadow
-C) navigating the competitive admissions process at music conservatories and audition requirements
-D) preparing application materials for an advanced music program and portfolio submissions
+C) navigating competitive admissions processes at elite music conservatories
+D) preparing audition materials for advanced degree programs in music
 
-2. The phrase "like playing second violin in my own life" (paragraph 3) most strongly suggests that the narrator feels
+---
 
-A) responsible for leading and coordinating other musicians in ensemble settings
+**Question 2**
+
+Tomorrow's concert program listed my name next to a solo we had both played: the first movement of the Bruch concerto. Choosing it had felt like playing second violin in my own life, echoing notes he had already made important. The metaphor was apt—second violin in an orchestra follows, supports, rarely leads. I was performing someone else's part in a composition that had already been interpreted, already been praised, already been claimed.
+
+The phrase "like playing second violin in my own life" suggests the narrator feels
+
+A) responsible for coordinating other musicians in ensemble performances
 B) relegated to a supporting role in a narrative defined by someone else
-C) uninterested in participating in orchestral performances and group music-making
-D) insufficiently prepared for an upcoming solo recital and performance requirements
+C) uninterested in orchestral performance and group music-making
+D) insufficiently prepared for the demands of solo performance
 
-3. The narrator's decision to retain the Bruch concerto for the concert best illustrates a desire to
+---
 
-A) avoid creating additional work for the music teacher and minimize inconvenience
-B) replicate every aspect of the brother's successful career path and identical choices
-C) reclaim and redefine something previously associated with the brother
-D) select the piece requiring the least amount of practice time and minimal effort
+**Question 3**
 
-4. As used in the passage, the description "a little less careful" (paragraph 4) most nearly conveys that the narrator is
+When my teacher asked if I wanted to switch pieces, I surprised both of us by saying no. The Bruch concerto had been Daniel's signature piece—but keeping it felt different from changing it. Switching would admit defeat, concede that the music belonged to him. Keeping it and playing it differently—that was something else. That was saying the same words in a new voice, claiming space that existed whether or not someone had occupied it first.
 
-A) becoming careless and indifferent toward making technical errors and mistakes
+The narrator's decision to keep the Bruch concerto best illustrates a desire to
+
+A) avoid creating additional work for the music teacher
+B) replicate every detail of the brother's successful path
+C) reclaim and personally redefine something associated with the brother
+D) select the piece requiring minimal additional practice time
+
+---
+
+**Question 4**
+
+I lifted my bow and started again from the opening phrase, this time a little louder, a little less careful. The notes weren't perfect, but they sounded more like mine. Being "less careful" meant accepting imperfection as the cost of authenticity—allowing my interpretation to emerge rather than trying to reproduce something flawless and foreign. The messiness felt honest in a way that polish never had.
 B) abandoning all efforts at musical improvement and skill development
 C) permitting greater expressive freedom despite the risk of imperfection
 D) losing track of the correct notes and rhythmic patterns due to inattention
