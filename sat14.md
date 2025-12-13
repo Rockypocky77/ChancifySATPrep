@@ -934,12 +934,12 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-A company's production cost C (in thousands) is modeled by C = 6(x + 1), where x is units produced. The company's revenue R is modeled by R = 4(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 20, what is the value of x?
+A company's production cost C (in thousands) is C = 6(x + 1) and revenue R = 4(x - 2) + k. If C = R when k = 14, and profit margin m = (R - C)/x when x > 0, what is m when x = 8?
 
-A) 2
-B) 3
-C) 4
-D) 18
+A) -1
+B) -3/4
+C) -1/2
+D) -1/4
 
 A linear function f(x) = mx + b passes through the points ((-2, 1)) and ((4, 13)). What is the value of m (the slope)?
 
@@ -948,12 +948,12 @@ B) (\dfrac{3}{2})
 C) (2)
 D) (4)
 
-In a chemistry experiment, the concentration must be at most 21 units. If concentration = 5x - 4, where x is the amount added, what is the largest integer value of x?
+The concentration 5x - 4 must be at least 11 but at most 36. Also, x ≤ 10. How many integer values of x satisfy all requirements?
 
-A) (x \le 3)
-B) (x \le 5)
-C) (x \ge 3)
-D) (x \ge 5)
+A) 4
+B) 5
+C) 6
+D) 7
 
 A phone plan charges a monthly fee of $25 plus $0.10 per text message. If a customer's bill for one month is $37.50, how many text messages did the customer send?
 

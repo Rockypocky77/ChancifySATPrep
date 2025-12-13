@@ -934,12 +934,12 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-A company's production cost C (in thousands) is modeled by C = 5(x + 2), where x is units produced. The company's revenue R is modeled by R = 3(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 28, what is the value of x?
+A company's production cost C (in thousands) is C = 5(x + 2) and revenue R = 3(x - 2) + k. If C = R when k = 18, and profit margin m = (R - C)/x when x > 0, what is m when x = 10?
 
-A) 2
-B) 4
-C) 6
-D) 8
+A) -1
+B) -4/5
+C) -3/5
+D) -2/5
 
 
 A linear function f(x) = mx + b passes through the points ((-1, 4)) and ((5, -8)). What is the value of m (the slope)?
@@ -949,12 +949,12 @@ B) (-2)
 C) 2
 D) 3
 
-In a chemistry experiment, the concentration must be at least 19 units. If concentration = 2x + 7, where x is the amount added, what is the smallest integer value of x?
+The concentration 2x + 7 must be at least 19 but at most 35. Also, x ≤ 18. How many integer values of x satisfy all requirements?
 
-A) (x \le 6)
-B) (x \ge 6)
-C) (x < 6)
-D) (x > 6)
+A) 7
+B) 8
+C) 9
+D) 10
 
 A taxi company charges a flat fee of $3 plus $1.75 per mile. If a passenger's total fare is $17, how many miles did the passenger travel?
 

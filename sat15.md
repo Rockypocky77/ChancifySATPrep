@@ -928,12 +928,12 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-A company's production cost C (in thousands) is modeled by C = 8(x + 1), where x is units produced. The company's revenue R is modeled by R = 5(x - 1) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 25, what is the value of x?
+A company's production cost C (in thousands) is C = 8(x + 1) and revenue R = 5(x - 1) + k. If C = R when k = 13, and profit margin m = (R - C)/x when x > 0, what is m when x = 9?
 
-A) 3
-B) 4
-C) 5
-D) 26
+A) -1
+B) -2/3
+C) -1/3
+D) 0
 
 
 A line passes through the points ((-1, 2)) and ((5, 20)). What is the slope of the line?
@@ -951,19 +951,12 @@ C) (3)
 D) (6)
 
 
-The inequality (3x + 7 \le 25) is equivalent to
+The expression 3x + 7 must be at least 10 but at most 25. Also, x ≤ 8. How many integer values of x satisfy all requirements?
 
-
-A) (x \le 6)
-
-
-B) (x \le 7)
-
-
-C) (x \ge 6)
-
-
-D) (x \ge 7)
+A) 5
+B) 6
+C) 7
+D) 8
 
 
 A streaming service charges a monthly fee of $12 plus $2 per movie rental. If a customer's bill for one month is $26, how many movies did the customer rent?

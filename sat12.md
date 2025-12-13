@@ -922,12 +922,12 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-A company's production cost C (in thousands) is modeled by C = 4(x + 3), where x is units produced. The company's revenue R is modeled by R = 2(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 22, what is the value of x?
+A company's production cost C (in thousands) is C = 4(x + 3) and revenue R = 2(x - 2) + k. If C = R when k = 20, and profit margin m = (R - C)/x when x > 0, what is m when x = 8?
 
-A) 2
-B) 3
-C) 4
-D) 16
+A) -1/2
+B) -3/4
+C) -1
+D) -5/4
 
 A linear function f(x) = mx + b passes through the points ((2, -3)) and ((6, 5)). What is the value of m (the slope)?
 
@@ -936,12 +936,12 @@ B) (\dfrac{3}{2})
 C) (2)
 D) (4)
 
-In a chemistry experiment, the concentration must be less than 11 units. If concentration = 3x - 1, where x is the amount added, what is the largest integer value of x?
+The concentration 3x - 1 must be at least 5 but less than 17. Also, x ≤ 8. How many integer values of x satisfy all requirements?
 
-A) 2
-B) 3
-C) 4
-D) 5
+A) 3
+B) 4
+C) 5
+D) 6
 
 A taxi company charges a flat fee of $4 plus $1.50 per mile. If a passenger's total fare is $16, how many miles did the passenger travel?
 
@@ -957,12 +957,12 @@ B) (-5)
 C) (5)
 D) (10)
 
-A system of equations is given: x + y = 9 and x - y = 1. If (a, b) is the solution to this system, and a third equation cx + dy = 26 also passes through (a, b) where c = a and d = b, what is the value of c + d?
+For the system x + y = 9 and x - y = 1, what is (x² - y²)/(x - y)?
 
-A) 3
-B) 4
-C) 5
-D) 6
+A) 7
+B) 9
+C) 11
+D) 13
 
 A gym charges a sign-up fee of $30 and a monthly fee of $20. Which equation represents the total cost (C) in dollars for (m) months of membership?
 
