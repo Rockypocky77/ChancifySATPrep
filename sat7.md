@@ -498,85 +498,82 @@ B) 9
 C) 10
 D) 14
 
-57. A line passes through points (0, -4) and (5, 16). What is the slope of this line?
+57. A line passes through (0, -7/2) and (5, 33/2). Another line g(x) = (3/4)x + 2 intersects it at point P. What is the y-coordinate of P?
 
-A) 4
-B) -4
-C) 20/5
-D) 20
+A) 7/2
+B) 4
+C) 9/2
+D) 5
 
-58. If 9x + 17 = 6x + 38, what is x?
+58. If 9x + 17 = 6x + 38, and this x satisfies x² - kx + 7 = 0, what is k?
 
-A) 7
-B) -7
-C) 55/3
-D) 21
+A) 8
+B) 50/7
+C) 56/7
+D) 64/7
 
-59. A system of equations is shown below:
-3x + 7y = 32
-5x - 2y = 26
-What is the value of x?
+59. For the system 3x + 7y = 32 and 5x - 2y = 26, what is (x² - y²)/(x - y)?
 
 A) 6
-B) 5
-C) -6
-D) 32
+B) 7
+C) 8
+D) 9
 
-60. If 6x + 5y = 67 and x = 7, what is the value of y?
+60. For the system 6x + ky = 67 and 2x - 3y = -1, the solution satisfies x = 7. What is k, and what is xy/k?
 
-A) 5
-B) 25
-C) -5
-D) 7
+A) k = 5, xy/k = 7
+B) k = 5, xy/k = 35/5
+C) k = 4, xy/k = 35/4
+D) k = 4, xy/k = 7
 
-61. The lines y = 5x - 3 and y = -3x + 29 intersect at a point. What is the y-coordinate of the intersection point?
+61. Lines f(x) = (5/2)x - 1 and g(x) = -(3/2)x + 11 intersect at P. A function h(x) has slope = average of f and g's slopes and passes through P. What is h(0)?
 
 A) 4
-B) 17
-C) 29
-D) 32
+B) 5
+C) 6
+D) 7
 
-62. If 7a + 3b = 50 and a + b = 10, what is the value of b?
+62. If 7a + 3b = 50 and a + b = 10, what is (a² - b²)/(a - b)?
 
-A) 5
+A) 8
 B) 10
-C) -5
-D) 15
+C) 12
+D) 14
 
-63. What are the solutions to x² + 8x - 48 = 0?
+63. A ball's height is h(t) = -4t² + 20t + 9, where h is in meters and t is in seconds. For how many seconds is the ball at or above 25 meters?
 
-A) x = -12 or x = 4
-B) x = 12 or x = -4
-C) x = -4 or x = 12
-D) x = 4 or x = -12
+A) 2 seconds
+B) 2.5 seconds
+C) 3 seconds
+D) 3.5 seconds
 
-64. If (x - 11)² = 64, what are the possible values of x?
+64. If (x - 11)² = 121/4 and x must also satisfy 2x - 1 < 30, what is the sum of all valid values of x?
 
-A) 3 and 19
-B) -3 and -19
-C) 3 and -19
-D) -3 and 19
+A) 33/2
+B) 22
+C) 45/2
+D) Only one value: 33/2
 
-65. What is the vertex of the parabola y = (x + 5)² - 8?
+65. The parabola y = (x + 5)² - 8 has vertex V. A line with slope 4/3 passes through V. What is the x-intercept?
 
-A) (5, -8)
-B) (-5, -8)
-C) (5, 8)
-D) (-5, 8)
+A) 0
+B) 1
+C) 2
+D) 3
 
-66. If x² - 13x + 42 = 0, what is the sum of the solutions?
+66. If x² - 13x + 42 = 0 and r, s are solutions with r < s, what is (s² - r²)/(s - r)?
 
-A) 13
-B) 42
-C) -13
-D) -42
+A) 11
+B) 13
+C) 15
+D) 17
 
-67. If 4^(2x) = 64, what is the value of x?
+67. If 4^(2x) = 64 and this x satisfies 2x² - kx + 3/2 = 0, what is k?
 
-A) 1.5
-B) 3
-C) 60
-D) 4096
+A) 3
+B) 7/2
+C) 4
+D) 9/2
 
 68. If 3^(x+2) = 81, what is the value of x?
 
