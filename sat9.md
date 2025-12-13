@@ -2,42 +2,31 @@ SAT PRACTICE TEST 9
 
 SECTION 1: READING & WRITING (54 Questions)
 
-Questions 1–6: Literature Passage
+---
 
-Sibling Notes
+**Question 1**
 
-When my brother left for college, he forgot his guitar. It leaned against the corner of our shared bedroom, the strap still twisted the way he wore it on stage at the coffee shop downtown.
+When my brother left for college, he forgot his guitar. It leaned against the corner of our shared bedroom, the strap still twisted the way he wore it on stage. He texted me two days after move-in: "Did I leave my guitar? Can you ship it?" I thought about summers listening from the hallway while he practiced, never brave enough to ask him to teach me. That night I searched "basic guitar chords" and played until my fingers ached. For the first time, music in the house belonged partly to me.
 
-He texted me two days after move-in: "Did I leave my guitar?"
+The passage primarily explores the narrator's experience of
 
-I stared at the message for a long time before replying. "Yeah."
+A) managing logistics and costs of shipping musical instruments
+B) attempting to establish an independent identity after a sibling's departure
+C) overcoming practical challenges of learning guitar without instruction
+D) processing abandonment feelings after the brother's move to college
 
-"Can you ship it?" he wrote. "I kind of need it."
+---
 
-I thought about the summers I'd spent listening from the hallway while he practiced, never quite brave enough to ask if he'd teach me. About the way our parents always called him "the talented one" and me "the responsible one," as if the categories were mutually exclusive.
+**Question 2**
 
-I set the guitar on my lap. The body was bigger than I expected; it hummed faintly when I shifted my weight. I pressed my fingers against the strings, clumsy shapes that weren't real chords but felt like the beginning of something.
+I thought about the way our parents always called him "the talented one" and me "the responsible one," as if the categories were mutually exclusive. As if talent and responsibility couldn't coexist in the same person. The labels had been assigned early and never questioned—he was creative, artistic, musical; I was dependable, organized, sensible. Neither of us had chosen these roles, but both of us had learned to perform them.
 
-"I'll send it soon," I wrote back. It wasn't a lie. I just didn't say how soon.
+The parents' description of the narrator as "the responsible one" most strongly implies that they
 
-That night I searched "basic guitar chords" and played until my fingers ached. The sound was uneven, hesitant. But for the first time, music in the house belonged partly to me.
-
-The next morning, a new text: "Any luck with shipping?"
-
-I looked at the guitar, then at the empty corner where it had stood for years.
-
-"I'm working on it," I typed. And I was. Just not in the way he expected.
-
-1. The passage primarily explores the narrator's experience of
-
-A) managing the logistics and costs associated with shipping musical instruments and transportation
-B) attempting to establish an independent identity after an older sibling's departure
-C) overcoming the practical challenges of learning guitar without formal instruction and teaching
-D) processing feelings of abandonment following the brother's move to college and separation
-
-2. The parents' description of the narrator as "the responsible one" (paragraph 5) most strongly implies that they
-
-A) view the narrator as fundamentally unreliable and irresponsible in all circumstances
+A) consider the narrator fundamentally unreliable in all circumstances
+B) defined siblings by contrasting traits that limited each one's perceived potential
+C) recognized equal musical talent in both children
+D) encouraged the narrator to pursue artistic expression alongside the brother
 B) perceive responsibility and creative talent as distinct, mutually exclusive qualities
 C) expect the narrator to pursue musical training alongside the brother and parallel development
 D) consider both siblings equally talented in different artistic domains and creative pursuits
