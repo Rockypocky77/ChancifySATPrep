@@ -2,52 +2,70 @@ SAT PRACTICE TEST 6
 
 SECTION 1: READING & WRITING (54 Questions)
 
-Questions 1–6: Literature Passage
-The Weight of Inheritance
+---
 
-The attic smelled of cardboard and decades. My aunt handed me a shoebox—my grandfather's letters from the war. I'd never met him. He died before I was born, yet his silence shaped our family like negative space shapes sculpture.
+**Question 1**
 
-"He never talked about it," my aunt said. "Not once."
-
-Inside, forty letters to my grandmother. The handwriting was careful, the sentences short. Weather is fine. Food adequate. Hope you're well. Nothing about fear, death, or the friends whose names appeared early then vanished from later letters.
-
-My grandmother kept every letter but never mentioned them. She died last spring, and now this inheritance: proof of love expressed through persistent silence.
-
-I thought about what we inherit—not just letters and silverware, but patterns. My father never discussed his childhood. I struggle to articulate emotions. Three generations learning that some things remain unspeakable, even when speaking might save us.
+The attic smelled of cardboard and decades. My aunt handed me a shoebox—my grandfather's letters from the war. I'd never met him; he died before I was born. Yet his silence shaped our family like negative space shapes sculpture. Inside: forty letters to my grandmother. The handwriting was careful, the sentences short. Weather is fine. Food adequate. Hope you're well. Nothing about fear, death, or the friends whose names appeared early then vanished from later letters. Three generations now, learning that some things remain unspeakable.
 
 The passage primarily focuses on
 
-A) comprehensive documentation of specific military engagements during World War II
-B) the intergenerational transmission of unarticulated psychological trauma through behavioral patterns
-C) recognition of the grandfather's distinguished military service and achievements
-D) the historical significance and cultural value of written correspondence
+A) detailed documentation of specific military operations during World War II
+B) the transmission of unarticulated trauma through family behavioral patterns
+C) celebrating the grandfather's distinguished military service and heroism
+D) the historical value of preserving written correspondence for future generations
 
-The phrase "negative space shapes sculpture" suggests
+---
 
-A) the grandfather maintained artistic pursuits involving sculptural media and creative expression
-B) what is absent or unspoken can exert comparable influence to what is present or expressed
-C) family members deliberately minimized interpersonal contact and avoided communication
-D) sculptural artworks represented significant inherited family possessions and valuable heirlooms
+**Question 2**
 
-The grandfather's letters are significant because they
+My grandfather died before I was born, yet his silence shaped our family like negative space shapes sculpture. The metaphor puzzled me until I studied art: in sculpture, the empty spaces define the form as much as the material itself. What's removed matters as much as what remains. My grandfather's silence—about the war, about his past, about his inner life—became the shape around which our family formed its habits of not-asking, not-telling.
 
-A) provide detailed accounts of tactical military planning and execution during wartime operations
-B) contain profound contemplations on existential and philosophical questions about human nature
-C) exemplify the emotional containment and verbal economy that defined his communicative style
-D) establish evidence of exceptional literary talent and writing ability beyond ordinary correspondence
+The phrase "negative space shapes sculpture" suggests that
 
-As used in context, "inheritance" means
+A) the grandfather pursued artistic hobbies including sculpture and pottery
+B) absence and silence can shape experience as powerfully as presence and speech
+C) family members physically avoided spending time together whenever possible
+D) inherited sculptures represented the most valuable items in the family estate
 
-A) financial assets distributed according to legal testamentary documents
-B) exclusively biological characteristics transmitted through genetic mechanisms
-C) behavioral templates and psychological patterns transmitted across family generations
-D) solely material possessions and tangible artifacts
+---
 
-The narrator's adult reflection suggests
+**Question 3**
 
-A) maintaining silence consistently safeguards family relationships and stability
-B) verbal articulation of traumatic experiences serves no therapeutic or relational purpose
-C) unprocessed emotional pain may contribute to the continuation of maladaptive behavioral cycles
+Inside the shoebox, forty letters to my grandmother. The handwriting was careful, the sentences short. Weather is fine. Food adequate. Hope you're well. Nothing about fear, death, or the friends whose names appeared early then vanished from later letters. The restraint was itself a kind of message—not what he felt, but what he couldn't or wouldn't say. Each brief sentence a small fortress against everything happening around him.
+
+The grandfather's letters are significant primarily because they
+
+A) provide tactical details about military operations and strategic planning
+B) contain philosophical reflections on the meaning of life and death
+C) demonstrate the emotional restraint and verbal economy that defined his communication
+D) reveal exceptional literary talent that could have led to a writing career
+
+---
+
+**Question 4**
+
+I thought about what we inherit—not just letters and silverware, but patterns. My father never discussed his childhood. I struggle to articulate emotions. Three generations learning that some things remain unspeakable, even when speaking might save us. The shoebox wasn't just paper and ink; it was evidence of a pattern I hadn't recognized until I held it: love expressed through persistent silence, protection confused with withholding.
+
+As used in the passage, "inheritance" most nearly means
+
+A) financial assets distributed through legal wills and estate documents
+B) biological traits transmitted genetically from parent to child
+C) behavioral patterns and emotional habits passed across generations
+D) physical possessions and tangible objects left after death
+
+---
+
+**Question 5**
+
+My father never discussed his childhood. I struggle to articulate emotions. Three generations learning that some things remain unspeakable, even when speaking might save us. I understood, holding those letters, that silence can become a family tradition—passed down not through instruction but through example, not through genes but through the way we learn to be with each other. What my grandfather couldn't say, my father couldn't say, and I, too, find myself falling silent.
+
+The narrator's reflection suggests that
+
+A) silence consistently protects family relationships from unnecessary conflict
+B) expressing difficult emotions has no meaningful therapeutic benefit
+C) unprocessed pain can perpetuate patterns of emotional withdrawal across generations
+D) military service permanently damages the ability to form intimate relationships
 D) earlier generations possessed superior wisdom and judgment
 
 The tone of the passage is best described as
