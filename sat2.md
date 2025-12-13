@@ -2,231 +2,317 @@ SAT PRACTICE TEST 2
 
 SECTION 1: READING & WRITING (54 Questions)
 
-Questions 1–6: Literature – Family Dynamics
-The Inheritance
+---
 
-The lawyer's office smelled of old paper and furniture polish. My brother Michael sat across from me, his expression carefully neutral—a skill he'd perfected over years of family gatherings where emotion was vulnerability.
+**Question 1**
 
-"Your mother's will specifies equal division of assets," the lawyer began. "However, she left specific instructions regarding family heirlooms."
-
-I already knew what was coming. The antique pearl necklace, worn by three generations of women in our family, would go to Michael. Not because he wanted it—Michael cared as much about jewelry as I cared about his golf clubs. But because he had sons, and I had daughters.
-
-"Traditional family heirlooms pass through the male line," my mother had explained once, as if this made perfect sense. As if my daughters, her granddaughters, were somehow less family than Michael's boys.
-
-Michael cleared his throat. "I was thinking," he said carefully, "that maybe we should update some of these traditions."
-
-I looked at him, surprised. In forty years, Michael had never questioned our mother's decisions. He was the good son, the one who called every Sunday, who married appropriately, who lived three blocks away instead of three states.
-
-"The necklace should go to Rebecca," he continued, naming my eldest. "She's graduating law school this year. She'd actually wear it."
-
-Something shifted in my chest. Maybe families weren't just about following traditions. Maybe they were about choosing which traditions deserved to continue.
+The lawyer's office smelled of old paper and furniture polish. My brother Michael sat across from me, his expression carefully neutral—a skill he'd perfected over years of family gatherings where emotion was vulnerability. The antique pearl necklace, worn by three generations of women in our family, would go to Michael. Not because he wanted it—but because he had sons, and I had daughters. "Traditional family heirlooms pass through the male line," my mother had explained once. Michael cleared his throat. "I was thinking that maybe we should update some of these traditions."
 
 The passage primarily explores
 
 A) the technical legal mechanisms governing property transfer after death
-B) the complex negotiation between inherited cultural practices and contemporary value systems
-C) competitive dynamics between siblings regarding material inheritance
+B) the tension between inherited traditions and contemporary values within families
+C) competitive dynamics between siblings regarding material inheritance distribution
 D) methodologies for determining the monetary value of heirloom objects
 
-Michael's "carefully neutral" expression suggests he
+---
 
-A) lacks emotional investment in maternal relationships and demonstrates indifference
-B) has developed strategies for emotional regulation within familial interactions
-C) experiences resentment toward his sibling and harbors negative feelings
-D) finds legal processes incomprehensible or overwhelming and struggles with complexity
+**Question 2**
+
+My brother Michael sat across from me, his expression carefully neutral—a skill he'd perfected over years of family gatherings where emotion was vulnerability. In forty years, Michael had never questioned our mother's decisions. He was the good son, the one who called every Sunday, who married appropriately, who lived three blocks away instead of three states. Yet now, in the lawyer's office, something was shifting. "The necklace should go to Rebecca," he said, naming my eldest daughter. "She'd actually wear it."
+
+Michael's "carefully neutral" expression suggests he has
+
+A) no emotional investment in family relationships and demonstrates clinical indifference
+B) developed strategies for managing emotions within potentially volatile family interactions
+C) deep resentment toward his sister that he conceals beneath surface politeness
+D) difficulty understanding complex legal language and bureaucratic procedures
+
+---
+
+**Question 3**
+
+The antique pearl necklace would go to Michael. Not because he wanted it—Michael cared as much about jewelry as I cared about his golf clubs. But because he had sons, and I had daughters. The tradition made no practical sense: neither Michael nor his sons would ever wear the necklace, while my daughter Rebecca had admired it since childhood. Yet family logic operated on different principles than practical sense, following channels carved generations ago.
 
 The narrator's comment about golf clubs reveals that
 
-A) she maintains active participation in competitive golf activities and regular practice
-B) Michael demonstrates minimal genuine interest in golf as a recreational pursuit or hobby
-C) both siblings exhibit limited attachment to objects associated with conventional gender expectations
-D) golf equipment possesses greater economic value than jewelry items and represents better investments
+A) she plays golf regularly and appreciates quality sporting equipment
+B) Michael secretly dislikes golf but maintains appearances for social reasons
+C) both siblings have limited interest in objects conventionally associated with their genders
+D) golf equipment represents a more valuable investment than antique jewelry
+
+---
+
+**Question 4**
+
+"Traditional family heirlooms pass through the male line," my mother had explained once, as if this made perfect sense. As if my daughters, her granddaughters, were somehow less family than Michael's boys. The logic had been internalized so thoroughly that questioning it felt almost sacrilegious—like doubting gravity or sunrise. My mother never recognized the contradiction between her fierce advocacy for women's equality at work and her unquestioning acceptance of patrilineal inheritance at home.
 
 The mother's explanation about "traditional family heirlooms" indicates her belief that
 
-A) patrilineal descent represents the exclusive mechanism for authentic family continuity
-B) female family members lack capacity for appreciating valuable objects
-C) statutory legal frameworks determine all inheritance distributions
-D) daughters possess inherently inferior intellectual capabilities compared to sons
+A) family continuity flows authentically only through male descendants
+B) female family members lack the responsibility to properly care for valuable items
+C) legal frameworks should override personal preferences in all inheritance matters
+D) daughters are intellectually incapable of appreciating historical significance
+
+---
+
+**Question 5**
+
+Michael was the good son, the one who called every Sunday, who married appropriately, who lived three blocks away instead of three states. He had followed every expectation without apparent resistance, earning our mother's approval through steady compliance. I had moved to California, married a man she tolerated rather than loved, pursued a career she considered unfeminine. Yet here in the lawyer's office, the good son was questioning what I never dared challenge.
 
 Michael is described as "the good son" primarily because he
 
-A) demonstrates superior intellectual abilities relative to his sibling
-B) maintained alignment with parental norms and expectations throughout his life
-C) achieved greater financial success than his sister
-D) resides in more substantial housing accommodations than his sister
+A) demonstrated superior intellectual and professional achievements compared to his sister
+B) consistently aligned his choices with parental expectations and cultural norms
+C) achieved greater financial success through shrewd business decisions
+D) maintained a larger and more impressive home than other family members
 
-The final line suggests the narrator recognizes that
+---
 
-A) complete rejection of all traditional practices represents the optimal approach
-B) families possess agency in selectively preserving or modifying inherited customs
-C) Michael's actions represent calculated attempts to influence her decisions
-D) traditional practices lack any inherent value or significance
+**Question 6**
 
+"The necklace should go to Rebecca," Michael continued. "She's graduating law school this year. She'd actually wear it." Something shifted in my chest. In forty years, Michael had never questioned our mother's decisions. Maybe families weren't just about following traditions. Maybe they were about choosing which traditions deserved to continue—and which had outlived their purpose, serving only to perpetuate inequities that newer generations recognized but older ones could not see.
 
-Questions 7–12: Social Science – Sleep Deprivation
-The Cognitive Cost of Sleep Loss
+The final paragraph suggests the narrator recognizes that
 
-Americans increasingly treat sleep as optional—a luxury for the unambitious. CEOs boast about sleeping four hours nightly. College students pull all-nighters as badges of honor. This cultural valorization of sleeplessness ignores mounting evidence that sleep deprivation carries severe cognitive and health consequences.
+A) all traditional practices should be immediately abandoned without consideration
+B) families have agency to evaluate and selectively modify inherited customs
+C) Michael's suggestion represents manipulation rather than genuine generosity
+D) traditions possess no meaningful value and exist only as arbitrary constraints
 
-Sleep performs essential maintenance. During sleep, the brain consolidates memories, transferring information from temporary to long-term storage. Sleep-deprived individuals show impaired memory formation, struggling to retain new information despite adequate study time.
+---
 
-Decision-making also suffers. Research comparing sleep-deprived individuals to those with 0.08% blood alcohol—the legal intoxication limit—found similar impairment in reaction time and judgment. Yet we condemn drunk driving while celebrating executives who make multimillion-dollar decisions on four hours of sleep.
+**Question 7**
 
-Creativity declines too. REM sleep, when vivid dreaming occurs, facilitates novel connections between disparate concepts. Studies show sleep-deprived individuals perform worse on tasks requiring creative problem-solving, instead relying on conventional approaches.
+Americans increasingly treat sleep as optional—a luxury for the unambitious. CEOs boast about sleeping four hours nightly; college students pull all-nighters as badges of honor. This cultural valorization of sleeplessness ignores mounting evidence that sleep deprivation carries severe cognitive and health consequences. During sleep, the brain consolidates memories, transferring information from temporary to long-term storage. Sleep-deprived individuals show impaired memory formation, struggling to retain new information despite adequate study time.
 
-Physical health consequences compound cognitive effects. Chronic sleep deprivation increases risks of obesity, diabetes, cardiovascular disease, and early mortality. Sleep deprivation disrupts hormone regulation, increasing appetite while decreasing satiety signals—explaining links to weight gain.
+The passage primarily argues that
 
-Some argue individual variation matters more than sleep duration. Indeed, some genuinely function well on less sleep—but they represent perhaps 1–3% of the population. Most people who claim to "not need much sleep" show measurable impairment on objective tests despite subjective belief in their alertness.
+A) sleep cycle stages have been comprehensively documented by recent research
+B) cultural celebration of sleeplessness overlooks serious cognitive and health consequences
+C) corporate executives deserve personal criticism for their lifestyle choices
+D) the neurological mechanisms of dream formation require further scientific study
 
-The solution requires cultural shift. Workplaces should stop rewarding presenteeism and impossible schedules. Schools should start later, aligning with adolescent circadian rhythms. Individuals should prioritize sleep as essential health behavior, not indulgent weakness.
+---
 
-The passage primarily aims to
+**Question 8**
 
-A) provide comprehensive documentation of sleep cycle stages and their characteristics
-B) contend that societal normalization of sleep deprivation overlooks significant cognitive and health risks
-C) direct personal criticism toward corporate leadership figures
-D) elucidate the neurological mechanisms underlying dream formation
+During sleep, the brain consolidates memories, transferring information from temporary to long-term storage. This process explains why cramming for exams yields worse retention than studying followed by adequate sleep—the material never transitions to permanent memory. Sleep-deprived students often report feeling they studied effectively, then discover during exams that information simply didn't stick. The subjective experience of learning can be misleading without the consolidation sleep provides.
 
-Memory consolidation during sleep means that
+Memory consolidation during sleep primarily involves
 
-A) individuals achieve perfect recall of dream content upon awakening and complete memory accuracy
-B) neural processes facilitate the transition of information from temporary to permanent memory systems
-C) sleep mechanisms generate inaccurate or fabricated memory traces that distort actual experiences
-D) memory function degrades progressively throughout sleep periods and becomes less reliable
+A) achieving perfect recall of dream content upon awakening
+B) transferring information from temporary to permanent memory systems
+C) generating inaccurate memory traces that distort actual experiences
+D) progressive degradation of memory function throughout sleep periods
 
-The comparison to legal intoxication suggests that
+---
 
-A) alcohol consumption and sleep loss produce identical neurological effects and brain responses
-B) impaired driving represents a less significant public health risk than sleep deficiency and its consequences
-C) social responses to equivalent cognitive impairment demonstrate contradictory standards and inconsistent policies
-D) legal intoxication thresholds lack scientific validity or relevance and should be substantially revised
+**Question 9**
+
+Research comparing sleep-deprived individuals to those with 0.08% blood alcohol—the legal intoxication limit—found similar impairment in reaction time and judgment. Yet our society condemns drunk driving while celebrating executives who make multimillion-dollar decisions on four hours of sleep. The inconsistency reveals cultural blind spots: we recognize alcohol-induced impairment as dangerous but romanticize sleep-deprivation-induced impairment as evidence of dedication and ambition.
+
+The comparison to legal intoxication serves primarily to
+
+A) suggest that alcohol consumption and sleep loss produce identical neurological effects
+B) highlight a societal inconsistency in how different forms of impairment are perceived
+C) advocate for stricter drunk driving laws with more severe penalties
+D) argue that sleep-deprived individuals should face criminal prosecution
+---
+
+**Question 10**
+
+REM sleep, when vivid dreaming occurs, facilitates novel connections between disparate concepts. Studies show sleep-deprived individuals perform worse on tasks requiring creative problem-solving, instead relying on conventional approaches. The brain during REM appears to test unusual associations—linking ideas that waking consciousness would dismiss as irrelevant. Artists and scientists historically report breakthrough insights emerging from dream states, suggesting REM's creative function extends beyond laboratory settings.
 
 According to the passage, REM sleep facilitates creativity by
 
-A) selectively removing irrelevant or redundant memory traces that interfere with creative thinking
-B) generating associative links between previously unconnected conceptual domains
-C) producing permanent enhancements in general cognitive ability that persist indefinitely
-D) suppressing disturbing or anxiety-provoking dream content that might inhibit creative processes
+A) eliminating irrelevant memories that might interfere with focused thinking
+B) generating connections between previously unconnected ideas and concepts
+C) permanently enhancing general cognitive abilities in measurable ways
+D) suppressing anxiety-related thoughts that inhibit creative expression
+
+---
+
+**Question 11**
+
+Some argue individual variation matters more than sleep duration. Indeed, approximately 1–3% of the population genuinely functions well on limited sleep—a genetic trait researchers have begun to identify. However, most people who claim to "not need much sleep" show measurable impairment on objective tests despite believing themselves alert. The gap between subjective confidence and objective performance is striking: participants often insist they're functioning normally while test scores reveal significant deficits.
 
 The passage indicates that most people who claim not to need much sleep
 
-A) accurately evaluate their own sleep requirements and understand their biological needs
-B) exemplify substantial genetic diversity in sleep needs across populations and individual variation
-C) exhibit objective cognitive deficits despite subjective perceptions of alertness and capability
-D) demonstrate superior health outcomes compared to population averages and exceptional resilience
+A) accurately understand their biological sleep requirements through self-awareness
+B) represent genetic variants with genuinely reduced sleep needs
+C) show objective cognitive deficits despite subjective feelings of alertness
+D) demonstrate exceptional health outcomes compared to average populations
 
-As used in context, "presenteeism" most nearly means
+---
 
-A) giving presentations at work
-B) being physically present regardless of productivity
-C) public speaking skills
-D) workplace attendance policies
+**Question 12**
+
+The solution requires cultural shift. Workplaces should stop rewarding presenteeism—valuing physical presence over actual productivity—and impossible schedules. Schools should start later, aligning with adolescent circadian rhythms that naturally delay sleep onset. Individuals should prioritize sleep as essential health behavior, not indulgent weakness. The culture of sleeplessness serves no one except employers extracting unsustainable hours from workers.
+
+As used in the passage, "presenteeism" most nearly means
+
+A) the skill of giving effective presentations at work
+B) being physically present at work regardless of actual productivity
+C) policies requiring consistent workplace attendance
+D) the practice of public speaking in professional settings
+
+---
+
+**Question 13**
+
+Stars at galactic edges orbit far faster than visible matter's gravity should allow. They should fly off into space—or galaxies should rotate like solar systems, with inner objects moving faster than outer ones. Instead, galaxies rotate like solid disks, suggesting invisible mass—"dark matter"—comprising approximately 85% of the universe's matter. Dark matter doesn't emit, absorb, or reflect light; it interacts with ordinary matter only through gravity, making direct detection extraordinarily challenging.
+
+The observation that galaxies rotate "like solid disks" is significant because it
+
+A) demonstrates that galaxies are actually solid physical objects
+B) suggests matter distribution extends invisibly beyond what telescopes can observe
+C) proves galaxies don't actually rotate at all
+D) indicates galaxies were artificially constructed by advanced beings
+
+---
+
+**Question 14**
+
+Gravitational lensing—massive objects bending light from distant sources—provides additional dark matter evidence. When astronomers map where mass must be located to produce observed lensing effects, they consistently find more mass than visible matter can account for. The Bullet Cluster, where two galaxy clusters collided, proved particularly revealing: gravitational lensing showed mass concentrated separately from the visible hot gas, demonstrating that most mass is invisible.
+
+Gravitational lensing provides evidence for dark matter by
+
+A) directly illuminating dark matter particles so telescopes can photograph them
+B) revealing more mass than visible matter alone can account for
+C) creating new dark matter through gravitational compression effects
+D) demonstrating that gravity doesn't actually exist at cosmological scales
+
+---
+
+**Question 15**
+
+Initial hypotheses suggested ordinary matter—dim stars, rogue planets, black holes—could account for missing mass. However, calculations based on Big Bang nucleosynthesis proved otherwise. The early universe's physics constrained how much ordinary matter could form; observations of light element abundances confirm these limits. Ordinary matter comprises only about 5% of the universe—insufficient to explain dark matter's gravitational effects. Whatever dark matter is, it isn't ordinary atoms.
+
+Big Bang nucleosynthesis calculations are relevant to dark matter research because they
+
+A) describe how dark matter was originally created in the early universe
+B) establish that ordinary matter cannot account for dark matter's observed mass
+C) prove dark matter has the same composition as ordinary atomic matter
+D) demonstrate fundamental errors in Einstein's gravitational theories
+
+---
+
+**Question 16**
+
+Leading dark matter candidates are WIMPs—Weakly Interacting Massive Particles. These hypothetical particles would pass through ordinary matter almost undetected, interacting only rarely. Despite decades of increasingly sensitive experiments in underground laboratories shielded from cosmic rays, WIMPs remain undetected. Alternative proposals include axions—extremely light particles—or modifications to gravity itself rather than new particles. Each null result constrains possibilities, narrowing the search.
+
+WIMPs are challenging to detect primarily because they
+
+A) probably do not actually exist in any form
+B) interact extremely weakly with ordinary matter and pass through detectors
+C) move too rapidly for current instruments to track
+D) are physically too large for detector apertures to capture
+
+---
+
+**Question 17**
+
+Dark matter represents what one physicist called "humbling ignorance." We've identified 85% of the universe's matter through gravitational effects—it bends light, holds galaxies together, shaped cosmic structure—yet remain fundamentally ignorant of its nature. The universe's primary material constituent remains mysterious. Science often proceeds by recognizing what we don't know, and dark matter represents our most significant acknowledged ignorance about reality's basic composition.
+
+The phrase "humbling ignorance" suggests that dark matter research
+
+A) demonstrates scientific incompetence requiring new approaches
+B) represents honest acknowledgment of knowledge limits about a fundamental cosmic component
+C) should be abandoned in favor of more tractable problems
+D) proves that scientific ignorance is ultimately preferable to incomplete knowledge
+
+---
+
+**Question 18**
+
+Some scientists question whether dark matter exists at all. Modified gravity theories—MOND and its successors—propose that gravity behaves differently at galactic scales than Einstein predicted, eliminating the need for invisible matter. These theories can explain galaxy rotation curves. However, they struggle to explain the full range of observations—gravitational lensing in galaxy clusters, cosmic microwave background patterns, structure formation simulations—that dark matter explains elegantly and consistently.
+
+The passage suggests that modified gravity theories face what primary challenge?
+
+A) They have been definitively proven incorrect by recent experiments
+B) They cannot explain the full range of observations that dark matter explains consistently
+C) They require more dark matter than standard models predict
+D) They are too mathematically simple to describe complex gravitational phenomena
 
 
-Questions 13–18: Natural Science – Dark Matter
-The Universe's Missing Mass
+---
 
-Observations of galaxy rotation revealed a cosmic mystery. Stars at galactic edges orbit far faster than visible matter's gravity should allow. They should either fly off into space or galaxies should rotate differently—with inner stars moving faster than outer ones, like planets orbiting the sun.
+**Question 19**
 
-Instead, galaxies rotate like solid disks. This suggests invisible mass—"dark matter"—comprising approximately 85% of the universe's matter. Dark matter doesn't emit, absorb, or reflect light, interacting only through gravity.
-
-Evidence extends beyond rotation curves. Gravitational lensing—massive objects bending light from distant sources—reveals more mass than visible matter accounts for. The cosmic microwave background radiation's pattern requires dark matter to explain structure formation. Computer simulations of galaxy formation only match observations when including dark matter.
-
-Yet dark matter's composition remains unknown. Initial hypotheses suggested ordinary matter—dim stars, planets, black holes—could account for missing mass. However, calculations based on Big Bang nucleosynthesis prove ordinary matter cannot comprise the bulk of dark matter.
-
-Leading candidates are WIMPs (Weakly Interacting Massive Particles)—hypothetical particles passing through ordinary matter almost undetected. Despite decades of experiments, WIMPs remain undetected directly. Alternative proposals include axions—extremely light particles—or modifications to gravity itself rather than new particles.
-
-The search continues through multiple approaches. Underground detectors attempt direct WIMP detection. Particle accelerators seek to create dark matter particles. Telescopes map dark matter distribution through gravitational effects. Each null result constrains possibilities, narrowing the search space.
-
-Some question whether dark matter exists at all. Modified gravity theories propose that gravity behaves differently at galactic scales than Einstein predicted. However, these theories struggle to explain all observations that dark matter explains elegantly.
-
-Dark matter represents humbling ignorance. We've identified 85% of matter's existence through gravitational effects yet remain fundamentally ignorant of its nature. The universe's primary constituent remains mysterious.
-
-The passage primarily serves to
-
-A) explain dark matter evidence, proposed explanations, and ongoing uncertainty
-B) prove dark matter definitely exists
-C) describe how galaxies rotate in detail
-D) criticize scientists for not solving the problem
-
-Galaxy rotation "like solid disks" is significant because it
-
-A) proves galaxies are actually solid objects
-B) suggests invisible mass distribution differs from visible matter
-C) shows galaxies don't actually rotate
-D) indicates galaxies are artificial constructs
-
-Gravitational lensing provides dark matter evidence by
-
-A) directly showing dark matter particles
-B) revealing more mass than visible matter accounts for through light bending
-C) creating dark matter in laboratories
-D) proving gravity doesn't exist
-
-Big Bang nucleosynthesis calculations are relevant because they
-
-A) created dark matter originally
-B) prove ordinary matter cannot account for dark matter's mass
-C) show dark matter is identical to ordinary matter
-D) disprove Einstein's theories of gravity
-
-WIMPs are challenging to detect because they
-
-A) don't exist
-B) interact weakly with ordinary matter
-C) move too quickly to observe
-D) are too large to measure
-
-The phrase "humbling ignorance" suggests
-
-A) scientists are incompetent
-B) recognizing the limits of current knowledge about a major cosmic component
-C) dark matter research should be abandoned
-D) ignorance is preferable to knowledge
-
-
-Questions 19–24: Humanities – Street Art
-From Vandalism to Validation
-
-Street art occupies an ambiguous cultural space—simultaneously celebrated in galleries and prosecuted as vandalism. This contradiction reveals tensions about art, public space, and who controls urban environments.
-
-Graffiti emerged in 1970s New York as territorial marking and political expression by marginalized communities. Early graffiti writers "tagged" subway cars and buildings, creating elaborate lettering styles that became increasingly sophisticated. Authorities viewed this as vandalism; participants viewed it as reclaiming public space from which they'd been excluded.
-
-The art world's embrace of street art began in the 1980s when artists like Jean-Michel Basquiat transitioned from street tagging to gallery exhibitions. This mainstream acceptance created controversy within graffiti communities. Some viewed gallery representation as selling out—abandoning street art's oppositional stance for commercial success. Others saw it as deserved recognition for genuine artistic skill.
-
-Banksy epitomizes these tensions. His politically charged stenciled images appear illegally on public walls, critiquing capitalism, war, and surveillance. Yet his works sell for millions at auction. When a Banksy piece appeared on a building, property owners faced dilemmas: remove "vandalism" or preserve valuable art? Some cut entire walls from buildings to sell Banksy pieces—commercializing art created in opposition to commercialization.
-
-Street art raises fundamental questions about public space. In democratic societies, who decides what appears in shared environments? Property owners argue they control their walls. Street artists argue that omnipresent corporate advertising occupies public consciousness without consent, making unsanctioned art a form of resistance. If Coca-Cola can paint our visual landscape with logos, why can't artists paint meaningful images?
-
-Legal and cultural status varies internationally. In some cities, designated walls welcome street art. Others prosecute all unauthorized marking. This patchwork reflects unresolved debates about art's definition, public space ownership, and whether breaking laws for artistic expression merits tolerance.
-
-The irony persists: museums exhibit photographs of street art in exhibitions about "outsider art," while cities pressure-wash the originals. Society simultaneously celebrates street art's authenticity and criminalizes the authentic act of creating it illegally.
+Street art occupies an ambiguous cultural space—simultaneously celebrated in galleries and prosecuted as vandalism. Museums exhibit photographs of street art in "outsider art" exhibitions while cities pressure-wash the originals. Society celebrates street art's authenticity while criminalizing the authentic act of creating it illegally. This contradiction reveals unresolved tensions about what constitutes art, who controls public space, and whether breaking laws for artistic expression merits tolerance.
 
 The passage is primarily concerned with
 
-A) teaching graffiti techniques
-B) examining contradictions in how society values street art
-C) arguing all graffiti should be legal
-D) describing Banksy's biography
+A) providing technical instruction in graffiti techniques and methods
+B) examining contradictions in how society simultaneously values and criminalizes street art
+C) arguing that all forms of graffiti should be immediately legalized
+D) providing a comprehensive biography of famous street artist Banksy
 
-Early graffiti writers viewed tagging as
+---
 
-A) vandalism deserving punishment
-B) meaningless destruction
-C) reclaiming public space from which they'd been excluded
-D) preparation for gallery careers
+**Question 20**
+
+Graffiti emerged in 1970s New York as territorial marking and political expression by marginalized communities. Early graffiti writers "tagged" subway cars and buildings, creating elaborate lettering styles that became increasingly sophisticated. Authorities viewed this as vandalism requiring prosecution; participants viewed it as reclaiming public space from which they'd been systematically excluded. The same act carried opposite meanings depending on perspective—destruction versus expression, crime versus art.
+
+Early graffiti writers viewed tagging primarily as
+
+A) vandalism deserving legal punishment and community condemnation
+B) meaningless destruction with no artistic or political purpose
+C) reclaiming public space from which they had been excluded
+D) preparation for eventual transition to gallery-based careers
+
+---
+
+**Question 21**
+
+The art world's embrace of street art began in the 1980s when artists like Jean-Michel Basquiat transitioned from street tagging to gallery exhibitions. This mainstream acceptance created controversy within graffiti communities. Some viewed gallery representation as selling out—abandoning street art's oppositional stance for commercial success and respectability. Others saw it as deserved recognition for genuine artistic skill that happened to develop in unconventional contexts.
 
 The controversy over gallery representation suggests that
 
-A) all street artists want gallery shows
-B) commercial success can conflict with street art's oppositional origins
-C) galleries refuse to show graffiti
-D) street art has no artistic merit
+A) all street artists secretly aspire to gallery exhibitions
+B) commercial success can conflict with street art's origins as oppositional expression
+C) galleries have consistently refused to exhibit graffiti-inspired work
+D) street art lacks the artistic merit required for institutional recognition
+
+---
+
+**Question 22**
+
+When a Banksy piece appeared on a building, property owners faced unexpected dilemmas: remove "vandalism" as legally required, or preserve what might be worth millions? Some owners cut entire walls from buildings to sell Banksy pieces at auction—commercializing art that was created specifically in opposition to commercialization. The situation perfectly encapsulated street art's contradictions: illegal creation producing legally protected property, anti-commercial expression generating enormous commercial value.
 
 Property owners' dilemmas regarding Banksy pieces reveal
 
-A) confusion about insurance policies
+A) confusion about standard insurance policies for vandalism damage
+B) tension between legal status as vandalism and market value as collectible art
+C) Banksy's personal intervention in real estate transactions
+D) unanimous property owner enthusiasm for street art preservation
+
+---
+
+**Question 23**
+
+Street artists argue that omnipresent corporate advertising occupies public consciousness without consent, making unsanctioned art a form of legitimate resistance. If Coca-Cola can paint our visual landscape with logos—on billboards, buses, buildings—why shouldn't artists paint meaningful images? Property owners counter that they control their walls and should determine what appears on them. The debate centers on who truly "owns" shared visual environments in democratic societies.
+
+The street artist argument described in the passage suggests that
+
+A) corporate advertising has no meaningful presence in public spaces
+B) unauthorized art can be justified as resistance to commercial domination of visual space
+C) property owners unanimously support street art on their buildings
+D) all forms of outdoor advertising should be immediately banned
+
+---
+
+**Question 24**
+
+Legal and cultural status of street art varies dramatically across jurisdictions. Some cities designate specific walls welcoming street art; others prosecute all unauthorized marking as serious vandalism. This patchwork reflects genuinely unresolved debates about art's definition, public space ownership, and whether creative intent mitigates legal violations. The same image might be celebrated in Melbourne's famous laneways while earning criminal charges in Singapore.
+
+The international variation in street art's legal status reflects
+
+A) uniform international agreement on cultural property definitions
+B) unresolved debates about art, public space, and the relevance of creative intent
+C) differences in climate affecting paint durability on exterior surfaces
+D) variations in urban architecture requiring different regulatory approaches
 B) the tension between vandalism prosecution and valuable art preservation
 C) unanimous agreement that street art is vandalism
 D) lack of appreciation for art
