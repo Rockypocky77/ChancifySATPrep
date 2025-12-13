@@ -934,12 +934,12 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-A company's production cost C (in thousands) is modeled by C = 8(x + 1), where x is units produced. The company's revenue R is modeled by R = 5(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 26, what is the value of x?
+A company's production cost C (in thousands) is C = 8(x + 1) and revenue R = 5(x - 2) + k. If C = R when k = 18, and profit margin m = (R - C)/x when x > 0, what is m when x = 10?
 
-A) 4
-B) 5
-C) 6
-D) 48
+A) -1
+B) -3/5
+C) -2/5
+D) -1/5
 
 
 A line passes through the points ((-2, 7)) and ((4, -5)). What is the slope of the line?
@@ -957,19 +957,12 @@ C) 2
 D) 3
 
 
-The inequality (5x - 4 \le 26) is equivalent to
+The expression 5x - 4 must be at least 6 but at most 26. Also, x ≤ 8. How many integer values of x satisfy all requirements?
 
-
-A) (x \le 4)
-
-
-B) (x \le 5)
-
-
-C) (x \le 6)
-
-
-D) (x \ge 6)
+A) 4
+B) 5
+C) 6
+D) 7
 
 
 A phone plan charges a monthly fee of $25 plus $0.15 per text message. If a customer's bill for one month is $49.75, how many text messages did the customer send?

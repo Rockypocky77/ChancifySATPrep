@@ -940,12 +940,12 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-A company's production cost C (in thousands) is modeled by C = 7(x + 2), where x is units produced. The company's revenue R is modeled by R = 4(x - 3) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 38, what is the value of x?
+A company's production cost C (in thousands) is C = 7(x + 2) and revenue R = 4(x - 3) + k. If C = R when k = 26, and profit margin m = (R - C)/x when x > 0, what is m when x = 10?
 
-A) 4
-B) 5
-C) 6
-D) 42
+A) -3/2
+B) -5/4
+C) -1
+D) -3/4
 
 
 A line passes through the points ((-3, 5)) and ((1, -7)). What is the slope of the line?
@@ -963,19 +963,12 @@ C) (-\dfrac{1}{3})
 D) (3)
 
 
-The inequality (4x + 9 \le 29) is equivalent to
+The expression 4x + 9 must be at least 13 but at most 29. Also, x ≤ 7. How many integer values of x satisfy all requirements?
 
-
-A) (x \le 4)
-
-
-B) (x \le 5)
-
-
-C) (x \ge 4)
-
-
-D) (x \ge 5)
+A) 4
+B) 5
+C) 6
+D) 7
 
 
 A streaming service charges a monthly fee of $12 plus $1.50 per movie rented. If a customer's total bill for one month is $39, how many movies did the customer rent?

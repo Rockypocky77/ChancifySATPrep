@@ -961,29 +961,20 @@ D) submitting a final recommendation occurred
 SECTION 2: MATH (44 Questions)
 
 
-A company's production cost C (in thousands) is modeled by C = 6(x + 4), where x is units produced. The company's revenue R is modeled by R = 3(x - 8) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 0, what is the value of x?
+A company's production cost C (in thousands) is C = 6(x + 4) and revenue R = 3(x - 8) + k. If C = R when k = 48, and profit margin m = (R - C)/x when x > 0, what is m when x = 12?
 
-A) (-10)
-B) (-12)
-C) (-14)
-
-
-D) (-16)
+A) -1
+B) -3/4
+C) -1/2
+D) -1/4
 
 
-If (5x - 11 \ge 24), what is the smallest integer value of (x)?
+The expression 5x - 11 must be at least 24 but at most 54. Also, x ≤ 15. How many integer values of x satisfy all requirements?
 
-
-A) 5
-
-
-B) 6
-
-
-C) 7
-
-
-D) 8
+A) 6
+B) 7
+C) 8
+D) 9
 
 
 A line passes through points ((0, -6)) and ((4, 10)). What is the slope?

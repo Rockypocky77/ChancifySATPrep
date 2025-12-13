@@ -952,14 +952,12 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-A company's production cost C (in thousands) is modeled by C = 5(x + 3), where x is units produced. The company's revenue R is modeled by R = 3(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 27, what is the value of x?
+A company's production cost C (in thousands) is C = 5(x + 3) and revenue R = 3(x - 2) + k. If C = R when k = 21, and profit margin m = (R - C)/x when x > 0, what is m when x = 8?
 
-A) 5
-B) 6
-C) 7
-
-
-D) 17
+A) -1
+B) -3/4
+C) -1/2
+D) -1/4
 
 
 A line passes through the points ((2, 3)) and ((6, 11)). What is the slope of the line?
@@ -977,19 +975,12 @@ C) (\dfrac{1}{2})
 D) (\dfrac{3}{2})
 
 
-The inequality (2x + 7 < 19) is equivalent to
+The expression 2x + 7 must be at least 11 but less than 25. Also, x ≤ 12. How many integer values of x satisfy all requirements?
 
-
-A) (x < 6)
-
-
-B) (x < 12)
-
-
-C) (x > 6)
-
-
-D) (x > 12)
+A) 6
+B) 7
+C) 8
+D) 9
 
 
 A taxi service charges a flat fee of $3 plus $2.20 per mile. If a passenger's total bill is $25.00, how many miles did the passenger travel?
