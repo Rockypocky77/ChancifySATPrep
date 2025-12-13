@@ -501,61 +501,61 @@ B) -4
 C) 1/4
 D) 16
 
-58. If 12x + 5 = 7x + 40, what is x?
+58. If 12x + 5 = 7x + 40, and this x satisfies x² - kx + 7 = 0, what is k?
 
-A) 7
-B) -7
-C) 35/5
-D) 21
+A) 8
+B) 50/7
+C) 56/7
+D) 64/7
 
-59. A system of equations is given: 2x + 3y = 19 and 4x - y = 17. If (a, b) is the solution to this system, and a third equation cx + dy = 34 also passes through (a, b) where c = a and d = b, what is the value of c + d?
+59. For the system 2x + 3y = 19 and 4x - y = 17, what is (x² - y²)/(x - y)?
 
-A) 5
-B) 8
-C) 13
-D) 17
-
-60. If 9x - 4y = 50 and x = 6, and y also satisfies the equation 3y - k = 3 where k is a constant, what is the value of k?
-
-A) 0
-B) 3
-C) 6
+A) 6
+B) 7
+C) 8
 D) 9
 
-61. Two linear functions are defined: f(x) = 2x + 1 and g(x) = -3x + 21. If these functions intersect at point P with coordinates (p, q), and a third function h(x) = ax + b also passes through P where a = p and b = q, what is the value of h(0)?
+60. For the system 9x + ky = 50 and 2x - 3y = 6, the solution satisfies x = 6. What is k, and what is xy/k?
 
-A) 4
-B) 9
-C) 13
-D) 25
+A) k = -4, xy/k = -3
+B) k = -4, xy/k = 3
+C) k = 4, xy/k = -3
+D) k = 4, xy/k = 3
 
-62. If 9a + 4b = 80 and a + b = 10, what is the value of b?
+61. Lines f(x) = (5/2)x - 2 and g(x) = -(3/2)x + 6 intersect at P. A function h(x) has slope = average of f and g's slopes and passes through P. What is h(0)?
 
 A) 2
-B) 8
-C) -2
-D) 10
+B) 3
+C) 4
+D) 5
 
-63. What are the solutions to x² + 9x - 52 = 0?
+62. If 9a + 4b = 80 and a + b = 10, what is (a² - b²)/(a - b)?
 
-A) x = -13 or x = 4
-B) x = 13 or x = -4
-C) x = -4 or x = 12
-D) x = 4 or x = 12
+A) 8
+B) 10
+C) 12
+D) 14
 
-64. If (x - 10)² = 36, what are the possible values of x?
+63. A ball's height is h(t) = -5t² + 35t + 5, where h is in meters and t is in seconds. For how many seconds is the ball at or above 50 meters?
 
-A) 4 and 16
-B) -4 and 16
-C) 4 and -16
-D) -4 and -16
+A) 3 seconds
+B) 3.5 seconds
+C) 4 seconds
+D) 4.5 seconds
 
-65. What is the vertex of the parabola y = (x + 2)² - 5?
+64. If (x - 10)² = 81/4 and x must also satisfy 3x - 1 < 35, what is the sum of all valid values of x?
 
-A) (-2, -5)
-B) (2, -5)
-C) (-2, 5)
-D) (2, 5)
+A) 29/2
+B) 20
+C) 41/2
+D) Only one: 29/2
+
+65. The parabola y = (x + 2)² - 5 has vertex V. A line with slope 3/2 passes through V. What is the x-intercept?
+
+A) 4/3
+B) 5/3
+C) 2
+D) 7/3
 
 66. If x² - 15x + 44 = 0, what is the sum of the solutions?
 
