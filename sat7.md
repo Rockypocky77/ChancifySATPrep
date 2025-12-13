@@ -2,47 +2,57 @@ SAT PRACTICE TEST 7
 
 SECTION 1: READING & WRITING (54 Questions)
 
-Questions 1–6: Literature Passage
+---
 
-Leaving Home
+**Question 1**
 
-The bus ticket felt heavier than paper should. One way. Fifty-three dollars to a city I'd only seen in photographs—buildings stacked like children's blocks, streets busy with strangers.
+The bus ticket felt heavier than paper should. One way. Fifty-three dollars to a city I'd only seen in photographs—buildings stacked like children's blocks, streets busy with strangers. Fear lived in my throat like something swallowed wrong. But staying felt worse—like watching a movie you've seen fifty times, knowing every scene, every disappointing ending. The bus pulled away. My mother became smaller, then vanished. This is what growing up means, I thought: choosing your own uncertainty over inherited certainty.
 
-My mother pressed a folded twenty into my palm at the station. "For emergencies," she said, though we both knew twenty dollars couldn't fix the kind of emergencies I'd face.
+The passage primarily explores the narrator's experience of
 
-The decision wasn't dramatic. No slammed doors or shouted ultimatums. Just slow recognition that I'd outgrown my town of 1,200 souls, where everyone knew my grandfather's mistakes and expected me to repeat them.
+A) managing practical challenges of long-distance travel and logistical planning
+B) navigating the tension between familiar security and self-determination
+C) comparing economic conditions between urban and rural communities
+D) confronting financial obstacles that threaten family stability
 
-Fear lived in my throat like something swallowed wrong. But staying felt worse—like watching a movie you've seen fifty times, knowing every scene, every disappointing ending.
+---
 
-The bus pulled away. My mother became smaller, then vanished. I pressed my forehead against cold glass and thought: This is what growing up means. Choosing your own uncertainty over inherited certainty.
+**Question 2**
 
-1. The passage primarily explores the narrator's experience of
+My mother pressed a folded twenty into my palm at the station. "For emergencies," she said, though we both knew twenty dollars couldn't fix the kind of emergencies I'd face. The gesture wasn't practical—it was symbolic. She had nothing else to give but this small paper rectangle and her blessing, folded together. I took it knowing I'd never spend it, knowing I'd keep it in my wallet long after arriving as proof that someone believed in me enough to give what they couldn't afford.
 
-A) managing the practical challenges of cross-country travel and logistical difficulties
-B) navigating the tension between security and self-determination
-C) comparing the economic conditions of urban and rural communities and their differences
-D) confronting financial obstacles that threaten family stability and economic security
+The mother's gesture of giving twenty dollars primarily illustrates
 
-2. The mother's gesture of giving twenty dollars most directly serves to illustrate
+A) her confidence in the narrator's ability to thrive independently in a new city
+B) the family's substantial financial resources and economic stability
+C) emotional support expressed through limited material means
+D) a carefully calculated emergency fund for anticipated expenses
 
-A) her confidence in the narrator's ability to handle city life and urban challenges
-B) the family's considerable financial resources and economic prosperity
-C) her emotional support despite limited means
-D) a practical emergency fund for medical expenses and unexpected health costs
+---
 
-3. Based on the passage, the narrator's primary motivation for leaving can best be described as
+**Question 3**
 
-A) escaping parental demands for academic achievement and performance pressure
+The decision wasn't dramatic. No slammed doors or shouted ultimatums. Just slow recognition that I'd outgrown my town of 1,200 souls, where everyone knew my grandfather's mistakes and expected me to repeat them. The predictions were already written: whose path I'd follow, which corners I'd occupy, what ceiling my ambitions would eventually reach. Leaving wasn't rebellion—it was simply declining to audition for a role someone else had already cast me in.
+
+The narrator's primary motivation for leaving is best described as
+
+A) escaping parental pressure to achieve academic excellence
 B) seeking freedom from a community's predetermined expectations
-C) pursuing specific career opportunities in the city and professional advancement
-D) responding to an invitation from urban relatives and family connections
+C) pursuing specific career opportunities available only in cities
+D) responding to an invitation from relatives living in urban areas
 
-4. As used in context, the phrase "inherited certainty" most nearly means
+---
 
-A) financial assets passed down through generations and inherited wealth
-B) the predictable future the community assumed for the narrator
-C) legal ownership of family property and real estate holdings
-D) hereditary physical characteristics and genetic traits
+**Question 4**
+
+The bus pulled away. My mother became smaller, then vanished. I pressed my forehead against cold glass and thought: This is what growing up means. Choosing your own uncertainty over inherited certainty. The town had offered predictability—I knew exactly what my life would look like in ten years, in twenty, in fifty. The city offered nothing but questions. Somehow, the questions felt more honest than answers I'd never chosen.
+
+As used in the passage, "inherited certainty" most nearly means
+
+A) financial assets passed down through wills and estate documents
+B) the predictable future the community assumed the narrator would have
+C) legal ownership of family property and land
+D) genetic traits transmitted from parents to children
 
 5. The tone of the final paragraph is best characterized as
 
