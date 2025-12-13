@@ -481,368 +481,358 @@ SECTION 2: MATH (Questions 55–98)
 
 Algebra / Linear / Systems / Functions
 
-A company's revenue R (in thousands of dollars) is modeled by R = 7(x + 5), where x represents the number of years since 2020. The company's expenses E are modeled by E = 4(x + 2) + k, where k is a fixed overhead cost. If the company breaks even when R = E and k = 27, what is the value of x?
+A company's revenue R (in thousands of dollars) is modeled by R = 7(x + 5), where x represents the number of years since 2020. The company's expenses E are modeled by E = 4(x + 2) + k, where k is a fixed overhead cost. If the company breaks even when R = E and k = 27, and this break-even year is used to calculate the company's projected profit margin m = (R - 200)/x, what is the value of m?
 
-A) -9
-B) -6
-C) -3
-D) 0
+A) -35/3
+B) 7/3
+C) 35/3
+D) 21
 
-In a chemistry experiment, the concentration of a solution must be at least 17 units. The concentration is given by 5x - 8, where x is the amount of solute added in grams. However, due to experimental constraints, x must also satisfy x ≤ 12. What is the smallest integer value of x that satisfies both requirements?
+In a chemistry experiment, the concentration of a solution must be at least 17 units but no more than 47 units. The concentration is given by 5x - 8, where x is the amount of solute added in grams. Additionally, due to experimental constraints, x must satisfy x ≤ 12. How many integer values of x satisfy all three requirements?
 
 A) 4
 B) 5
 C) 6
-D) 12
+D) 7
 
-A linear function f(x) = mx + b passes through the points (0, -3) and (4, 9). Another linear function g(x) = 2x intersects f(x) at exactly one point. If the x-coordinate of the intersection point is 3, what is the value of m?
+A linear function f(x) = mx + b passes through the points (0, -7/2) and (4, 17/2). Another linear function g(x) = (3/2)x + 1 intersects f(x) at exactly one point P. What is the y-coordinate of point P?
 
-A) -3
-B) 3
-C) 5/2
-D) 7/2
+A) 11/2
+B) 7
+C) 17/4
+D) 23/4
 
-The sum of 6 times a number and 11 equals the sum of 3 times that number and 26. If this number is also equal to one-third of another number y, and y is also equal to 5 more than twice a third number z, what is the value of z?
+The sum of 6 times a number n and 11 equals the sum of 3 times n and 26. If n is also equal to one-third of another number y, and the expression (2y - 5)/4 equals a third number z, what is the value of z + n/2?
+
+A) 43/4
+B) 47/4
+C) 51/4
+D) 55/4
+
+A system of equations is given: 5x + 4y = 43 and 3x - 2y = 5. If (a, b) is the solution to this system, what is the value of the expression (a² - b²)/(a - b)?
+
+A) 17/2
+B) 9
+C) 19/2
+D) 10
+
+For the system 4x + ky = 35 and 2x - 3y = -4, the solution satisfies x = 5. What is the value of k, and what is the product xy?
+
+A) k = 3, xy = 25
+B) k = 5/2, xy = 30
+C) k = 3, xy = 35/3
+D) k = 7/2, xy = 70/3
+
+Two linear functions are defined: f(x) = (7/2)x - 5/2 and g(x) = -(3/2)x + 15/2. These functions intersect at point P. A third function h(x) passes through P and has slope equal to the average of the slopes of f and g. What is h(1)?
 
 A) 2
-B) 5
-C) 10
-D) 15
+B) 3
+C) 7/2
+D) 4
 
-A system of equations is given: 5x + 4y = 40 and 3x - y = 7. If (a, b) is the solution to this system, and a third equation cx + dy = 41 also passes through (a, b) where c = a and d = b, what is the value of c + d?
+If 6a + 3b = 45 and a + b = 10, what is the value of (2a - b)/(a + 2b)?
 
-A) 4
-B) 9
-C) 13
-D) 17
-
-If 4x + 3y = 35 and x = 5, and y also satisfies the equation 2y - k = 5 where k is a constant, what is the value of k?
-
-A) 5
-B) 10
-C) 15
-D) 20
-
-Two linear functions are defined: f(x) = 4x - 1 and g(x) = -x + 14. If these functions intersect at point P with coordinates (p, q), and a third function h(x) = ax + b also passes through P where a = p and b = q, what is the value of h(0)?
-
-A) 3
-B) 11
-C) 13
-D) 17
-
-If 6a + 3b = 45 and a + b = 10, what is the value of b?
-
-A) 5
-B) 7
-C) -5
-D) 15
+A) 1/3
+B) 5/11
+C) 1/2
+D) 7/13
 
 
 Quadratics / Exponentials / Functions
 
-A quadratic equation models the height h (in meters) of a projectile: h = x² + 4x - 32, where x is time in seconds. At what times does the projectile reach ground level (h = 0)?
+A ball is launched so that its height h (in meters) is modeled by h(t) = -5t² + 20t + 3, where t is time in seconds. For how many seconds is the ball at or above 18 meters? (Round to the nearest tenth.)
 
-A) x = -8 or x = 4
-B) x = 8 or x = -4
-C) x = -4 or x = 8
-D) x = 4 or x = 8
+A) 1.4 seconds
+B) 2.0 seconds
+C) 2.6 seconds
+D) 3.2 seconds
 
-If (x - 7)² = 36 and x satisfies the additional constraint that |x - 5| < 10, what are the possible values of x?
+If (x - 7)² = 49/4 and x must also satisfy the inequality 2x + 3 < 15, what is the sum of all possible values of x?
 
-A) 1 and 13
-B) 1 only
-C) 13 only
-D) -1 and 19
+A) 7/2
+B) 21/2
+C) 14
+D) 35/4
 
-A quadratic function is given in vertex form: y = (x + 3)² - 5. What are the coordinates of the vertex of this parabola?
+A quadratic function y = (x + 3)² - 25/4 has vertex V. If a line passes through V with slope 2/3, what is the y-intercept of this line?
 
-A) (3, -5)
-B) (-3, -5)
-C) (3, 5)
-D) (-3, 5)
+A) -1/4
+B) 3/4
+C) -3/4
+D) 5/4
 
-If x² - 9x + 20 = 0, what is the sum of the solutions?
+If x² - 9x + 20 = 0, and r and s are the two solutions with r < s, what is the value of (s - r)/(rs)?
 
-A) 9
-B) 20
-C) -9
-D) -20
+A) 1/20
+B) 1/4
+C) 1/10
+D) 9/20
 
-If 5^x = 125 and 2^(x+1) = 16, and x > 0, what is the value of x?
+A population P is modeled by P(t) = 200(1.05)^t, where t is years. In how many years will the population first exceed 500? (Use the approximation that (1.05)^19 ≈ 2.53.)
 
-A) 1
+A) 18
+B) 19
+C) 20
+D) 21
+
+Given 2^(x+1) = 32 and x also satisfies 3x + k = 7, find the value of k. Then, if y = k² - 2k, what is y?
+
+A) 3
+B) 5
+C) 8
+D) -3
+
+A bacterial culture quadruples in size every 2 hours. If the initial population is 50 bacteria, after how many hours will the population first exceed 10,000?
+
+A) 7
+B) 8
+C) 9
+D) 10
+
+If 6^x = 216 and this value of x satisfies 2x² - 7x + k = 0, what is the value of k?
+
+A) -3
 B) 3
-C) 1/3
-D) 5/3
+C) 6
+D) 9
 
-If 2^(x+3) = 64 and 3^(x-1) = 9, what is the value of x that satisfies both equations?
+
+PSDA – Percents, Ratios, Data, Probability
+
+An architect creates a blueprint where 1 inch on the drawing represents 12 feet in the actual building. A rectangular room is drawn as 5 inches by 7 inches on the blueprint. What is the actual area of the room in square feet, and what is the ratio of actual perimeter to blueprint perimeter?
+
+A) 5,040 sq ft; ratio 12:1
+B) 4,200 sq ft; ratio 12:1
+C) 5,040 sq ft; ratio 144:1
+D) 4,200 sq ft; ratio 7:1
+
+A smartphone originally priced at $720 goes on sale with a 25% discount. After the discount, a 5% tax is added. If the buyer also uses a $50 store credit after tax, and the remaining balance is split equally among 3 friends, how much does each friend pay?
+
+A) $167.33
+B) $172.33
+C) $177.67
+D) $189.00
+
+Forty-five percent of a number N is 108. If 30% of N is then increased by 20%, what is the resulting value?
+
+A) 86.4
+B) 96
+C) 129.6
+D) 172.8
+
+A retailer marks up an item's wholesale price by 80%. After marking up, the item sells at a 15% discount during a sale. If the final sale price is $114.75, what was the original wholesale price?
+
+A) $65
+B) $70
+C) $75
+D) $80
+
+A data set contains five test scores: 72, 78, 82, 86, and 92. If a sixth score x is added and the new mean becomes 84, what is x? Additionally, what is the new median?
+
+A) x = 94; median = 84
+B) x = 94; median = 82
+C) x = 96; median = 84
+D) x = 96; median = 85
+
+The ages of five people are 14, 17, 20, 20, and 24. A sixth person of age a joins, and the new median is 19. What is the range of possible values for a?
+
+A) 14 ≤ a ≤ 18
+B) a = 18 only
+C) 17 < a < 20
+D) 17 ≤ a ≤ 18
+
+In a data set, the mean is 12, the median is 11, and the mode is 10. If the data set contains exactly 5 values and one value is 18, which of the following could be the complete data set?
+
+A) {8, 10, 10, 14, 18}
+B) {10, 10, 11, 11, 18}
+C) {6, 10, 10, 16, 18}
+D) {10, 10, 11, 12, 18}
+
+A bag contains 5 red, 4 blue, and 3 green marbles. Two marbles are drawn without replacement. What is the probability that the two marbles are different colors?
+
+A) 47/66
+B) 19/66
+C) 31/66
+D) 35/66
+
+
+Geometry / Right Triangles / Circles / Similarity
+
+A right triangle with legs 8 and 15 is inscribed in a circle so that the hypotenuse is a diameter. What is the area of the circle minus the area of the triangle?
+
+A) 289π/4 - 60
+B) 289π/4 - 120
+C) 289π - 60
+D) 289π - 120
+
+In a right triangle, the hypotenuse is 26 and one leg is 10. If this triangle is similar to another triangle with a hypotenuse of 39, what is the perimeter of the larger triangle?
+
+A) 84
+B) 90
+C) 96
+D) 102
+
+Two similar triangles have a side-length ratio of 2:5. If the smaller triangle's area is 24 square units, what is the area of the larger triangle?
+
+A) 60
+B) 96
+C) 120
+D) 150
+
+A triangle has side lengths 8, 15, and 17. If this is a right triangle, and a circle is inscribed in it (touching all three sides), what is the radius of the inscribed circle?
 
 A) 2
 B) 3
 C) 4
 D) 5
 
-A bacterial culture quadruples in size every 2 hours. If the initial population is 50 bacteria, and P(h) represents the population after h hours, which of the following correctly models P(h)?
+A circle has radius 14 inches. An arc of this circle subtends a central angle of 3π/7 radians. What is the length of this arc?
 
-A) P(h) = 50 · 4^h
-B) P(h) = 50 · 4^(h/2)
-C) P(h) = 200 · 4^h
-D) P(h) = 50 · 2^(h/4)
+A) 3π inches
+B) 6π inches
+C) 42π/7 inches
+D) 14π/3 inches
 
-If 6^x = 216, what is x?
+The area of a circle is 81π square feet. A sector of this circle has an area of 27π/2 square feet. What is the central angle of this sector in degrees?
 
-A) 2
-B) 3
-C) 36
-D) 210
+A) 30°
+B) 45°
+C) 60°
+D) 90°
 
+A circle has circumference 24π centimeters. A chord of length 24 cm is drawn in this circle. What is the distance from the center of the circle to the chord?
 
-PSDA – Percents, Ratios, Data, Probability
+A) 6 cm
+B) 6√3 cm
+C) 12 cm
+D) 12√3 cm
 
-An architect creates a blueprint where 1 inch on the drawing represents 12 feet in the actual building. If a rectangular room is drawn as 5 inches by 7 inches on the blueprint, what is the actual length (in feet) of the longer side of the room?
+An arc of a circle has length 12π, and the circle's area is 144π. What is the central angle of this arc in degrees?
 
-A) 7 feet
-B) 60 feet
-C) 84 feet
-D) 420 feet
-
-A smartphone originally priced at $720 goes on sale with a 25% discount. After the discount is applied, an additional 5% tax is added to the sale price. What is the final price, including tax?
-
-A) $540.00
-B) $567.00
-C) $576.00
-D) $756.00
-
-Forty-five percent of a number is 108. What is the number?
-
-A) 48.6
-B) 153
-C) 240
-D) 2.4
-
-A retailer marks up an item's wholesale price by 80%. If the wholesale price is $75, what is the retail price?
-
-A) $60
-B) $93.75
-C) $135
-D) $155
-
-A bar graph shows the number of students who earned each test score in a class of 5 students:
-
-one bar at 72
-one bar at 78
-one bar at 82
-one bar at 86
-one bar at 92
-
-What is the mean (average) score for the class?
-
-A) 78
-B) 82
-C) 86
-D) 410
-
-The ages of five people are 14, 17, 20, 20, and 24. What is the median age?
-
-A) 18.5
-B) 19
-C) 20
-D) 95
-
-In the data set 5, 8, 10, 10, 12, 15, what is the mode?
-
-A) 5
-B) 8
-C) 10
-D) 15
-
-A bag contains 9 red, 6 blue, and 5 green marbles. If two marbles are selected at random without replacement, what is the probability that both marbles are green?
-
-A) 1/4
-B) 1/19
-C) 1/16
-D) 5/20
-
-
-Geometry / Right Triangles / Circles / Similarity
-
-A right triangle has legs of lengths 5 and 12. If the triangle is inscribed in a circle such that the hypotenuse is a diameter of the circle, what is the area of the circle in terms of π?
-
-A) 13π
-B) 169π/4
-C) 169π
-D) 26π
-
-In a right triangle, the hypotenuse is 26 and one leg is 10. What is the length of the other leg?
-
-A) 16
-B) 24
-C) 576
-D) 36
-
-Two similar triangles have a side-length ratio of 2:5. If the smaller triangle's perimeter is 36, what is the perimeter of the larger triangle?
-
-A) 14.4
-B) 72
-C) 90
-D) 180
-
-A triangle has side lengths 8, 15, and 17. Is it a right triangle?
-
-A) Yes, because 8² + 15² = 17².
-B) No, because 8² + 15² ≠ 17².
-C) Cannot be determined from the given information.
-D) No, because 8 + 15 ≠ 17.
-
-A circle has radius 14 inches. What is its circumference?
-
-A) 7π inches
-B) 28π inches
-C) 196π inches
-D) 14π inches
-
-The area of a circle is 81π square feet. What is the radius?
-
-A) 9 feet
-B) 81 feet
-C) 40.5 feet
-D) 18 feet
-
-A circle has circumference 24π centimeters. What is its area?
-
-A) 12π cm²
-B) 144π cm²
-C) 576π cm²
-D) 24π cm²
-
-An arc of a circle with radius 15 has length 10π. What is the measure of the central angle, in radians?
-
-A) 2π/3
-B) 3π/2
-C) 150π
-D) 2/3
+A) 120°
+B) 150°
+C) 180°
+D) 210°
 
 
 Functions / Rational Expressions / Radicals / Trig
 
-If f(x) = 2x² - 7x + 3 and g(x) = x + 2, what is the value of f(g(3))?
+If f(x) = 2x² - 7x + 3 and g(x) = x + 2, what is the value of f(g(3)) - g(f(3))?
 
-A) 6
-B) 18
-C) 32
-D) 53
+A) -8
+B) 0
+C) 8
+D) 16
 
-If g(x) = 4x - 9, what is g(-2)?
+If g(x) = 4x - 9, for what value of a does g(a) = 2a + 3?
 
-A) -17
-B) -1
-C) 1
-D) 17
+A) 4
+B) 5
+C) 6
+D) 7
 
-What is the domain of f(x) = 1/(x + 4)?
+What is the domain of f(x) = √(x - 3)/(x² - 9)?
 
-A) All real numbers
-B) All real numbers except -4
-C) All real numbers except 4
-D) All real numbers with x > -4 only
+A) x > 3
+B) x ≥ 3
+C) x > 3 and x ≠ -3
+D) x ≥ 3 and x ≠ 3
 
-The function h(x) = x² - 10x + 24 represents the height (in meters) of a projectile above ground level, where x is time in seconds. At what times does the projectile reach ground level?
+The height of a ball is modeled by h(t) = -4t² + 16t + 5, where h is in meters and t is in seconds. For how many seconds is the ball at or above 17 meters?
 
-A) x = 4 and x = 6
-B) x = -4 and x = -6
-C) x = 4 and x = -6
-D) x = -4 and x = 6
+A) 1.5 seconds
+B) 2 seconds
+C) 2.5 seconds
+D) 3 seconds
 
-What is (5x + 15)/(x + 3) simplified (for x ≠ -3)?
+Simplify (x² - 16)/(x² - 5x + 4) and state all values of x for which the original expression is undefined.
 
-A) 5
-B) 5x
-C) x + 3
-D) Cannot be simplified
+A) (x + 4)/(x - 1); undefined at x = 1, 4
+B) (x - 4)/(x - 1); undefined at x = 1
+C) (x + 4)/(x - 1); undefined at x = 1
+D) (x + 4)/(x - 4); undefined at x = 4
 
-What is (x² - 25)/(x - 5) simplified (for x ≠ 5)?
+Solve: 2/(x - 3) + 1/(x + 1) = 1. Discard any extraneous solutions.
 
-A) x - 5
-B) x + 5
-C) x² - 5
-D) Cannot be simplified
+A) x = (5 + √17)/2
+B) x = (5 - √17)/2 only
+C) x = (5 + √17)/2 and x = (5 - √17)/2
+D) No solution
 
-If √(3x + 7) = 8, what is x?
+If √(3x + 7) = x - 1, what are all valid solutions for x?
 
-A) 1/3
-B) 19
-C) 57
-D) 71
+A) x = 3 only
+B) x = 6 only
+C) x = 3 and x = 6
+D) x = -2 only
 
-What is √(x² - 8x + 16) simplified?
+If √(x² - 8x + 16) = 2x - 7 and x > 0, what is x?
 
-A) x - 4
-B) |x - 4|
-C) x - 16
-D) Cannot be simplified
+A) 11/3
+B) 3
+C) 11/2
+D) No solution
 
-In a right triangle, cos θ = 8/17. What is sin θ?
+In a right triangle, tan θ = 7/24 for an acute angle θ. What is sin θ + cos θ?
 
-A) 9/17
-B) 15/17
-C) 8/15
-D) 15/8
+A) 31/25
+B) 31/24
+C) 25/31
+D) 1
 
-Convert 5π/6 radians to degrees.
+A circle has radius 10. An arc of this circle has length 8π. What is the central angle in degrees?
 
-A) 30°
-B) 150°
-C) 300°
-D) 900°/π
+A) 72°
+B) 108°
+C) 144°
+D) 180°
 
-In a right triangle, tan θ = 5/12. What is cos θ?
+In a right triangle with legs a and b and hypotenuse c, if sin θ = 9/41 for an acute angle θ, what is the value of cos²θ - sin²θ?
 
-A) 5/13
-B) 12/13
-C) 13/12
-D) 5/12
+A) 1519/1681
+B) 1600/1681
+C) 720/1681
+D) 800/1681
 
-A right circular cone has radius 8 cm and height 15 cm. What is the approximate volume of the cone, in cubic centimeters? (Use π ≈ 3.14.)
+A right circular cone has radius 8 cm and height 15 cm. A sphere is inscribed in the cone (touching the base and the lateral surface). What is the radius of this sphere?
 
-A) 1,004.8
-B) 3,014.4
-C) 502.4
-D) 120π
+A) 40/11 cm
+B) 24/7 cm
+C) 5 cm
+D) 120/23 cm
 
-95. A company manufactures two types of widgets. Type A costs $3 to produce and sells for $8. Type B costs $5 to produce and sells for $12. The company has a production budget of $450 and wants to maximize profit. If x represents the number of Type A widgets and y represents the number of Type B widgets produced, and the company must produce at least 20 of each type, which of the following systems represents the constraints?
+95. A company manufactures widgets at $3 each and gadgets at $5 each. They sell widgets for $8 and gadgets for $12. With a $450 production budget and requirements to produce at least 20 of each, the maximum number of gadgets they can produce while meeting all constraints is y. What is the profit when producing exactly 20 widgets and y gadgets?
 
-A) 3x + 5y ≤ 450, x ≥ 20, y ≥ 20
-B) 3x + 5y ≥ 450, x ≤ 20, y ≤ 20
-C) 8x + 12y ≤ 450, x ≥ 20, y ≥ 20
-D) 8x + 12y ≥ 450, x ≤ 20, y ≤ 20
+A) $630
+B) $666
+C) $700
+D) $736
 
-96. A piecewise function is defined as follows:
+96. A piecewise function is defined as:
 f(x) = {
   2x + 1 if x < 3
   5x - 8 if x ≥ 3
 }
-What is f(3) + f(2)?
+For what value of x does f(x) = 2f(x - 1)?
 
-A) 8
-B) 9
-C) 12
-D) 11
+A) 5/3
+B) 7/3
+C) 3
+D) 11/3
 
-97. A data set shows the relationship between study hours (x) and test scores (y) for 5 students:
-(2, 65), (4, 75), (6, 85), (8, 90), (10, 95)
-If a line of best fit has the equation y = 3.5x + 58, what is the predicted test score for a student who studies 7 hours?
+97. A data set shows study hours (x) and test scores (y): (2, 65), (4, 75), (6, 85), (8, 90), (10, 95). The line of best fit is y = 3.5x + 58. What is the residual (actual - predicted) for the student who studied 8 hours?
 
-A) 82.5
-B) 84.5
-C) 86.5
-D) 88.5
+A) -2
+B) 0
+C) 2
+D) 4
 
-98. A rational equation is given: (x + 3)/(x - 2) = 2(x + 3)/(x + 1), where x ≠ -3, x ≠ 2, and x ≠ -1. After solving and checking for extraneous solutions, which of the following is a valid solution?
+98. Solve: (x + 3)/(x - 2) - 2/(x + 1) = 1, where x ≠ 2 and x ≠ -1. The sum of all valid solutions is:
 
-A) x = -1
-B) x = 2
-C) x = 5
-D) x = -3
+A) 2
+B) 3
+C) 4
+D) 5
 
 
 ANSWER KEY
@@ -904,28 +894,28 @@ Reading & Writing (1–54)
 54. B
 
 Math (55–98)
-55. D
-56. B
+55. B
+56. C
 57. B
 58. B
 59. B
 60. A
 61. B
 62. A
-63. A
+63. B
 64. A
-65. B
+65. C
 66. A
 67. B
-68. B
-69. B
+68. D
+69. C
 70. B
-71. C
+71. A
 72. B
-73. C
+73. A
 74. C
-75. B
-76. C
+75. A
+76. D
 77. C
 78. B
 79. B
