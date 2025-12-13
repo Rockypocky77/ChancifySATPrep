@@ -503,84 +503,84 @@ D) Having evaluated all proposals carefully, making of recommendations occurred.
 
 SECTION 2: MATH (Questions 55–98)
 
-A company's cost C = 9(x + 4) and revenue R = 6(x - 5), where x is units produced. The company also has a fixed overhead cost k. If C = R + k and k = 66, what is x?
+A company's cost C = 9(x + 4) and revenue R = 6(x - 5), where x is units produced. If C = R + k where k = 66, and the profit margin m = (R - C)/x when x > 0, what is m when x = 15?
 
-A) -22
-B) -11
-C) 0
-D) 22
+A) -2
+B) -8/5
+C) -6/5
+D) -4/5
 
-If 8x - 15 ≥ 33, and x must also satisfy x ≤ 10, what is the smallest integer value of x that satisfies both requirements?
+The expression 8x - 15 must be at least 33 but no more than 73. Also, x must satisfy x ≤ 15. How many integer values of x satisfy all three requirements?
+
+A) 5
+B) 6
+C) 7
+D) 8
+
+A linear function f(x) = mx + b passes through (0, -7/2) and (5, 23/2). Another function g(x) = (2/3)x + 1 intersects f(x) at point P. What is the y-coordinate of P?
+
+A) 10/3
+B) 11/3
+C) 4
+D) 13/3
+
+If 9x + 13 = 6x + 34, and this x satisfies x² - kx + 7 = 0, what is k?
+
+A) 8
+B) 56/7
+C) 56/9
+D) 64/7
+
+If 8x + 3y = 49 and 5x - y = 22, what is (x² - y²)/(x - y)?
 
 A) 6
 B) 7
 C) 8
-D) 10
+D) 9
 
-A linear function f(x) = mx + b passes through (0, -7) and (5, 8). What is the value of m?
+For the system 7x + ky = 59 and 3x - 2y = 25, the solution satisfies x = 9. What is k, and what is the value of xy/k?
 
-A) 3
-B) -3
-C) 1/3
-D) 15
+A) k = 4, xy/k = -1/4
+B) k = 4, xy/k = -9/4
+C) k = 5, xy/k = -9/5
+D) k = 5, xy/k = 9/5
 
-If 9x + 13 = 6x + 34, what is x?
+Two linear functions f(x) = (7/2)x - 2 and g(x) = -(5/2)x + 10 intersect at point P. A third function h(x) has slope equal to the average of f and g's slopes and passes through P. What is h(0)?
 
-A) 7
-B) -7
-C) 47/3
-D) 21
-
-If 8x + 3y = 49 and 5x - y = 22, what is x?
-
-A) 5
-B) 6
-C) -5
-D) 71
-
-If 7x + 4y = 59 and x = 9, what is y?
-
-A) -1
-B) 1
-C) -4
-D) 122
-
-Two linear functions f(x) = 5x - 3 and g(x) = -3x + 21 intersect at point P. If P has coordinates (p, q), what is q?
-
-A) 3
-B) 12
-C) 21
-D) 27
-
-If 9a + 5b = 85 and a + b = 13, what is b?
-
-A) 8
+A) 4
 B) 5
-C) -8
-D) 13
+C) 6
+D) 7
 
-If x² + 8x - 48 = 0, what are the solutions?
+If 9a + 5b = 85 and a + b = 13, what is (a² - b²)/(a - b)?
 
-A) x = -12 or x = 4
-B) x = 12 or x = -4
-C) x = -4 or x = 12
-D) x = 4 or x = 12
+A) 11
+B) 13
+C) 15
+D) 17
 
-If (x - 11)² = 64, what are the possible values of x?
+A ball's height is h(t) = -4t² + 20t + 12, where h is in meters and t is in seconds. For how many seconds is the ball at or above 32 meters?
 
-A) 3 and 19
-B) -3 and -19
-C) 3 and -19
-D) -3 and 19
+A) 2 seconds
+B) 2.5 seconds
+C) 3 seconds
+D) 3.5 seconds
 
-What is the vertex of y = (x + 5)² - 8?
+If (x - 11)² = 169/4 and x must also satisfy 2x - 3 < 30, what is the sum of all valid values of x?
 
-A) (5, -8)
-B) (-5, -8)
-C) (5, 8)
-D) (-5, 8)
+A) 35/2
+B) 22
+C) 51/2
+D) Only one value exists: 15/2
 
-If x² - 13x + 42 = 0, what is the sum of the solutions?
+The parabola y = (x + 5)² - 8 has vertex V. A line with slope 4/3 passes through V. What is the x-intercept of this line?
+
+A) 1
+B) 2
+C) 3
+D) 4
+
+If x² - 13x + 42 = 0 and r, s are solutions with r < s, what is (s² - r²)/(s - r)?
 
 A) 13
 B) 42
