@@ -928,28 +928,12 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-Solve for (x):
+If 7x - 9 = 40, and this x satisfies x² - kx + 7 = 0, what is k?
 
-
- [
-
-
- 7x - 9 = 40
-
-
- ]
-
-
-A) 5
-
-
-B) 6
-
-
-C) 7
-
-
-D) 49
+A) 8
+B) 50/7
+C) 56/7
+D) 64/7
 
 
 A line passes through the points ((1, -2)) and ((5, 10)). What is the slope of the line?
@@ -967,16 +951,12 @@ C) (\dfrac{1}{3})
 D) (\dfrac{3}{2})
 
 
-The inequality (4x + 5 \le 29) is equivalent to
+The expression 4x + 5 must be at least 9 but at most 29. Also, x ≤ 8. How many integer values of x satisfy all requirements?
 
-
-A) (x \le 6)
-
-
-B) (x \le 8)
-
-
-C) (x \ge 6)
+A) 4
+B) 5
+C) 6
+D) 7
 
 
 D) (x \ge 8)

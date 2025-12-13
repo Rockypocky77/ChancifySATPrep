@@ -955,16 +955,12 @@ SECTION 2: MATH (Questions 55–98)
 Algebra – Questions 55–64
 
 
-A company's production cost C (in thousands) is modeled by C = 8(x + 2), where x is units produced. The company's revenue R is modeled by R = 5(x - 3) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 31, what is the value of x?
+A company's production cost C (in thousands) is C = 8(x + 2) and revenue R = 5(x - 3) + k. If C = R when k = 31, and profit margin m = (R - C)/x when x > 0, what is m when x = 10?
 
-A) 5
-B) 6
-
-
-C) 7
-
-
-D) 46
+A) -1
+B) -3/4
+C) -1/2
+D) -1/4
 
 
 A line passes through the points ((-1, 2)) and ((5, 14)). What is the slope of the line?
@@ -982,22 +978,12 @@ C) 4
 D) 6
 
 
-Solve the inequality:
+The expression 5x + 7 must be at least 12 but less than 32. Also, x ≤ 8. How many integer values of x satisfy all requirements?
 
-
- [
-
-
- 5x + 7 < 32
-
-
- ]
-
-
-A) (x < 5)
-
-
-B) (x > 5)
+A) 3
+B) 4
+C) 5
+D) 6
 
 
 C) (x \le 5)

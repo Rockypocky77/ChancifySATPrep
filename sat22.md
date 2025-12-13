@@ -951,16 +951,12 @@ D) 5
 The inequality (3x - 4 \le 23) is equivalent to
 
 
-A) (x \le 7)
+The expression 3x - 4 must be at least 8 but at most 32. Also, x ≤ 15. How many integer values of x satisfy all requirements?
 
-
-B) (x \le 9)
-
-
-C) (x \le 27)
-
-
-D) (x \ge 9)
+A) 8
+B) 9
+C) 10
+D) 11
 
 
 A streaming service charges a base fee of $6 plus $2.50 per month for an add-on package. If a customer's total charge for one month is $18.50, how many add-on packages did the customer pay for that month?

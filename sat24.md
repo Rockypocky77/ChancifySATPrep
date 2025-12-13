@@ -952,27 +952,20 @@ D) proposing a new strategy occurred
 SECTION 2: MATH (Questions 55–98)
 
 
-A company's production cost C (in thousands) is modeled by C = 7(x + 3), where x is units produced. The company's revenue R is modeled by R = 5(x - 9) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 0, what is the value of x?
+A company's production cost C (in thousands) is C = 7(x + 3) and revenue R = 5(x - 9) + k. If C = R when k = 66, and profit margin m = (R - C)/x when x > 0, what is m when x = 12?
 
-A) (-37)
-B) (-35)
-C) (-33)
-D) (-31)
-
-
-If (5x - 9 \ge 31), what is the smallest integer value of (x)?
+A) -1
+B) -5/6
+C) -2/3
+D) -1/2
 
 
-A) 7
+The expression 5x - 9 must be at least 31 but at most 66. Also, x ≤ 18. How many integer values of x satisfy all requirements?
 
-
-B) 8
-
-
-C) 9
-
-
-D) 10
+A) 6
+B) 7
+C) 8
+D) 9
 
 
 A line passes through points ((0, -2)) and ((4, 14)). What is the slope of the line?

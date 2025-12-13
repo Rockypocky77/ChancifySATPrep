@@ -949,33 +949,19 @@ D) drafting recommendations occurred
 SECTION 2: MATH (Questions 55–98)
 
 
-If (6(x + 4) = 3(x - 8)), what is (x)?
+A company's production cost C (in thousands) is C = 6(x + 4) and revenue R = 3(x - 8) + k. If C = R when k = 48, and profit margin m = (R - C)/x when x > 0, what is m when x = 12?
+
+A) -1
+B) -3/4
+C) -1/2
+D) -1/4
 
 
-A) -20
-
-
-B) -18
-
-
-C) -16
-
-
-D) -14
-
-
-If (5x - 13 \ge 27), what is the smallest integer value of (x)?
-
+The expression 5x - 13 must be at least 27 but at most 62. Also, x ≤ 18. How many integer values of x satisfy all requirements?
 
 A) 6
-
-
 B) 7
-
-
 C) 8
-
-
 D) 9
 
 

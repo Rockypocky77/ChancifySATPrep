@@ -967,32 +967,19 @@ D) implementing several policy changes occurred
 SECTION 2: MATH (Questions 55–98)
 
 
-A company's production cost C (in thousands) is modeled by C = 6(x + 4), where x is units produced. The company's revenue R is modeled by R = 5(x - 2) + k, where k is a fixed base revenue. If the company breaks even when C = R and k = 34, what is the value of x?
+A company's production cost C (in thousands) is C = 6(x + 4) and revenue R = 5(x - 2) + k. If C = R when k = 34, and profit margin m = (R - C)/x when x > 0, what is m when x = 10?
 
-A) (-40)
-
-
-B) (-36)
-
-
-C) (-34)
+A) -1
+B) -4/5
+C) -3/5
+D) -2/5
 
 
-D) (-30)
-
-
-If (5x - 9 \ge 31), what is the smallest integer value of (x)?
-
+The expression 5x - 9 must be at least 31 but at most 61. Also, x ≤ 15. How many integer values of x satisfy all requirements?
 
 A) 6
-
-
 B) 7
-
-
 C) 8
-
-
 D) 9
 
 
